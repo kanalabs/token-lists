@@ -196,6 +196,15 @@
         "chainId": 137
     },
     {
+        "address": "0x576Cf361711cd940CD9C397BB98C4C896cBd38De",
+        "chainId": 137,
+        "decimals": 6,
+        "name": "USD Coin (Wormhole Solana)",
+        "symbol": "USDCSo",
+        "logoURI": "https://polygonscan.com/token/images/wormholeusdcsol_32.png",
+        "coingeckoId": "usd-coin"
+    },
+    {
         "symbol": "DMT",
         "name": "Dark Matter Token",
         "decimals": 18,
