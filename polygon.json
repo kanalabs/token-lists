@@ -2076,5 +2076,15 @@
     "tags": ["tokens"],
     "coingeckoId": "stader-maticx",
     "chainId": 137
+  },
+  {
+    "symbol": "ankrMATIC",
+    "name": "Ankr Staked MATIC",
+    "decimals": 18,
+    "address": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
+    "logoURI": "https://polygonscan.com/token/images/ankramaticc_32.png",
+    "tags": ["tokens"],
+    "coingeckoId": "ankr-reward-earning-matic",
+    "chainId": 137
   }
 ]
