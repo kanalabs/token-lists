@@ -170,6 +170,15 @@
         "coingeckoId": "usd-coin"
     },
     {
+        "address": "0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0",
+        "chainId": 56,
+        "decimals": 6,
+        "name": "USD Coin (Wormhole Solona)",
+        "symbol": "USDCSo",
+        "logoURI": "https://bscscan.com/token/images/wormholeusdcsol_32.png",
+        "coingeckoId": "usd-coin"
+    },
+    {
         "symbol": "LINK",
         "name": "ChainLink Token",
         "decimals": 18,
