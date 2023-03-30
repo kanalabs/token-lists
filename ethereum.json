@@ -225,8 +225,17 @@
         "chainId": 1
     },
     {
+        "address": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
+        "chainId": 1,
+        "decimals": 6,
+        "name": "USD Coin (Wormhole Solona)",
+        "symbol": "USDCSo",
+        "logoURI": "https://etherscan.io/token/images/wormholeusdc_32.png",
+        "coingeckoId": "usd-coin"
+    },
+    {
         "symbol": "BTC++",
-        "name": "PieDAO BTC++",
+        "name": "P0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1eDAO BTC++",
         "decimals": 18,
         "address": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
         "logoURI": "https://tokens.1inch.io/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png",
