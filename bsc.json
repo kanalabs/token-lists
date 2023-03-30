@@ -161,6 +161,15 @@
         "chainId": 56
     },
     {
+        "address": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+        "chainId": 56,
+        "decimals": 6,
+        "name": "USD Coin (Wormhole Ethereum)",
+        "symbol": "USDCEt",
+        "logoURI": "https://bscscan.com/token/images/wormholeusdceth_32.png",
+        "coingeckoId": "usd-coin"
+    },
+    {
         "symbol": "LINK",
         "name": "ChainLink Token",
         "decimals": 18,
