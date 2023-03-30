@@ -234,6 +234,15 @@
         "coingeckoId": "usd-coin"
     },
     {
+        "address": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
+        "chainId": 1,
+        "decimals": 6,
+        "name": "USD Coin (Wormhole Polygon)",
+        "symbol": "USDCPo",
+        "logoURI": "https://etherscan.io/token/images/wormholeusdccoinpos_32.png",
+        "coingeckoId": "usd-coin"
+    },
+    {
         "symbol": "BTC++",
         "name": "P0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1eDAO BTC++",
         "decimals": 18,
