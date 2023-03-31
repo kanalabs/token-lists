@@ -1,5 +1,26 @@
 [
   {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": ["native", "PEG:ETH"],
+    "coingeckoId": "ethereum",
+    "chainId": 1
+  },
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "wrappedNative": "true",
+    "tags": ["tokens", "PEG:ETH"],
+    "coingeckoId": "weth",
+    "chainId": 1
+  },
+  {
     "symbol": "USDT",
     "name": "Tether USD",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -22,16 +43,6 @@
     "chainId": 1
   },
   {
-    "symbol": "BUSD",
-    "name": "Binance USD",
-    "decimals": 18,
-    "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-    "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
-    "tags": ["tokens", "PEG:USD"],
-    "coingeckoId": "binance-usd",
-    "chainId": 1
-  },
-  {
     "symbol": "SHIB",
     "name": "SHIBA INU",
     "decimals": 18,
@@ -39,27 +50,6 @@
     "logoURI": "https://tokens.1inch.io/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png",
     "tags": ["tokens"],
     "coingeckoId": "shiba-inu",
-    "chainId": 1
-  },
-  {
-    "symbol": "STAKE",
-    "name": "STAKE",
-    "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
-    "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0x0ae055097c6d159879521c384f1d2123d1f195e6.png",
-    "eip2612": true,
-    "tags": ["tokens"],
-    "coingeckoId": "xdai-stake",
-    "chainId": 1
-  },
-  {
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "decimals": 8,
-    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
-    "tags": ["tokens", "PEG:BTC"],
-    "coingeckoId": "wrapped-bitcoin",
     "chainId": 1
   },
   {
@@ -83,6 +73,39 @@
     "coingeckoId": "uniswap",
     "chainId": 1
   },
+  {
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
+    "tags": ["tokens", "PEG:USD"],
+    "coingeckoId": "binance-usd",
+    "chainId": 1
+  },
+
+  {
+    "symbol": "STAKE",
+    "name": "STAKE",
+    "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x0ae055097c6d159879521c384f1d2123d1f195e6.png",
+    "eip2612": true,
+    "tags": ["tokens"],
+    "coingeckoId": "xdai-stake",
+    "chainId": 1
+  },
+  {
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "tags": ["tokens", "PEG:BTC"],
+    "coingeckoId": "wrapped-bitcoin",
+    "chainId": 1
+  },
+
   {
     "symbol": "LDO",
     "name": "Lido DAO Token",
@@ -184,8 +207,26 @@
     "chainId": 1
   },
   {
+    "address": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
+    "chainId": 1,
+    "decimals": 6,
+    "name": "USD Coin (Wormhole Solona)",
+    "symbol": "USDCSo",
+    "logoURI": "https://etherscan.io/token/images/wormholeusdc_32.png",
+    "coingeckoId": "usd-coin"
+  },
+  {
+    "address": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
+    "chainId": 1,
+    "decimals": 6,
+    "name": "USD Coin (Wormhole Polygon)",
+    "symbol": "USDCPo",
+    "logoURI": "https://etherscan.io/token/images/wormholeusdccoinpos_32.png",
+    "coingeckoId": "usd-coin"
+  },
+  {
     "symbol": "BTC++",
-    "name": "PieDAO BTC++",
+    "name": "P0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1eDAO BTC++",
     "decimals": 18,
     "address": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd",
     "logoURI": "https://tokens.1inch.io/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png",
@@ -1121,17 +1162,7 @@
     "coingeckoId": null,
     "chainId": 1
   },
-  {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "decimals": 18,
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
-    "wrappedNative": "true",
-    "tags": ["tokens", "PEG:ETH"],
-    "coingeckoId": "weth",
-    "chainId": 1
-  },
+
   {
     "symbol": "cWBTC",
     "name": "Compound Wrapped BTC",
@@ -1473,16 +1504,6 @@
     "logoURI": "https://tokens.1inch.io/0x00000000441378008ea67f4284a57932b1c000a5.png",
     "tags": ["tokens"],
     "coingeckoId": null,
-    "chainId": 1
-  },
-  {
-    "symbol": "ETH",
-    "name": "Ethereum",
-    "decimals": 18,
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
-    "tags": ["native", "PEG:ETH"],
-    "coingeckoId": "ethereum",
     "chainId": 1
   },
   {

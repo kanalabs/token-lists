@@ -71,6 +71,15 @@
     "chainId": 8217
   },
   {
+    "address": "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
+    "chainId": 8217,
+    "decimals": 6,
+    "name": "USD Coin (Wormhole Ethereum)",
+    "symbol": "USDCEt",
+    "logoURI": "https://etherscan.io/token/images/USDCmulti_32.png",
+    "coingeckoId": "usd-coin"
+  },
+  {
     "symbol": "SSX",
     "name": "Somesing Exchange",
     "decimals": 18,
