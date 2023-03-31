@@ -76,7 +76,7 @@
     "decimals": 6,
     "name": "USD Coin (Wormhole Ethereum)",
     "symbol": "USDCEt",
-    "logoURI": "https://scope.klaytn.com/icons/bridgeIcon/tokenListIcon/nomal-icon.png",
+    "logoURI": "https://etherscan.io/token/images/USDCmulti_32.png",
     "coingeckoId": "usd-coin"
   },
   {
