@@ -170,6 +170,15 @@
     "coingeckoId": "usd-coin"
   },
   {
+    "address": "0x4318CB63A2b8edf2De971E2F17F77097e499459D",
+    "chainId": 137,
+    "decimals": 6,
+    "name": "USD Coin (Wormhole Ethereum)",
+    "symbol": "USDCEt",
+    "logoURI": "https://polygonscan.com/token/images/wormholeusdceth_32.png",
+    "coingeckoId": "usd-coin"
+  },
+  {
     "symbol": "DMT",
     "name": "Dark Matter Token",
     "decimals": 18,
