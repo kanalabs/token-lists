@@ -53,17 +53,6 @@
     "chainId": 250
   },
   {
-    "symbol": "WFTM",
-    "name": "Wrapped Fantom",
-    "decimals": 18,
-    "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
-    "logoURI": "https://tokens.1inch.io/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png",
-    "wrappedNative": "true",
-    "tags": ["tokens", "PEG:FTM"],
-    "coingeckoId": "wrapped-fantom",
-    "chainId": 250
-  },
-  {
     "symbol": "fUSDT",
     "name": "Frapped USDT",
     "decimals": 6,
@@ -141,13 +130,15 @@
     "chainId": 250
   },
   {
-    "address": "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6",
-    "chainId": 250,
-    "decimals": 6,
-    "name": "USD Coin (Wormhole Ethereum)",
-    "symbol": "USDCEt",
-    "logoURI": "https://etherscan.io/token/images/USDCmulti_32.png",
-    "coingeckoId": "usd-coin"
+    "symbol": "WFTM",
+    "name": "Wrapped Fantom",
+    "decimals": 18,
+    "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "logoURI": "https://tokens.1inch.io/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png",
+    "wrappedNative": "true",
+    "tags": ["tokens", "PEG:FTM"],
+    "coingeckoId": "wrapped-fantom",
+    "chainId": 250
   },
   {
     "symbol": "YFI",
