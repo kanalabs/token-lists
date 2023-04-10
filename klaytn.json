@@ -20,6 +20,16 @@
     "chainId": 8217
   },
   {
+    "address": "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
+    "symbol": "USDC",
+    "decimals": 18,
+    "name": "USD Coin (Wormhole)",
+    "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
+    "tags": ["tokens", "PEG:USD"],
+    "coingeckoId": "usd-coin",
+    "chainId": 8217
+  },
+  {
     "symbol": "WKLAY",
     "name": "Wrapped Klay",
     "decimals": 18,
