@@ -23,7 +23,17 @@
     "address": "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
     "symbol": "USDC",
     "decimals": 6,
-    "name": "USD Coin (Wormhole)",
+    "name": "USD Coin (Wormhole Ethereum)",
+    "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
+    "tags": ["tokens", "PEG:USD"],
+    "coingeckoId": "usd-coin",
+    "chainId": 8217
+  },
+  {
+    "address": "0xa1a7feeD29EbFa38079D943486c23f401939Ce80",
+    "symbol": "USDC",
+    "decimals": 6,
+    "name": "USD Coin (Wormhole Solona)",
     "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png",
     "tags": ["tokens", "PEG:USD"],
     "coingeckoId": "usd-coin",
