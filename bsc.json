@@ -21,13 +21,14 @@
     "chainId": 56
   },
   {
-    "symbol": "CHI",
-    "name": "Chi Gastoken by 1inch",
-    "decimals": 0,
-    "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
-    "logoURI": "https://tokens.1inch.io/0x0000000000004946c0e9f43f4dee607b0ef1fa1c.png",
-    "tags": ["tokens"],
-    "coingeckoId": null,
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "logoURI": "https://polygonscan.com/token/images/wETH_32.png",
+    "wrappedNative": "true",
+    "tags": ["tokens", "PEG:BNB"],
+    "coingeckoId": "weth",
     "chainId": 56
   },
   {
@@ -195,6 +196,16 @@
     "decimals": 18,
     "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
     "logoURI": "https://tokens.1inch.io/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 56
+  },
+  {
+    "symbol": "CHI",
+    "name": "Chi Gastoken by 1inch",
+    "decimals": 0,
+    "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+    "logoURI": "https://tokens.1inch.io/0x0000000000004946c0e9f43f4dee607b0ef1fa1c.png",
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 56
