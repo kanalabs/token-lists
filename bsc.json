@@ -4,7 +4,7 @@
     "name": "BNB",
     "decimals": 18,
     "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png",
+    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
     "tags": ["native"],
     "coingeckoId": "binancecoin",
     "chainId": 56
@@ -14,7 +14,7 @@
     "name": "Wrapped BNB",
     "decimals": 18,
     "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c_1.png",
+    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
     "wrappedNative": "true",
     "tags": ["tokens", "PEG:BNB"],
     "coingeckoId": "wbnb",
