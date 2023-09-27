@@ -9,3 +9,7 @@
 - Binance
 - Fantom
 - Klaytn
+- Arbitrum
+- Avalanche
+- Base
+- Zksync
