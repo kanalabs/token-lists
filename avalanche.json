@@ -977,6 +977,78 @@
       "address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
       "logoURI": "https://tokens.1inch.io/0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b.png",
       "tags": ["tokens", "PEG:USD"]
+    },
+    "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA": {
+      "symbol": "USDCso",
+      "name": "USD Coin (Portal from Solana)",
+      "decimals": 6,
+      "address": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": ["tokens"]
+    },
+    "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
+      "symbol": "USDTso",
+      "name": "Tether USD (Portal from Solana)",
+      "decimals": 6,
+      "address": "0xF0FF231e3F1A50F83136717f287ADAB862f89431",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": ["tokens"]
+    },
+    "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
+      "symbol": "USDCet",
+      "name": "USD Coin (Portal from Ethereum)",
+      "decimals": 6,
+      "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": ["tokens"]
+    },
+    "0x6145E8a910aE937913426BF32De2b26039728ACF": {
+      "symbol": "USDCbs",
+      "name": "USD Coin (Portal from BSC)",
+      "decimals": 18,
+      "address": "0x6145E8a910aE937913426BF32De2b26039728ACF",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": ["tokens"]
+    },
+    "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B": {
+      "symbol": "USDTbs",
+      "name": "Tether USD (Portal from BSC)",
+      "decimals": 18,
+      "address": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": ["tokens"]
+    },
+    "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
+      "symbol": "MATICpo",
+      "name": "MATIC (Portal from Polygon)",
+      "decimals": 18,
+      "address": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb",
+      "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+      "tags": ["tokens"]
+    },
+    "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8": {
+      "symbol": "USDCpo",
+      "name": "USD Coin (Portal from Polygon)",
+      "decimals": 6,
+      "address": "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": ["tokens"]
+    },
+    "0x442F7f22b1EE2c842bEAFf52880d4573E9201158": {
+      "symbol": "BNB",
+      "name": "Binance Coin (Portal)",
+      "decimals": 18,
+      "address": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BNB_wh.png",
+      "tags": ["tokens"]
+    },
+    "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a": {
+      "symbol": "BUSD",
+      "name": "Binance USD (Portal from BSC)",
+      "decimals": 18,
+      "address": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDbs_wh.png",
+      "tags": ["tokens"]
     }
   }
 ]

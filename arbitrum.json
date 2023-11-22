@@ -595,6 +595,38 @@
       "logoURI": "https://tokens.1inch.io/0xc19669a405067927865b40ea045a2baabbbe57f5.png",
       "eip2612": true,
       "tags": ["tokens"]
+    },
+    "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74": {
+      "symbol": "BONK",
+      "name": "BONK (Portal)",
+      "decimals": 5,
+      "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/BONK.png",
+      "tags": ["tokens"]
+    },
+    "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "decimals": 18,
+      "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "logoURI": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "tags": ["tokens"]
+    },
+    "0xa61F74247455A40b01b0559ff6274441FAfa22A3": {
+      "symbol": "MGP",
+      "name": "Magpie",
+      "decimals": 18,
+      "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+      "logoURI": "https://assets.coingecko.com/coins/images/27972/small/MagpieLogo.png?1666771448",
+      "tags": ["tokens"]
+    },
+    "0xf00D8790A76ee5A5Dbc10eaCac39151aa2af0331": {
+      "symbol": "QUO",
+      "name": "Quoll Finance",
+      "decimals": 18,
+      "address": "0xf00D8790A76ee5A5Dbc10eaCac39151aa2af0331",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22468.png",
+      "tags": ["tokens"]
     }
   }
 ]

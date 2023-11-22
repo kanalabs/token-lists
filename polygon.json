@@ -2105,5 +2105,85 @@
     "tags": ["tokens"],
     "coingeckoId": "ankr-reward-earning-matic",
     "chainId": 137
+  },
+  {
+    "symbol": "BONK",
+    "name": "BONK (Portal)",
+    "decimals": 5,
+    "address": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/BONK.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "TBTC",
+    "name": "Threshold Bitcoin",
+    "decimals": 18,
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "logoURI": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "USDTso",
+    "name": "Tether USD (Portal from Solana)",
+    "decimals": 6,
+    "address": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ether (Portal)",
+    "decimals": 18,
+    "address": "0x11CD37bb86F65419713f30673A480EA33c826872",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "USDTet",
+    "name": "Tether USD (Portal from Ethereum)",
+    "decimals": 6,
+    "address": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "WBTC",
+    "name": "Wrapped BTC (Portal)",
+    "decimals": 8,
+    "address": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+    "logoURI": "https://etherscan.io/token/images/wbtc_28.png?v=1",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "AVAX",
+    "name": "AVAX (Portal)",
+    "decimals": 18,
+    "address": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "BUSD",
+    "name": "Binance USD (Portal from BSC)",
+    "decimals": 18,
+    "address": "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
   }
 ]

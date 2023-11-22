@@ -8732,5 +8732,95 @@
     "tags": ["tokens"],
     "coingeckoId": "bilira",
     "chainId": 1
+  },
+  {
+    "symbol": "BONK",
+    "name": "BONK (Portal)",
+    "decimals": 5,
+    "address": "0x1151CB3d861920e07a38e03eEAd12C32178567F6",
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/BONK.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "KING",
+    "name": "BONK (Portal)",
+    "decimals": 9,
+    "address": "0xE28027c99C7746fFb56B0113e5d9708aC86fAE8f",
+    "logoURI": "https://static.wixstatic.com/media/326cf0_041cbca6882f4388b105ed00ac68188c~mv2.png/v1/crop/x_77,y_0,w_343,h_358/fill/w_319,h_332,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/326cf0_041cbca6882f4388b105ed00ac68188c~mv2.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "RAY",
+    "name": "Raydium (Portal)",
+    "decimals": 6,
+    "address": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "TBTC",
+    "name": "Threshold Bitcoin",
+    "decimals": 18,
+    "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+    "logoURI": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "USDTso",
+    "name": "Tether USD (Portal from Solana)",
+    "decimals": 6,
+    "address": "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "USDCbs",
+    "name": "Tether USD (Portal from BSC)",
+    "decimals": 18,
+    "address": "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "MATICpo",
+    "name": "MATIC (Portal from Polygon)",
+    "decimals": 18,
+    "address": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
+    "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "AVAX",
+    "name": "AVAX (Portal)",
+    "decimals": 18,
+    "address": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
+  },
+  {
+    "symbol": "BUSD",
+    "name": "Binance USD (Portal from BSC)",
+    "decimals": 18,
+    "address": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDbs_wh.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
   }
 ]
