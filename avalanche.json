@@ -681,15 +681,6 @@
       "eip2612": true,
       "tags": ["tokens"]
     },
-    "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64": {
-      "symbol": "FRAX",
-      "name": "Frax",
-      "decimals": 18,
-      "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
-      "logoURI": "https://tokens.1inch.io/0x853d955acef822db058eb8505911ed77f175b99e.png",
-      "eip2612": true,
-      "tags": ["tokens"]
-    },
     "0x026187bdbc6b751003517bcb30ac7817d5b766f8": {
       "symbol": "H2O",
       "name": "Defrost Finance H2O",
