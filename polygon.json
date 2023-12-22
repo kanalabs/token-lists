@@ -2181,7 +2181,7 @@
     "name": "Binance USD (Portal from BSC)",
     "decimals": 18,
     "address": "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDbs_wh.png",
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 137
