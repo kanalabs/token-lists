@@ -2185,5 +2185,25 @@
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 137
+  },
+  {
+    "symbol": "WBNB",
+    "name": "Wrapped BNB (Wormhole)",
+    "decimals": 18,
+    "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BNB_wh.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
+  },
+  {
+    "symbol": "tBTC",
+    "name": "Arbitrum tBTC v2",
+    "decimals": 18,
+    "address": "0x045d8c62d5326aa51a31518ecf3af80c17421aba",
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/TBTC_wh.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
   }
 ]
