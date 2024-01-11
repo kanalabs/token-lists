@@ -3929,7 +3929,7 @@
   {
     "symbol": "MGP",
     "name": "Magpie",
-    "decimals": 9,
+    "decimals": 18,
     "address": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
     "logoURI": "https://assets.coingecko.com/coins/images/27972/small/MagpieLogo.png?1666771448",
     "tags": ["tokens"],
