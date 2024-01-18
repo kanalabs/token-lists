@@ -2205,5 +2205,15 @@
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 137
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "logoURI": "https://tokens-data.1inch.io/images/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 137
   }
 ]
