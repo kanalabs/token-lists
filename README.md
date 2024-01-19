@@ -4,12 +4,15 @@
 
 ## Supported chains
 
-- Ethereum
-- Polygon
-- Binance
-- Fantom
-- Klaytn
+- Aptos
 - Arbitrum
 - Avalanche
 - Base
+- Binance
+- Ethereum
+- Fantom
+- Klaytn
+- Polygon
+- Solana
+- Sui
 - Zksync
