@@ -3967,8 +3967,8 @@
     "chainId": 56
   },
   {
-    "symbol": "AVAX",
-    "name": "AVAX (Portal)",
+    "symbol": "WAVAX",
+    "name": "WAVAX (Portal)",
     "decimals": 18,
     "address": "0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
