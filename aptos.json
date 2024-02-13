@@ -1625,7 +1625,7 @@
     "name": "DooDoo",
     "symbol": "doodoo",
     "official_symbol": "doodoo",
-    "coingecko_id": "",
+    "coingecko_id": "doodoo",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/pontem-network/coins-registry/main/src/coins-logos/doodoo.svg",
     "project_url": "",
