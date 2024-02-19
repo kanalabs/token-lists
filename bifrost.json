@@ -1,0 +1,21 @@
+[
+  {
+    "address": "0xb9a0cD57d3d6Bc6Ba6B9Dc758E017316c3E1CF24",
+    "symbol": "WITH",
+    "name": "Chainwith",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrost/tokens/images/empty-token.png"
+  },
+  {
+    "name": "Unified USDC",
+    "address": "0x640952E7984f2ECedeAd8Fd97aA618Ab1210A21C",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/asset-info-v2/main/assets/usdc-0/image-256.png"
+  },
+  {
+    "name": "Unified BFC (BFC)",
+    "address": "0xAe172D8c5E428D4b7C70f9E593b207F9daC9BF3e",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrost/tokens/images/empty-token.png"
+  }
+]
