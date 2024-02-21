@@ -1,0 +1,33 @@
+[
+  {
+    "address": "0xb9a0cD57d3d6Bc6Ba6B9Dc758E017316c3E1CF24",
+    "symbol": "WITH",
+    "name": "Chainwith",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrost/tokens/images/empty-token.png"
+  },
+  {
+    "name": "Unified USDC",
+    "address": "0x28661511CDA7119B2185c647F23106a637CC074f",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/asset-info-v2/main/assets/usdc-0/image-256.png"
+  },
+  {
+    "name": "Unified USDT",
+    "address": "0x815e850CDDb2BB8C8afb61266525daFfB9adD7dc",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/asset-info-v2/main/assets/usdt-0/image-256.png"
+  },
+  {
+    "name": "Unified BFC (BFC)",
+    "address": "0xB0fF18CB2d0F3f51a9c54Af862ed98f3caa027A1",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrosttest1/tokens/images/empty-token.png"
+  },
+  {
+    "name": "Unified ETH",
+    "address": "0xc83EEd1bf5464eD5383bc3342b918E08f6815950",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/bifrost-platform/asset-info-v2/main/assets/eth-0/image-256.png"
+  }
+]
