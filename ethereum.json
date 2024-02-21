@@ -8822,5 +8822,15 @@
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 1
+  },
+  {
+    "symbol": "USDe ",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 1
   }
 ]
