@@ -1077,7 +1077,7 @@
       "data": [["bridge", "wormhole"]]
     },
     "unique_index": 2991,
-    "source": "wormhole"
+    "source": "wormhole",
     "pancake_symbol": "whXCN"
   },
   {
@@ -1451,7 +1451,7 @@
     },
     "unique_index": 228,
     "source": "native"
-  }.
+  },
   {
     "name": "Blocto Token",
     "symbol": "BLT",
