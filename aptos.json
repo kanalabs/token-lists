@@ -1073,7 +1073,7 @@
     "symbol": "SHRIMP",
     "official_symbol": "SHRIMP",
     "coingecko_id": "",
-    "decimals": 6,
+    "decimals": 8,
     "logo_url": "https://dd.dexscreener.com/ds-data/tokens/aptos/0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::shrimpcoin.png?size=lg&key=fa3d9a",
     "token_type": {
       "type": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
