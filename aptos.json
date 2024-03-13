@@ -1058,7 +1058,7 @@
     "name": "Gui Inu",
     "symbol": "GUI",
     "official_symbol": "GUI",
-    "coingecko_id": "",
+    "coingecko_id": "gui-inu",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/GUI.png",
     "token_type": {
