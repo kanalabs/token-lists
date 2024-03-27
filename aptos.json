@@ -15,6 +15,62 @@
     }
   },
   {
+    "name": "USD Coin (LayerZero)",
+    "symbol": "zUSDC",
+    "official_symbol": "USDC",
+    "coingecko_id": "usd-coin",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
+    "token_type": {
+      "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+      "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
+      "module_name": "asset",
+      "struct_name": "USDC"
+    }
+  },
+  {
+    "name": "USD Tether (LayerZero)",
+    "symbol": "zUSDT",
+    "official_symbol": "USDT",
+    "coingecko_id": "tether",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
+    "token_type": {
+      "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+      "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
+      "module_name": "asset",
+      "struct_name": "USDT"
+    }
+  },
+  {
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDC",
+    "official_symbol": "USDC",
+    "coingecko_id": "usd-coin",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
+    "token_type": {
+      "type": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+      "account_address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea",
+      "module_name": "coin",
+      "struct_name": "T"
+    }
+  },
+  {
+    "name": "Tether USD (Wormhole)",
+    "symbol": "USDT",
+    "official_symbol": "USDT",
+    "coingecko_id": "tether",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
+    "token_type": {
+      "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+      "account_address": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852",
+      "module_name": "coin",
+      "struct_name": "T"
+    }
+  },
+  {
     "name": "Meeiro",
     "symbol": "MEE",
     "official_symbol": "MEE",
@@ -495,34 +551,6 @@
     }
   },
   {
-    "name": "USD Coin (Wormhole)",
-    "symbol": "USDC",
-    "official_symbol": "USDC",
-    "coingecko_id": "usd-coin",
-    "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
-    "token_type": {
-      "type": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
-      "account_address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea",
-      "module_name": "coin",
-      "struct_name": "T"
-    }
-  },
-  {
-    "name": "Tether USD (Wormhole)",
-    "symbol": "USDT",
-    "official_symbol": "USDT",
-    "coingecko_id": "tether",
-    "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
-    "token_type": {
-      "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
-      "account_address": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852",
-      "module_name": "coin",
-      "struct_name": "T"
-    }
-  },
-  {
     "name": "Wrapped BTC (Wormhole)",
     "symbol": "WBTC",
     "official_symbol": "WBTC",
@@ -789,34 +817,6 @@
     }
   },
   {
-    "name": "USD Coin (LayerZero)",
-    "symbol": "zUSDC",
-    "official_symbol": "USDC",
-    "coingecko_id": "usd-coin",
-    "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
-    "token_type": {
-      "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
-      "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
-      "module_name": "asset",
-      "struct_name": "USDC"
-    }
-  },
-  {
-    "name": "USD Tether (LayerZero)",
-    "symbol": "zUSDT",
-    "official_symbol": "USDT",
-    "coingecko_id": "tether",
-    "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
-    "token_type": {
-      "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
-      "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
-      "module_name": "asset",
-      "struct_name": "USDT"
-    }
-  },
-  {
     "name": "Wrapped Ether (LayerZero)",
     "symbol": "zWETH",
     "official_symbol": "WETH",
@@ -1073,7 +1073,7 @@
     "symbol": "SHRIMP",
     "official_symbol": "SHRIMP",
     "coingecko_id": "",
-    "decimals": 8,
+    "decimals": 2,
     "logo_url": "https://dd.dexscreener.com/ds-data/tokens/aptos/0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::shrimpcoin.png?size=lg&key=fa3d9a",
     "token_type": {
       "type": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
