@@ -7837,5 +7837,14 @@
     "symbol": "CHP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DHVUoxNqv3D7EgktBxUsxFF2Wx83hVDmD2wBBpUaw3jn/logo.png",
     "tags": ["old-registry", "solana-fm"]
+  },
+  {
+    "address": "JDwzFSxcUvLubUb9xAuuZNvh4bbcEJcuM9TezpmRHVWF",
+    "chainId": 101,
+    "decimals": 8,
+    "name": "DooDoo (Wormhole)",
+    "symbol": "doodoo",
+    "logoURI": "https://nftstorage.link/ipfs/bafybeidyutrgtbcw2oxfajdty7kyd3slwqbxval2itdfingeop4324cdjy",
+    "tags": ["community"]
   }
 ]
