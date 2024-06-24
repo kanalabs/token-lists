@@ -1,0 +1,14 @@
+name: Stale branch removal
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call-security-scan:
+    uses: kanalabs/devops_workflow/.github/workflows/security-scan.yaml@main
+    with:
+      exempt-branches-regex: "^(main|master|develop)$"
+      days-before-branch-stale: 60
+      days-before-branch-delete: 7
+      dry-run: true
+    secrets: inherit
