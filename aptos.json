@@ -131,6 +131,20 @@
     }
   },
   {
+    "name": "Liquidswap",
+    "symbol": "LSD",
+    "official_symbol": "LSD",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LSD.png",
+    "token_type": {
+      "type": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
+      "account_address": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719",
+      "module_name": "coin",
+      "struct_name": "LSD"
+    }
+  },
+  {
     "name": "Aptopad Coin",
     "symbol": "APD",
     "official_symbol": "APD",
