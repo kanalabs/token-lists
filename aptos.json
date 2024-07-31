@@ -134,7 +134,7 @@
     "name": "Liquidswap",
     "symbol": "LSD",
     "official_symbol": "LSD",
-    "coingecko_id": "",
+    "coingecko_id": "pontem-liquidswap",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LSD.png",
     "token_type": {
