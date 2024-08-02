@@ -388,7 +388,7 @@
     "name": "UPTOS",
     "symbol": "UPTOS",
     "official_symbol": "UPTOS",
-    "coingecko_id": "",
+    "coingecko_id": "uptos",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/UPTOS.svg",
     "project_url": "https://uptos.xyz",
