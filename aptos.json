@@ -223,7 +223,7 @@
     "name": "Amnis Aptos Coin",
     "symbol": "amAPT",
     "official_symbol": "amAPT",
-    "coingecko_id": "",
+    "coingecko_id": "amnis-aptos",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/amAPT.svg",
     "project_url": "https://stake.amnis.finance/",
