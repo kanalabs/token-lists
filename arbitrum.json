@@ -627,6 +627,15 @@
       "address": "0xf00D8790A76ee5A5Dbc10eaCac39151aa2af0331",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22468.png",
       "tags": ["tokens"]
-    }
+    },
+    {
+    "0xd59d5827262EbE4cCD262915136C95751d7ef935": {
+      "symbol": "T_OFT",
+      "name": "OFT Test Token",
+      "decimals": 18,
+      "address": "0xd59d5827262EbE4cCD262915136C95751d7ef935",
+      "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+      "tags": ["native"]
+    },
   }
 ]
