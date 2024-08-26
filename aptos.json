@@ -801,7 +801,7 @@
     "name": "USD Coin (Wormhole Solana)",
     "symbol": "USDCso",
     "official_symbol": "USDC",
-    "coingecko_id": "",
+    "coingecko_id": "usd-coin",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
     "token_type": {
@@ -1271,6 +1271,21 @@
       "account_address": "0xe88ae9670071da40a9a6b1d97aab8f6f1898fdc3b8f1c1038b492dfad738448b",
       "module_name": "coin",
       "struct_name": "Donk"
+    }
+  },
+  {
+    "name": "The Loonies",
+    "symbol": "LOON",
+    "official_symbol": "LOON",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/loon.webp",
+    "project_url": "https://springers.co.in/",
+    "token_type": {
+      "type": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
+      "account_address": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6",
+      "module_name": "loon_coin",
+      "struct_name": "Loon_Coin"
     }
   },
   {
