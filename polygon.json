@@ -2215,5 +2215,15 @@
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 137
-  }
+  },
+   {
+    "symbol": "T_OFT",
+    "name": "OFT Test Toke",
+    "decimals": 18,
+    "address": "0x4A61A9eaDc7902D38aB3E819E428f0da108646C6",
+    "logoURI": "https://polygonscan.com/token/images/wETH_32.png",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 137
+  },
 ]
