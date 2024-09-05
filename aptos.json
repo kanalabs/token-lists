@@ -1286,5 +1286,20 @@
       "module_name": "APTOS_FOMO",
       "struct_name": "APTOS_FOMO"
     }
+  },
+  {
+    "name": "Merkle",
+    "symbol": "MKL",
+    "official_symbol": "MKL",
+    "coingecko_id": "aptos",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MKL.png",
+    "project_url": "https://aptoslabs.com/",
+    "token_type": {
+      "type": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06::mkl_token::MKL",
+      "account_address": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06",
+      "module_name": "mkl_token",
+      "struct_name": "MKL"
+    }
   }
 ]
