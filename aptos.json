@@ -1291,7 +1291,7 @@
     "name": "Merkle",
     "symbol": "MKL",
     "official_symbol": "MKL",
-    "coingecko_id": "aptos",
+    "coingecko_id": "",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MKL.png",
     "project_url": "https://aptoslabs.com/",
