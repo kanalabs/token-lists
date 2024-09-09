@@ -12,7 +12,8 @@
       "account_address": "0x1",
       "module_name": "aptos_coin",
       "struct_name": "AptosCoin"
-    }
+    },
+    "address":"0xa"
   },
   {
     "name": "USD Coin (LayerZero)",
@@ -26,7 +27,8 @@
       "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
       "module_name": "asset",
       "struct_name": "USDC"
-    }
+    },
+    "address":"0x2b3be0a97a73c87ff62cbdd36837a9fb5bbd1d7f06a73b7ed62ec15c5326c1b8"
   },
   {
     "name": "USD Tether (LayerZero)",
@@ -54,7 +56,8 @@
       "account_address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea",
       "module_name": "coin",
       "struct_name": "T"
-    }
+    },
+    "address":"0x54fc0d5fa5ad975ede1bf8b1c892ae018745a1afd4a4da9b70bb6e5448509fc0"
   },
   {
     "name": "Tether USD (Wormhole)",
@@ -113,7 +116,8 @@
       "account_address": "0x6f986d146e4a90b828d8c12c14b6f4e003fdff11a8eecceceb63744363eaac01",
       "module_name": "mod_coin",
       "struct_name": "MOD"
-    }
+    },
+    "address":"0x94ed76d3d66cb0b6e7a3ab81acf830e3a50b8ae3cfb9edc0abea635a11185ff4"
   },
   {
     "name": "Thala Token",
@@ -502,7 +506,8 @@
       "account_address": "0x389dbbc6884a1d5b1ab4e1df2913a8c1b01251e50aed377554372b2842c5e3ef",
       "module_name": "EONcoin",
       "struct_name": "EONCoin"
-    }
+    },
+    "address":"0xcab64ed0d956462e9b8ba7c340fdb8b9ab52da1503f37b522288bc0c5bf944de"
   },
   {
     "name": "Mojito",
@@ -652,7 +657,8 @@
       "account_address": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e",
       "module_name": "aptos_launch_token",
       "struct_name": "AptosLaunchToken"
-    }
+    },
+    "address":"0xd1bec63fa44dc3f3f5742c3f3a4afc3baed00505efbe955dfe6e5f9d306c67a5"
   },
   {
     "name": "AlpacaINU Coin",
@@ -667,7 +673,8 @@
       "account_address": "0x27975005fd8b836a905dc7f81c51f89e76091a4d0c4d694265f6eae0c05cb400",
       "module_name": "proton_a5d",
       "struct_name": "PROTON_E54"
-    }
+    },
+    "address":"0x8b91a08070628408c7130b82ce8789e13d978edfccb6db02b79c493ead63a2e8"
   },
   {
     "name": "Tortuga Staked Aptos",
@@ -1300,6 +1307,7 @@
       "account_address": "0x5ae6789dd2fec1a9ec9cccfb3acaf12e93d432f0a3a42c92fe1a9d490b7bbc06",
       "module_name": "mkl_token",
       "struct_name": "MKL"
-    }
+    },
+    "address":"0x878370592f9129e14b76558689a4b570ad22678111df775befbfcbc9fb3d90ab"
   }
 ]
