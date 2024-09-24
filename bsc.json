@@ -4005,5 +4005,35 @@
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 56
+  },
+  {
+    "symbol": "HMSTR",
+    "name": "HamsterKombat",
+    "decimals": 18,
+    "address": "0xbd9c5f46e152de8cf5b08f83a80a93323cc57b59",
+    "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/Hamster.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 56
+  },
+  {
+    "symbol": "AGI",
+    "name": "AGI Token",
+    "decimals": 18,
+    "address": "0x818835503f55283cd51a4399f595e295a9338753",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29299/small/AGI_logo_200.png?1696528251",
+    "tags": ["tokens"],
+    "coingeckoId": "delysium",
+    "chainId": 56
+  },
+  {
+    "symbol": "FOMO",
+    "name": "Father Of Meme: Origin",
+    "decimals": 9,
+    "address": "0xbdbb06f2b3b78b0a78a2a1e8a02064f800ab0ee5",
+    "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/FOMO.png",
+    "tags": ["tokens"],
+    "coingeckoId": null,
+    "chainId": 56
   }
 ]
