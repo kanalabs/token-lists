@@ -1309,5 +1309,19 @@
       "struct_name": "MKL"
     },
     "address":"0x878370592f9129e14b76558689a4b570ad22678111df775befbfcbc9fb3d90ab"
+  },
+  {
+    "name": "Mo Deng",
+    "symbol": "MODENG",
+    "official_symbol": "MODENG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MODENG.jpg",
+    "token_type": {
+      "type": "0x6f446fe32a361c5512863d5e610f7d7eaa54d5cee1cea6a2712f2e56da693f1c::MODENG::MODENG",
+      "account_address": "0x6f446fe32a361c5512863d5e610f7d7eaa54d5cee1cea6a2712f2e56da693f1c",
+      "module_name": "MODENG",
+      "struct_name": "MODENG"
+    }
   }
 ]
