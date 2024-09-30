@@ -1,7 +1,7 @@
 [
   {
-    "symbol": "MATIC",
-    "name": "MATIC",
+    "symbol": "POL",
+    "name": "Polygon Ecosystem Token",
     "decimals": 18,
     "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
     "logoURI": "https://tokens.1inch.io/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
@@ -833,7 +833,7 @@
     "name": "BLOK",
     "decimals": 18,
     "address": "0x229b1b6c23ff8953d663c4cbb519717e323a0a84",
-    "logoURI": "https://tokens.1inch.io/0x229b1b6c23ff8953d663c4cbb519717e323a0a84.png",
+    "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/BLOK.png",
     "tags": ["tokens"],
     "coingeckoId": "bloktopia",
     "chainId": 137
