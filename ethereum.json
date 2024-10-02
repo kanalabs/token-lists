@@ -8832,5 +8832,15 @@
     "tags": ["tokens"],
     "coingeckoId": null,
     "chainId": 1
+  },
+  {
+    "symbol": "EIGEN",
+    "name": "Eigen",
+    "decimals": 18,
+    "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37441/small/EIGEN_LOGO.png?1727433816",
+    "tags": ["tokens"],
+    "coingeckoId": "eigenlayer",
+    "chainId": 1
   }
 ]
