@@ -7846,5 +7846,14 @@
     "symbol": "doodoo",
     "logoURI": "https://nftstorage.link/ipfs/bafybeidyutrgtbcw2oxfajdty7kyd3slwqbxval2itdfingeop4324cdjy",
     "tags": ["community"]
+  },
+  {
+    "address": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "SAD HAMSTER",
+    "symbol": "HAMMY",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35878/small/logofinal200x200.png?1723769779",
+    "tags": ["community"]
   }
 ]
