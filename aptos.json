@@ -404,6 +404,48 @@
     }
   },
   {
+    "name": "Tissue",
+    "symbol": "SNZ",
+    "official_symbol": "SNZ",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/SNZ.jpg",
+    "token_type": {
+      "type": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
+      "account_address": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418",
+      "module_name": "SNZ",
+      "struct_name": "SNZ"
+    }
+  },
+  {
+    "name": "CASH",
+    "symbol": "CASH",
+    "official_symbol": "CASH",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CASH.png",
+    "token_type": {
+      "type": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+      "account_address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67",
+      "module_name": "CASH",
+      "struct_name": "CASH"
+    }
+  },
+  {
+    "name": "ZIPPO THE OG MASCOT",
+    "symbol": "ZIPO",
+    "official_symbol": "ZIPO",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ZIPO.png",
+    "token_type": {
+      "type": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
+      "account_address": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a",
+      "module_name": "ZIPO",
+      "struct_name": "ZIPO"
+    }
+  },
+  {
     "name": "Zaaptos Coin",
     "symbol": "ZAAP",
     "official_symbol": "ZAAP",
