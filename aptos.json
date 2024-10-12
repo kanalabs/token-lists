@@ -488,6 +488,76 @@
     }
   },
   {
+    "name": "AptoCat",
+    "symbol": "ACAT",
+    "official_symbol": "ACAT",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ACAT.jpg",
+    "token_type": {
+      "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+      "account_address": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e",
+      "module_name": "ACAT",
+      "struct_name": "ACAT"
+    }
+  },
+  {
+    "name": "FAG DOG COIN",
+    "symbol": "FOG",
+    "official_symbol": "FOG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/FOG.jpg",
+    "token_type": {
+      "type": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
+      "account_address": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd",
+      "module_name": "FOG",
+      "struct_name": "FOG"
+    }
+  },
+  {
+    "name": "Meow Money",
+    "symbol": "MEOW",
+    "official_symbol": "MEOW",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MEOW.jpg",
+    "token_type": {
+      "type": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f::MEOW::MEOW",
+      "account_address": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f",
+      "module_name": "MEOW",
+      "struct_name": "MEOW"
+    }
+  },
+  {
+    "name": "APTOSAURE",
+    "symbol": "APTOR",
+    "official_symbol": "APTOR",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APTOR.jpg",
+    "token_type": {
+      "type": "0xda78f095c0a1d06f1f81e7a6c783c2ba0964840132c82583fed98b27d6c5f7af::APTOR::APTOR",
+      "account_address": "0xda78f095c0a1d06f1f81e7a6c783c2ba0964840132c82583fed98b27d6c5f7af",
+      "module_name": "APTOR",
+      "struct_name": "APTOR"
+    }
+  },
+  {
+    "name": "Raptos",
+    "symbol": "RAPT",
+    "official_symbol": "RAPT",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/RAPT.jpg",
+    "token_type": {
+      "type": "0x8f59ac670c9cdaa22503bfede0be49e6759626b18727fbf8d876e18861ff3986::RAPT::RAPT",
+      "account_address": "0x8f59ac670c9cdaa22503bfede0be49e6759626b18727fbf8d876e18861ff3986",
+      "module_name": "RAPT",
+      "struct_name": "RAPT"
+    }
+  },
+  {
     "name": "ZIPPO THE OG MASCOT",
     "symbol": "ZIPO",
     "official_symbol": "ZIPO",
