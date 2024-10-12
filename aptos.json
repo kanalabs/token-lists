@@ -432,6 +432,62 @@
     }
   },
   {
+    "name": "CASH",
+    "symbol": "CASH",
+    "official_symbol": "CASH",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CASH.png",
+    "token_type": {
+      "type": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+      "account_address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67",
+      "module_name": "CASH",
+      "struct_name": "CASH"
+    }
+  },
+  {
+    "name": "EDOG",
+    "symbol": "EDOG",
+    "official_symbol": "EDOG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/EDOG.jpg",
+    "token_type": {
+      "type": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
+      "account_address": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6",
+      "module_name": "EDOG",
+      "struct_name": "EDOG"
+    }
+  },
+  {
+    "name": "Captos",
+    "symbol": "CAPTOS",
+    "official_symbol": "CAPTOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CAPTOS.png",
+    "token_type": {
+      "type": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
+      "account_address": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13",
+      "module_name": "CAPTOS",
+      "struct_name": "CAPTOS"
+    }
+  },
+  {
+    "name": "ECAT",
+    "symbol": "ECAT",
+    "official_symbol": "ECAT",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ECAT.jpg",
+    "token_type": {
+      "type": "0x5561825568515d428e25aec18b1eaed3e61077366b75eacc56a9d6e7f3b3c557::ECAT::ECAT",
+      "account_address": "0x5561825568515d428e25aec18b1eaed3e61077366b75eacc56a9d6e7f3b3c557",
+      "module_name": "ECAT",
+      "struct_name": "ECAT"
+    }
+  },
+  {
     "name": "ZIPPO THE OG MASCOT",
     "symbol": "ZIPO",
     "official_symbol": "ZIPO",
