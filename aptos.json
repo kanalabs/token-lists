@@ -152,7 +152,7 @@
     "name": "Aptopad Coin",
     "symbol": "APD",
     "official_symbol": "APD",
-    "coingecko_id": "aptopad",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/aptopad.png",
     "project_url": "https://aptopad.io",
@@ -449,7 +449,7 @@
     "name": "EDOG",
     "symbol": "EDOG",
     "official_symbol": "EDOG",
-    "coingecko_id": "edog",
+    "coingecko_id": "",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/EDOG.jpg",
     "token_type": {
@@ -701,7 +701,7 @@
     "name": "The Loonies",
     "symbol": "LOON",
     "official_symbol": "LOON",
-    "coingecko_id": "the-loonies",
+    "coingecko_id": "",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LOON.jpg",
     "token_type": {
@@ -981,34 +981,6 @@
       "struct_name": "AptosLaunchToken"
     },
     "address":"0xd1bec63fa44dc3f3f5742c3f3a4afc3baed00505efbe955dfe6e5f9d306c67a5"
-  },
-  {
-    "name": "Propbase",
-    "symbol": "PROPS",
-    "official_symbol": "PROPS",
-    "coingecko_id": "propbase",
-    "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/PROPS.png",
-    "token_type": {
-      "type": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099::propbase_coin::PROPS",
-      "account_address": "0xe50684a338db732d8fb8a3ac71c4b8633878bd0193bca5de2ebc852a83b35099",
-      "module_name": "PROPS",
-      "struct_name": "PROPS"
-    }
-  },
-  {
-    "name": "BUBBLES",
-    "symbol": "BUBBLES",
-    "official_symbol": "BUBBLES",
-    "coingecko_id": "bubbles-2",
-    "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BUBBLES.jpg",
-    "token_type": {
-      "type": "0xd6a49762f6e4f7401ee79be6f5d4111e70db1408966ba1aa204e6e10c9d437ca::bubbles::BubblesCoin",
-      "account_address": "0xd6a49762f6e4f7401ee79be6f5d4111e70db1408966ba1aa204e6e10c9d437ca",
-      "module_name": "BUBBLES",
-      "struct_name": "BUBBLES"
-    }
   },
   {
     "name": "AlpacaINU Coin",
@@ -1606,7 +1578,7 @@
     "name": "Chewy",
     "symbol": "CHEWY",
     "official_symbol": "CHEWY",
-    "coingecko_id": "chewy-token",
+    "coingecko_id": "",
     "decimals": 0,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/chewy.png",
     "token_type": {
