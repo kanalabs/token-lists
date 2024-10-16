@@ -706,9 +706,107 @@
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LOON.jpg",
     "token_type": {
       "type": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
-      "account_address": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
+      "account_address": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6",
       "module_name": "LOON",
       "struct_name": "LOON"
+    }
+  },
+  {
+    "name": "UPDOG",
+    "symbol": "UPDOG",
+    "official_symbol": "UPDOG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/UPDOG.jpg",
+    "token_type": {
+      "type": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
+      "account_address": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1",
+      "module_name": "UPDOG",
+      "struct_name": "UPDOG"
+    }
+  },
+  {
+    "name": "Aptos Pepe",
+    "symbol": "APTOSPEPE",
+    "official_symbol": "APTOSPEPE",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AptosPepe.jpg",
+    "token_type": {
+      "type": "0x93796d1de61dbc5aa4ab6f8e3d4dc73e368de52fc25fa768b27e75e29bd6b319::aptospepe::AptosPepe",
+      "account_address": "0x93796d1de61dbc5aa4ab6f8e3d4dc73e368de52fc25fa768b27e75e29bd6b319",
+      "module_name": "APTOSPEPE",
+      "struct_name": "APTOSPEPE"
+    }
+  },
+  {
+    "name": "MOTOS",
+    "symbol": "MOTOS",
+    "official_symbol": "MOTOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MOTOS.jpg",
+    "token_type": {
+      "type": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405::MOTOS::MOTOS",
+      "account_address": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405",
+      "module_name": "MOTOS",
+      "struct_name": "MOTOS"
+    }
+  },
+  {
+    "name": "Winkythedwarfcat",
+    "symbol": "Winky",
+    "official_symbol": "Winky",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/Winky.jpg",
+    "token_type": {
+      "type": "0x4af58a356c4713b8f4e301c5af37389c8966eac0973b0f7a74e4d71508c56253::Winky::Winky",
+      "account_address": "0x4af58a356c4713b8f4e301c5af37389c8966eac0973b0f7a74e4d71508c56253",
+      "module_name": "Winky",
+      "struct_name": "Winky"
+    }
+  },
+  {
+    "name": "GHOST",
+    "symbol": "GHO",
+    "official_symbol": "GHO",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/GHO.jpg",
+    "token_type": {
+      "type": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
+      "account_address": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a",
+      "module_name": "GHO",
+      "struct_name": "GHO"
+    }
+  },
+  {
+    "name": "PP token",
+    "symbol": "PP",
+    "official_symbol": "PP",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/PP.jpg",
+    "token_type": {
+      "type": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
+      "account_address": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c",
+      "module_name": "PP",
+      "struct_name": "PP"
+    }
+  },
+  {
+    "name": "LABUBUTOS",
+    "symbol": "BUBU",
+    "official_symbol": "BUBU",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LABUBUTOS.jpg",
+    "token_type": {
+      "type": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8::BUBU::BUBU",
+      "account_address": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8",
+      "module_name": "BUBU",
+      "struct_name": "BUBU"
     }
   },
   {
