@@ -464,7 +464,7 @@
     "name": "EDOG",
     "symbol": "EDOG",
     "official_symbol": "EDOG",
-    "coingecko_id": "",
+    "coingecko_id": "edog",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/EDOG.jpg",
     "token_type": {
