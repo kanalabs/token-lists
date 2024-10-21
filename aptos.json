@@ -314,6 +314,21 @@
     }
   },
   {
+    "name": "aBTC",
+    "symbol": "aBTC",
+    "official_symbol": "aBTC",
+    "coingecko_id": "abtc",
+    "decimals": 10,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/aBTC.svg",
+    "project_url": "https://www.echo-protocol.xyz",
+    "token_type": {
+      "type": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec::abtc::ABTC",
+      "account_address": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec",
+      "module_name": "abtc",
+      "struct_name": "ABTC"
+    }
+  },
+  {
     "name": "MOVEGPT",
     "symbol": "MGPT",
     "official_symbol": "MGPT",
