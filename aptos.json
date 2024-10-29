@@ -1758,5 +1758,33 @@
       "module_name": "MODENG",
       "struct_name": "MODENG"
     }
+  },
+  {
+    "name":"BUBBLES",
+    "symbol": "BUBBLES",
+    "official_symbol": "BUBBLES",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/BUBBLES.jpg",
+    "token_type":{
+      "type":"0xd6a49762f6e4f7401ee79be6f5d4111e70db1408966ba1aa204e6e10c9d437ca::bubbles::BubblesCoin",
+      "account_address": "0xd6a49762f6e4f7401ee79be6f5d4111e70db1408966ba1aa204e6e10c9d437ca",
+      "module_name": "bubbles",
+      "struct_name": "BubblesCoin"
+    }
+  },
+  {
+    "name":"APETOS",
+    "symbol": "APE",
+    "official_symbol": "APE",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APETOS.jpg",
+    "token_type":{
+      "type":"0xada35ada7e43e2ee1c39633ffccec38b76ce702b4efc2e60b50f63fbe4f710d8::apetos_token::ApetosCoin",
+      "account_address": "0xada35ada7e43e2ee1c39633ffccec38b76ce702b4efc2e60b50f63fbe4f710d8",
+      "module_name": "apetos_token",
+      "struct_name": "ApetosCoin"
+    }
   }
 ]
