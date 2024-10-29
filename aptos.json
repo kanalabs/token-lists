@@ -314,6 +314,21 @@
     }
   },
   {
+    "name": "aBTC",
+    "symbol": "aBTC",
+    "official_symbol": "aBTC",
+    "coingecko_id": "abtc",
+    "decimals": 10,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/aBTC.svg",
+    "project_url": "https://www.echo-protocol.xyz",
+    "token_type": {
+      "type": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec::abtc::ABTC",
+      "account_address": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec",
+      "module_name": "abtc",
+      "struct_name": "ABTC"
+    }
+  },
+  {
     "name": "MOVEGPT",
     "symbol": "MGPT",
     "official_symbol": "MGPT",
@@ -401,6 +416,426 @@
       "account_address": "0x4fbed3f8a3fd8a11081c8b6392152a8b0cb14d70d0414586f0c9b858fcd2d6a7",
       "module_name": "UPTOS",
       "struct_name": "UPTOS"
+    }
+  },
+  {
+    "name": "Tissue",
+    "symbol": "SNZ",
+    "official_symbol": "SNZ",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/SNZ.jpg",
+    "token_type": {
+      "type": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418::SNZ::SNZ",
+      "account_address": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418",
+      "module_name": "SNZ",
+      "struct_name": "SNZ"
+    }
+  },
+  {
+    "name": "CASH",
+    "symbol": "CASH",
+    "official_symbol": "CASH",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CASH.png",
+    "token_type": {
+      "type": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+      "account_address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67",
+      "module_name": "CASH",
+      "struct_name": "CASH"
+    }
+  },
+  {
+    "name": "CASH",
+    "symbol": "CASH",
+    "official_symbol": "CASH",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CASH.png",
+    "token_type": {
+      "type": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+      "account_address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67",
+      "module_name": "CASH",
+      "struct_name": "CASH"
+    }
+  },
+  {
+    "name": "EDOG",
+    "symbol": "EDOG",
+    "official_symbol": "EDOG",
+    "coingecko_id": "edog",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/EDOG.jpg",
+    "token_type": {
+      "type": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6::EDOG::EDOG",
+      "account_address": "0x5e975e7f36f2658d4cf146142899c659464a3e0d90f0f4d5f8b2447173c06ef6",
+      "module_name": "EDOG",
+      "struct_name": "EDOG"
+    }
+  },
+  {
+    "name": "Captos",
+    "symbol": "CAPTOS",
+    "official_symbol": "CAPTOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CAPTOS.png",
+    "token_type": {
+      "type": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13::CAPTOS::CAPTOS",
+      "account_address": "0x4ef6d6d174ae393cec4c8af0b75638082fe45c92e552b4df8bc679e3a0ddcb13",
+      "module_name": "CAPTOS",
+      "struct_name": "CAPTOS"
+    }
+  },
+  {
+    "name": "ECAT",
+    "symbol": "ECAT",
+    "official_symbol": "ECAT",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ECAT.jpg",
+    "token_type": {
+      "type": "0x5561825568515d428e25aec18b1eaed3e61077366b75eacc56a9d6e7f3b3c557::ECAT::ECAT",
+      "account_address": "0x5561825568515d428e25aec18b1eaed3e61077366b75eacc56a9d6e7f3b3c557",
+      "module_name": "ECAT",
+      "struct_name": "ECAT"
+    }
+  },
+  {
+    "name": "AptoCat",
+    "symbol": "ACAT",
+    "official_symbol": "ACAT",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ACAT.jpg",
+    "token_type": {
+      "type": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+      "account_address": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e",
+      "module_name": "ACAT",
+      "struct_name": "ACAT"
+    }
+  },
+  {
+    "name": "FAG DOG COIN",
+    "symbol": "FOG",
+    "official_symbol": "FOG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/FOG.jpg",
+    "token_type": {
+      "type": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd::FOG::FOG",
+      "account_address": "0xaf1077397a61aebda08ff61dfebd571ccdf7a777618b8d66832b5ab0656852bd",
+      "module_name": "FOG",
+      "struct_name": "FOG"
+    }
+  },
+  {
+    "name": "Meow Money",
+    "symbol": "MEOW",
+    "official_symbol": "MEOW",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MEOW.jpg",
+    "token_type": {
+      "type": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f::MEOW::MEOW",
+      "account_address": "0x24dc0c6bd0a98f31961589e6432a8038833128f7c802ba148172553987c379f",
+      "module_name": "MEOW",
+      "struct_name": "MEOW"
+    }
+  },
+  {
+    "name": "APTOSAURE",
+    "symbol": "APTOR",
+    "official_symbol": "APTOR",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APTOR.jpg",
+    "token_type": {
+      "type": "0xda78f095c0a1d06f1f81e7a6c783c2ba0964840132c82583fed98b27d6c5f7af::APTOR::APTOR",
+      "account_address": "0xda78f095c0a1d06f1f81e7a6c783c2ba0964840132c82583fed98b27d6c5f7af",
+      "module_name": "APTOR",
+      "struct_name": "APTOR"
+    }
+  },
+  {
+    "name": "Raptos",
+    "symbol": "RAPT",
+    "official_symbol": "RAPT",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/RAPT.jpg",
+    "token_type": {
+      "type": "0x8f59ac670c9cdaa22503bfede0be49e6759626b18727fbf8d876e18861ff3986::RAPT::RAPT",
+      "account_address": "0x8f59ac670c9cdaa22503bfede0be49e6759626b18727fbf8d876e18861ff3986",
+      "module_name": "RAPT",
+      "struct_name": "RAPT"
+    }
+  },
+  {
+    "name": "PUPTOS",
+    "symbol": "PUPTOS",
+    "official_symbol": "PUPTOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/PUPTOS.jpg",
+    "token_type": {
+      "type": "0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af::PUPTOS::PUPTOS",
+      "account_address": "0x2ac1304f147af6f3e3362c64f1c9c95dd84f67a8d6e300185e22c5a6f8f661af",
+      "module_name": "PUPTOS",
+      "struct_name": "PUPTOS"
+    }
+  },
+  {
+    "name": "Baby Edog",
+    "symbol": "BEDOG",
+    "official_symbol": "BEDOG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/BEDOG.jpg",
+    "token_type": {
+      "type": "0x2eebec013472480cc903cf7f118ccadcf813b4bf5e57aafba250746eff2150d5::BEDOG::BEDOG",
+      "account_address": "0x2eebec013472480cc903cf7f118ccadcf813b4bf5e57aafba250746eff2150d5",
+      "module_name": "BEDOG",
+      "struct_name": "BEDOG"
+    }
+  },
+  {
+    "name": "DOGWIFHAIR",
+    "symbol": "DWIF",
+    "official_symbol": "DWIF",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/DWIF.jpg",
+    "token_type": {
+      "type": "0x10a51c8275d90165aec142e326fcd9dc2e8def57d6271a86ef38a0e5a0a8e142::DWIF::DWIF",
+      "account_address": "0x10a51c8275d90165aec142e326fcd9dc2e8def57d6271a86ef38a0e5a0a8e142",
+      "module_name": "DWIF",
+      "struct_name": "DWIF"
+    }
+  },
+  {
+    "name": "WOOF",
+    "symbol": "WOOF",
+    "official_symbol": "WOOF",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/WOOF.jpg",
+    "token_type": {
+      "type": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be::WOOF::Woof",
+      "account_address": "0xc82974034820c34f065f948f1bee473d481bf99fde2d23e981043e5038cb36be",
+      "module_name": "WOOF",
+      "struct_name": "WOOF"
+    }
+  },
+  {
+    "name": "CHOADpoles",
+    "symbol": "POLES",
+    "official_symbol": "POLES",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/POLES.webp",
+    "token_type": {
+      "type": "0x23906ec47702dfcdb8ca35dc6eab5cb5d567b86ac1ef0d32a53b786c14ed0d98::POLES::POLES",
+      "account_address": "0x23906ec47702dfcdb8ca35dc6eab5cb5d567b86ac1ef0d32a53b786c14ed0d98",
+      "module_name": "POLES",
+      "struct_name": "POLES"
+    }
+  },
+  {
+    "name": "Dumdum",
+    "symbol": "DUMDUM",
+    "official_symbol": "DUMDUM",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/DumdumCoin.jpg",
+    "token_type": {
+      "type": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c::dumdum_coin::DumdumCoin",
+      "account_address": "0xbe3c4b493632b4d776d56e19d91dcfb34f591f759f6b57f8632d455360da503c",
+      "module_name": "DUMDUM",
+      "struct_name": "DUMDUM"
+    }
+  },
+  {
+    "name": "Aptoast",
+    "symbol": "TOAST",
+    "official_symbol": "TOAST",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/TOAST.jpg",
+    "token_type": {
+      "type": "0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890::TOAST::TOAST",
+      "account_address": "0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890",
+      "module_name": "TOAST",
+      "struct_name": "TOAST"
+    }
+  },
+  {
+    "name": "$BEARD",
+    "symbol": "BEARD",
+    "official_symbol": "BEARD",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/BEARD.jpg",
+    "token_type": {
+      "type": "0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8::BEARD::BEARD",
+      "account_address": "0x8e36c188da866c4faccb1ace68a33cca40149d942953a6b6a9976e709396ddb8",
+      "module_name": "BEARD",
+      "struct_name": "BEARD"
+    }
+  },
+  {
+    "name": "Rice Token",
+    "symbol": "Rice",
+    "official_symbol": "Rice",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/Rice.jpg",
+    "token_type": {
+      "type": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
+      "account_address": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510",
+      "module_name": "Rice",
+      "struct_name": "Rice"
+    }
+  },
+  {
+    "name": "Father of Aptos",
+    "symbol": "FaptOS",
+    "official_symbol": "FaptOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/FaptOS.jpg",
+    "token_type": {
+      "type": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864::FaptOS::FaptOS",
+      "account_address": "0x135726730c0e4e71652a6726354f148dec46974d5c152b0042ad58b37ea3c864",
+      "module_name": "FaptOS",
+      "struct_name": "FaptOS"
+    }
+  },
+  {
+    "name": "The Loonies",
+    "symbol": "LOON",
+    "official_symbol": "LOON",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LOON.jpg",
+    "token_type": {
+      "type": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6::LOON::LOON",
+      "account_address": "0x268d4a7a2ad93274edf6116f9f20ad8455223a7ab5fc73154f687e7dbc3e3ec6",
+      "module_name": "LOON",
+      "struct_name": "LOON"
+    }
+  },
+  {
+    "name": "UPDOG",
+    "symbol": "UPDOG",
+    "official_symbol": "UPDOG",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/UPDOG.jpg",
+    "token_type": {
+      "type": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
+      "account_address": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1",
+      "module_name": "UPDOG",
+      "struct_name": "UPDOG"
+    }
+  },
+  {
+    "name": "Aptos Pepe",
+    "symbol": "APTOSPEPE",
+    "official_symbol": "APTOSPEPE",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AptosPepe.jpg",
+    "token_type": {
+      "type": "0x93796d1de61dbc5aa4ab6f8e3d4dc73e368de52fc25fa768b27e75e29bd6b319::aptospepe::AptosPepe",
+      "account_address": "0x93796d1de61dbc5aa4ab6f8e3d4dc73e368de52fc25fa768b27e75e29bd6b319",
+      "module_name": "APTOSPEPE",
+      "struct_name": "APTOSPEPE"
+    }
+  },
+  {
+    "name": "MOTOS",
+    "symbol": "MOTOS",
+    "official_symbol": "MOTOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MOTOS.jpg",
+    "token_type": {
+      "type": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405::MOTOS::MOTOS",
+      "account_address": "0x68495e47585861928e07e1fc629501b06822b230508bcf05c4fc19bec9a82405",
+      "module_name": "MOTOS",
+      "struct_name": "MOTOS"
+    }
+  },
+  {
+    "name": "Winkythedwarfcat",
+    "symbol": "Winky",
+    "official_symbol": "Winky",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/Winky.jpg",
+    "token_type": {
+      "type": "0x4af58a356c4713b8f4e301c5af37389c8966eac0973b0f7a74e4d71508c56253::Winky::Winky",
+      "account_address": "0x4af58a356c4713b8f4e301c5af37389c8966eac0973b0f7a74e4d71508c56253",
+      "module_name": "Winky",
+      "struct_name": "Winky"
+    }
+  },
+  {
+    "name": "GHOST",
+    "symbol": "GHO",
+    "official_symbol": "GHO",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/GHO.jpg",
+    "token_type": {
+      "type": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a::GHO::GHO",
+      "account_address": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a",
+      "module_name": "GHO",
+      "struct_name": "GHO"
+    }
+  },
+  {
+    "name": "PP token",
+    "symbol": "PP",
+    "official_symbol": "PP",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/PP.jpg",
+    "token_type": {
+      "type": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
+      "account_address": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c",
+      "module_name": "PP",
+      "struct_name": "PP"
+    }
+  },
+  {
+    "name": "LABUBUTOS",
+    "symbol": "BUBU",
+    "official_symbol": "BUBU",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LABUBUTOS.jpg",
+    "token_type": {
+      "type": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8::BUBU::BUBU",
+      "account_address": "0xce1a44fa48a726258a11a499797bc38befa6bc2ef4019b686c59e0a301b1a1c8",
+      "module_name": "BUBU",
+      "struct_name": "BUBU"
+    }
+  },
+  {
+    "name": "ZIPPO THE OG MASCOT",
+    "symbol": "ZIPO",
+    "official_symbol": "ZIPO",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ZIPO.png",
+    "token_type": {
+      "type": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a::ZIPO::ZIPO",
+      "account_address": "0x2d4de7378c573dadc2e589892d709ee24f3c26f23b57804f384f4803da2e6f0a",
+      "module_name": "ZIPO",
+      "struct_name": "ZIPO"
     }
   },
   {
