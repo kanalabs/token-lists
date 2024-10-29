@@ -1779,7 +1779,7 @@
     "official_symbol": "APE",
     "coingecko_id": "",
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APETOS.jpg",
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APETOS.png",
     "token_type":{
       "type":"0xada35ada7e43e2ee1c39633ffccec38b76ce702b4efc2e60b50f63fbe4f710d8::apetos_token::ApetosCoin",
       "account_address": "0xada35ada7e43e2ee1c39633ffccec38b76ce702b4efc2e60b50f63fbe4f710d8",
