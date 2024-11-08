@@ -149,6 +149,21 @@
     }
   },
   {
+    "name": "Cellana",
+    "symbol": "CELL",
+    "official_symbol": "CELL",
+    "coingecko_id": "cellena-finance",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CELL.png",
+    "token_type": {
+      "type": "0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12",
+      "account_address": "0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12",
+      "module_name": "Fungible Asset",
+      "struct_name": "CELL"
+    },
+    "address":"0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12"
+  },
+  {
     "name": "Aptopad Coin",
     "symbol": "APD",
     "official_symbol": "APD",
@@ -430,20 +445,6 @@
       "account_address": "0x33df6ad8f2208d8f575076e59fda6e195ef5c1908f0dae9e461a1aada7c12418",
       "module_name": "SNZ",
       "struct_name": "SNZ"
-    }
-  },
-  {
-    "name": "CASH",
-    "symbol": "CASH",
-    "official_symbol": "CASH",
-    "coingecko_id": "",
-    "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CASH.png",
-    "token_type": {
-      "type": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
-      "account_address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67",
-      "module_name": "CASH",
-      "struct_name": "CASH"
     }
   },
   {
