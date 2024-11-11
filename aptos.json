@@ -742,6 +742,62 @@
     }
   },
   {
+    "name": "Token IN",
+    "symbol": "TIN",
+    "official_symbol": "TIN",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/TIN.png",
+    "token_type": {
+      "type": "0xc32ba5d293577cbb1df390f35b2bc6369a593b736d0865fedec1a2b08565de8e::in_coin::InCoin",
+      "account_address": "0xc32ba5d293577cbb1df390f35b2bc6369a593b736d0865fedec1a2b08565de8e",
+      "module_name": "InCoin",
+      "struct_name": "InCoin"
+    }
+  },
+  {
+    "name": "The Mole Netzy",
+    "symbol": "Netzy",
+    "official_symbol": "Netzy",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/NETZY.jpg",
+    "token_type": {
+      "type": "0x2f277e648b3761b65818d92f0a7c151cb38a1d33b1a8b18d4c5748bbcd9fcca5::Netzy::Netzy",
+      "account_address": "0x2f277e648b3761b65818d92f0a7c151cb38a1d33b1a8b18d4c5748bbcd9fcca5",
+      "module_name": "Netzy",
+      "struct_name": "Netzy"
+    }
+  },
+  {
+    "name": "Purrfectly Okay Coin",
+    "symbol": "POK",
+    "official_symbol": "POK",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/POK.jpg",
+    "token_type": {
+      "type": "0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961::POK::POK",
+      "account_address": "0xa8c3d4ec01aa0bcaa23bac67d0c3e9d5df2d9e8b82a01ad4f8448aebf3d9a961",
+      "module_name": "POK",
+      "struct_name": "POK"
+    }
+  },
+  {
+    "name": "o.xyz",
+    "symbol": "O",
+    "official_symbol": "O",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/o-xyz.svg",
+    "token_type": {
+      "type": "0x8ea59d57259d0312fa21e0cb9099d359462d9e0050c9139960ff9a2313ce1c9d::coin::T",
+      "account_address": "0x8ea59d57259d0312fa21e0cb9099d359462d9e0050c9139960ff9a2313ce1c9d",
+      "module_name": "O",
+      "struct_name": "O"
+    }
+  },
+  {
     "name": "Aptos Pepe",
     "symbol": "APTOSPEPE",
     "official_symbol": "APTOSPEPE",
