@@ -798,6 +798,20 @@
     }
   },
   {
+    "name": "HANK",
+    "symbol": "HANK",
+    "official_symbol": "HANK",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/HANK.jpg",
+    "token_type": {
+      "type": "0x897e2dab7dca40e83fa796ff34d8a040636ea1c0eb4cd95718866e7536185bd::HANK::HANK",
+      "account_address": "0x897e2dab7dca40e83fa796ff34d8a040636ea1c0eb4cd95718866e7536185bd",
+      "module_name": "HANK",
+      "struct_name": "HANK"
+    }
+  },
+  {
     "name": "Aptos Pepe",
     "symbol": "APTOSPEPE",
     "official_symbol": "APTOSPEPE",
