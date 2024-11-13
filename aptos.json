@@ -164,36 +164,6 @@
     "address":"0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12"
   },
   {
-    "name": "TruAPT coin",
-    "symbol": "TruAPT",
-    "official_symbol": "TruAPT",
-    "coingecko_id": "trufin-staked-apt",
-    "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/TruAPT.png",
-    "token_type": {
-      "type": "0xaef6a8c3182e076db72d64324617114cacf9a52f28325edc10b483f7f05da0e7",
-      "account_address": "0xaef6a8c3182e076db72d64324617114cacf9a52f28325edc10b483f7f05da0e7",
-      "module_name": "Fungible Asset",
-      "struct_name": "TruAPT"
-    },
-    "address":"0xaef6a8c3182e076db72d64324617114cacf9a52f28325edc10b483f7f05da0e7"
-  },
-  {
-    "name": "BAPTMAN",
-    "symbol": "BAPTMAN",
-    "official_symbol": "BAPTMAN",
-    "coingecko_id": "",
-    "decimals": 9,
-    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/BAPTMAN.jpg",
-    "token_type": {
-      "type": "0xe9c6ae7a056ba49901fcc19ab3fcff0938f882cfd7f2cc5a72eea362d29f5b8f",
-      "account_address": "0xe9c6ae7a056ba49901fcc19ab3fcff0938f882cfd7f2cc5a72eea362d29f5b8f",
-      "module_name": "Fungible Asset",
-      "struct_name": "BAPTMAN"
-    },
-    "address":"0xe9c6ae7a056ba49901fcc19ab3fcff0938f882cfd7f2cc5a72eea362d29f5b8f"
-  },
-  {
     "name": "Aptopad Coin",
     "symbol": "APD",
     "official_symbol": "APD",
