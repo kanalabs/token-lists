@@ -16,6 +16,21 @@
     "address":"0xa"
   },
   {
+    "name": "Tether USD",
+    "symbol": "USDt",
+    "official_symbol": "USDt",
+    "coingecko_id": "tether",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/USDT.svg",
+    "token_type": {
+      "type": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+      "account_address": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+      "module_name": "Fungible Asset",
+      "struct_name": "USDt"
+    },
+    "address":"0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b"
+  },
+  {
     "name": "USD Coin (LayerZero)",
     "symbol": "zUSDC",
     "official_symbol": "USDC",
