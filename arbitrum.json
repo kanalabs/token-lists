@@ -609,7 +609,7 @@
       "name": "Threshold Bitcoin",
       "decimals": 18,
       "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-      "logoURI": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "logoURI": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png",
       "tags": ["tokens"]
     },
     "0xa61F74247455A40b01b0559ff6274441FAfa22A3": {
@@ -617,7 +617,15 @@
       "name": "Magpie",
       "decimals": 18,
       "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
-      "logoURI": "https://assets.coingecko.com/coins/images/27972/small/MagpieLogo.png?1666771448",
+      "logoURI": "https://assets.coingecko.com/coins/images/27972/small/MagpieLogo.png",
+      "tags": ["tokens"]
+    },
+    "0x79EaD7a012D97eD8DeEcE279f9bC39e264d7Eef9": {
+      "symbol": "Bonsai",
+      "name": "Bonsai",
+      "decimals": 18,
+      "address": "0x79EaD7a012D97eD8DeEcE279f9bC39e264d7Eef9",
+      "logoURI": "https://assets.coingecko.com/coins/images/37883/small/bonsai.jpeg",
       "tags": ["tokens"]
     },
     "0xf00D8790A76ee5A5Dbc10eaCac39151aa2af0331": {
