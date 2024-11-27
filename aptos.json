@@ -466,7 +466,7 @@
     "name": "CASH",
     "symbol": "CASH",
     "official_symbol": "CASH",
-    "coingecko_id": "",
+    "coingecko_id": "cash-2",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CASH.png",
     "token_type": {
@@ -746,7 +746,7 @@
     "name": "The Loonies",
     "symbol": "LOON",
     "official_symbol": "LOON",
-    "coingecko_id": "",
+    "coingecko_id": "the-loonies",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/LOON.jpg",
     "token_type": {
@@ -760,7 +760,7 @@
     "name": "UPDOG",
     "symbol": "UPDOG",
     "official_symbol": "UPDOG",
-    "coingecko_id": "",
+    "coingecko_id": "updog-apt",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/UPDOG.jpg",
     "token_type": {
@@ -908,6 +908,20 @@
       "account_address": "0xc95e07a20f94acb04f1188b51bafbbeec93363760c066f4ced3884a48137da8a",
       "module_name": "GHO",
       "struct_name": "GHO"
+    }
+  },
+  {
+    "name": "Moove",
+    "symbol": "Moove",
+    "official_symbol": "Moove",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/Moove.jpg",
+    "token_type": {
+      "type": "0xd7ac9bdfb2b33c33abd3abd8c03d550e71a1adb202511415faab54106b5a3637::Moove::Moove",
+      "account_address": "0xd7ac9bdfb2b33c33abd3abd8c03d550e71a1adb202511415faab54106b5a3637",
+      "module_name": "Moove",
+      "struct_name": "Moove"
     }
   },
   {
@@ -1891,7 +1905,7 @@
     "name":"APETOS",
     "symbol": "APE",
     "official_symbol": "APE",
-    "coingecko_id": "",
+    "coingecko_id": "apetos",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APETOS.png",
     "token_type":{
