@@ -634,7 +634,7 @@
     "name": "Hair",
     "symbol": "HAIR",
     "official_symbol": "HAIR",
-    "coingecko_id": "",
+    "coingecko_id": "hair",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/HAIR.png",
     "token_type": {
@@ -1793,7 +1793,7 @@
     "official_symbol": "MOOMOO",
     "coingecko_id": "moo-moo",
     "decimals": 6,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/MOOMOO.png",
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MOOMOO.png",
     "token_type": {
       "type": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
       "account_address": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da",
