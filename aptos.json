@@ -1788,6 +1788,20 @@
     }
   },
   {
+    "name": "MOO MOO",
+    "symbol": "MOOMOO",
+    "official_symbol": "MOOMOO",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/MOOMOO.png",
+    "token_type": {
+      "type": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da::MOOMOO::MOOMOO",
+      "account_address": "0xc5fbbcc4637aeebb4e732767abee8a21f2b0776f73b73e16ce13e7d31d6700da",
+      "module_name": "MOOMOO",
+      "struct_name": "MOOMOO"
+    }
+  },
+  {
     "name": "shrimp",
     "symbol": "SHRIMP",
     "official_symbol": "SHRIMP",
