@@ -1791,7 +1791,7 @@
     "name": "MOO MOO",
     "symbol": "MOOMOO",
     "official_symbol": "MOOMOO",
-    "coingecko_id": "",
+    "coingecko_id": "moo-moo",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/MOOMOO.png",
     "token_type": {
