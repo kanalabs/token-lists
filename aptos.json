@@ -1893,7 +1893,7 @@
     "name": "Amaterasu",
     "symbol": "AMA",
     "official_symbol": "AMA",
-    "coingecko_id": "tether",
+    "coingecko_id": "amaterasu",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AMA.svg",
     "token_type": {
