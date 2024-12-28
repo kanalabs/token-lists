@@ -57,7 +57,9 @@
       "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
       "module_name": "asset",
       "struct_name": "USDT"
-    }
+    },
+    "address":"0xe568e9322107a5c9ba4cbd05a630a5586aa73e744ada246c3efb0f4ce3e295f3"
+
   },
   {
     "name": "USD Coin (Wormhole)",
@@ -147,7 +149,9 @@
       "account_address": "0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615",
       "module_name": "thl_coin",
       "struct_name": "THL"
-    }
+    },
+    "address":"0x377adc4848552eb2ea17259be928001923efe12271fef1667e2b784f04a7cf3a"
+
   },
   {
     "name": "Liquidswap",
@@ -161,7 +165,8 @@
       "account_address": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719",
       "module_name": "coin",
       "struct_name": "LSD"
-    }
+    },
+    "address":"0x2370cc1d995f3aadd337c1c6c63834ad8d2bd0cdc70bc8dff81de463e18b159"
   },
   {
     "name": "Cellana",
@@ -236,7 +241,8 @@
       "account_address": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5",
       "module_name": "staked_coin",
       "struct_name": "StakedAptos"
-    }
+    },
+    "address":"0xa743351ed4889845737082ab9fcd42c21270647e2c6f342c509320e974035ed2"
   },
   {
     "name": "Ditto Discount Token",
@@ -266,7 +272,8 @@
       "account_address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a",
       "module_name": "amapt_token",
       "struct_name": "AmnisApt"
-    }
+    },
+    "address":"0xa259be733b6a759909f92815927fa213904df6540519568692caf0b068fe8e62"
   },
   {
     "name": "Staked Aptos Coin",
@@ -281,7 +288,8 @@
       "account_address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a",
       "module_name": "stapt_token",
       "struct_name": "StakedApt"
-    }
+    },
+    "address":"0xb614bfdf9edc39b330bbf9c3c5bcd0473eee2f6d4e21748629cc367869ece627"
   },
   {
     "name": "Thala APT",
@@ -296,7 +304,8 @@
       "account_address": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6",
       "module_name": "staking",
       "struct_name": "ThalaAPT"
-    }
+    },
+    "address":"0xa0d9d647c5737a5aed08d2cfeb39c31cf901d44bc4aa024eaa7e5e68b804e011"
   },
   {
     "name": "Staked Thala APT",
@@ -311,7 +320,8 @@
       "account_address": "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6",
       "module_name": "staking",
       "struct_name": "StakedThalaAPT"
-    }
+    },
+    "address":"0xa9ce1bddf93b074697ec5e483bc5050bc64cff2acd31e1ccfd8ac8cae5e4abe"
   },
   {
     "name": "Aptoge",
@@ -326,7 +336,8 @@
       "account_address": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf",
       "module_name": "Aptoge",
       "struct_name": "Aptoge"
-    }
+    },
+    "address":"0xf7833d21f83a19548c81e8fd17d8bde4a6e8cc3fbb1ffb97973e06e261c75dee"
   },
   {
     "name": "Ondo US Dollar Yield",
@@ -356,7 +367,8 @@
       "account_address": "0x4e1854f6d332c9525e258fb6e66f84b6af8aba687bbcb832a24768c4e175feec",
       "module_name": "abtc",
       "struct_name": "ABTC"
-    }
+    },
+    "address":"0xf599112bc3a5b6092469890d6a2f353f485a6193c9d36626b480704467d3f4c8"
   },
   {
     "name": "MOVEGPT",
@@ -431,7 +443,8 @@
       "account_address": "0x42d77150661adcc068603bde2453bea1e22fa7ca08878ec88b7e077709c01171",
       "module_name": "oft",
       "struct_name": "WUSDMOFT"
-    }
+    },
+    "address":"0x8993fd61f611eb186386962edec50c9d72532b3825f1c7d98e883268dbbc501"
   },
   {
     "name": "UPTOS",
@@ -474,7 +487,8 @@
       "account_address": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67",
       "module_name": "CASH",
       "struct_name": "CASH"
-    }
+    },
+    "address":"0xc692943f7b340f02191c5de8dac2f827e0b66b3ed2206206a3526bcb0cae6e40"
   },
   {
     "name": "EDOG",
@@ -1054,7 +1068,8 @@
       "account_address": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6",
       "module_name": "oft",
       "struct_name": "CakeOFT"
-    }
+    },
+    "address":"0xad18575b0e51dd056e1e082223c0e014cbfe4b13bc55e92f450585884f4cf951"
   },
   {
     "name": "EON",
@@ -1547,7 +1562,8 @@
       "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
       "module_name": "asset",
       "struct_name": "WETH"
-    }
+    },
+    "address":"0xae02f68520afd221a5cd6fda6f5500afedab8d0a2e19a916d6d8bc2b36e758db"
   },
   {
     "name": "Wrapped BTC (LayerZero)",
@@ -1561,7 +1577,8 @@
       "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
       "module_name": "asset",
       "struct_name": "WBTC"
-    }
+    },
+    "address":"0xa64d2d6f5e26daf6a3552f51d4110343b1a8c8046d0a9e72fa4086a337f3236c"
   },
   {
     "name": "USD Coin (Celer)",
@@ -1785,7 +1802,8 @@
       "account_address": "0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2",
       "module_name": "assets_v1",
       "struct_name": "EchoCoin002"
-    }
+    },
+    "address":"0x9da434d9b873b5159e8eeed70202ad22dc075867a7793234fbc981b63e119"
   },
   {
     "name": "MOO MOO",
@@ -1856,6 +1874,35 @@
       "module_name": "coin",
       "struct_name": "Donk"
     }
+  },
+  {
+    "name": "GEM",
+    "symbol": "GEM",
+    "official_symbol": "GEM",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/GEM.jpg",
+    "token_type": {
+      "type": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5::GEM::GEM",
+      "account_address": "0x3fb7291a814eea979045f0bdb6b128a2a4f59533edad9d792069221586b92ab5",
+      "module_name": "GEM",
+      "struct_name": "GEM"
+    }
+  },
+  {
+    "name": "Amaterasu",
+    "symbol": "AMA",
+    "official_symbol": "AMA",
+    "coingecko_id": "tether",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AMA.svg",
+    "token_type": {
+      "type": "0xd0ab8c2f76cd640455db56ca758a9766a966c88f77920347aac1719edab1df5e",
+      "account_address": "0xd0ab8c2f76cd640455db56ca758a9766a966c88f77920347aac1719edab1df5e",
+      "module_name": "Fungible Asset",
+      "struct_name": "AMA"
+    },
+    "address":"0xd0ab8c2f76cd640455db56ca758a9766a966c88f77920347aac1719edab1df5e"
   },
   {
     "name": "APTOS FOMO",
