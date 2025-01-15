@@ -31,6 +31,21 @@
     "address":"0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b"
   },
   {
+    "name": "USDC",
+    "symbol": "USDC",
+    "official_symbol": "USDC",
+    "coingecko_id": "usd-coin",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/USDC.svg",
+    "token_type": {
+      "type": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+      "account_address": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+      "module_name": "Fungible Asset",
+      "struct_name": "USDC"
+    },
+    "address":"0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b"
+  },
+  {
     "name": "USD Coin (LayerZero)",
     "symbol": "zUSDC",
     "official_symbol": "USDC",
