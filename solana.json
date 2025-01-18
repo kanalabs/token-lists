@@ -60,6 +60,18 @@
     }
   },
   {
+    "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "logoURI": "https://assets.coingecko.com/coins/images/53746/standard/trump.png",
+    "tags": ["community", "solana-fm"],
+    "extensions": {
+      "coingeckoId": "official-trump"
+    }
+  },
+  {
     "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
     "chainId": 101,
     "decimals": 9,
