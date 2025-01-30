@@ -78,8 +78,8 @@
   },
   {
     "name": "USD Coin (Wormhole)",
-    "symbol": "USDC",
-    "official_symbol": "USDC",
+    "symbol": "whUSDC",
+    "official_symbol": "whUSDC",
     "coingecko_id": "usd-coin",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
@@ -93,8 +93,8 @@
   },
   {
     "name": "Tether USD (Wormhole)",
-    "symbol": "USDT",
-    "official_symbol": "USDT",
+    "symbol": "whUSDT",
+    "official_symbol": "whUSDT",
     "coingecko_id": "tether",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
