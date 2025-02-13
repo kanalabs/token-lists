@@ -280,7 +280,7 @@
     "official_symbol": "amAPT",
     "coingecko_id": "amnis-aptos",
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/amAPT.svg",
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/amAPT.png",
     "project_url": "https://stake.amnis.finance/",
     "token_type": {
       "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt",
@@ -296,7 +296,7 @@
     "official_symbol": "stAPT",
     "coingecko_id": "amnis-staked-aptos-coin",
     "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/stAPT.svg",
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/stAptAmnis.png",
     "project_url": "https://stake.amnis.finance/",
     "token_type": {
       "type": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::stapt_token::StakedApt",
@@ -337,6 +337,21 @@
       "struct_name": "StakedThalaAPT"
     },
     "address":"0xa9ce1bddf93b074697ec5e483bc5050bc64cff2acd31e1ccfd8ac8cae5e4abe"
+  },
+  {
+    "name": "VibrantX token",
+    "symbol": "VIBE",
+    "official_symbol": "VIBE",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/VIBE.png",
+    "token_type": {
+      "type": "0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8",
+      "account_address": "0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8",
+      "module_name": "Fungible Asset",
+      "struct_name": "VIBE"
+    },
+    "address":"0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8"
   },
   {
     "name": "Aptoge",
