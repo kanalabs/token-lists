@@ -787,6 +787,20 @@
     }
   },
   {
+    "name": "Aptos looking good here",
+    "symbol": "APTOS",
+    "official_symbol": "APTOS",
+    "coingecko_id": "",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/APTOS.png",
+    "token_type": {
+      "type": "0xa4600bf50923f5b01dd7f4cf3dcb98b1ce775976fff3c49433a77a83071a1cb6::APTOS::APTOS",
+      "account_address": "0xa4600bf50923f5b01dd7f4cf3dcb98b1ce775976fff3c49433a77a83071a1cb6",
+      "module_name": "APTOS",
+      "struct_name": "APTOS"
+    }
+  },
+  {
     "name": "The Loonies",
     "symbol": "LOON",
     "official_symbol": "LOON",
