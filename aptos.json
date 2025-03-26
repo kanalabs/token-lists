@@ -354,6 +354,21 @@
     "address":"0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8"
   },
   {
+    "name": "AMNIS",
+    "symbol": "AMI",
+    "official_symbol": "AMI",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AMI.png",
+    "token_type": {
+      "type": "0xb36527754eb54d7ff55daf13bcb54b42b88ec484bd6f0e3b2e0d1db169de6451",
+      "account_address": "0xb36527754eb54d7ff55daf13bcb54b42b88ec484bd6f0e3b2e0d1db169de6451",
+      "module_name": "Fungible Asset",
+      "struct_name": "AMNIS"
+    },
+    "address":"0xb36527754eb54d7ff55daf13bcb54b42b88ec484bd6f0e3b2e0d1db169de6451"
+  },
+  {
     "name": "Aptoge",
     "symbol": "APTOGE",
     "official_symbol": "APTOGE",
