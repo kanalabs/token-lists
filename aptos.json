@@ -357,7 +357,7 @@
     "name": "AMNIS",
     "symbol": "AMI",
     "official_symbol": "AMI",
-    "coingecko_id": "",
+    "coingecko_id": "ami",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AMI.png",
     "token_type": {
