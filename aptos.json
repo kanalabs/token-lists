@@ -369,6 +369,36 @@
     "address":"0xb36527754eb54d7ff55daf13bcb54b42b88ec484bd6f0e3b2e0d1db169de6451"
   },
   {
+    "name": "TEVI Coin",
+    "symbol": "TEVI",
+    "official_symbol": "TEVI",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/TEVI.png",
+    "token_type": {
+      "type": "0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455",
+      "account_address": "0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455",
+      "module_name": "Fungible Asset",
+      "struct_name": "TEVI"
+    },
+    "address":"0x92f0951cecb35dc7613bc0e09f27e2c7aaebdc320f93901c121a1ec06f3aa455"
+  },
+  {
+    "name": "Rewardy",
+    "symbol": "RWD",
+    "official_symbol": "RWD",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/RWD.png",
+    "token_type": {
+      "type": "0xc9a5d270bb8bb47e7bb34377ceb529db2878e4a7b521b5b8a984b35f8feaa8e2",
+      "account_address": "0xc9a5d270bb8bb47e7bb34377ceb529db2878e4a7b521b5b8a984b35f8feaa8e2",
+      "module_name": "Fungible Asset",
+      "struct_name": "RWD"
+    },
+    "address":"0xc9a5d270bb8bb47e7bb34377ceb529db2878e4a7b521b5b8a984b35f8feaa8e2"
+  },
+  {
     "name": "Aptoge",
     "symbol": "APTOGE",
     "official_symbol": "APTOGE",
