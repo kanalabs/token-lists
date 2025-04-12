@@ -1,0 +1,154 @@
+[
+    {
+      "name": "Aptos Coin",
+      "symbol": "APT",
+      "official_symbol": "APT",
+      "coingecko_id": "aptos",
+      "decimals": 8,
+      "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/APT.webp",
+      "project_url": "https://aptoslabs.com/",
+      "token_type": {
+        "type": "0x1::aptos_coin::AptosCoin",
+        "account_address": "0x1",
+        "module_name": "aptos_coin",
+        "struct_name": "AptosCoin"
+      },
+      "address":"0xa"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDt",
+      "official_symbol": "USDt",
+      "coingecko_id": "tether",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/USDT.svg",
+      "token_type": {
+        "type": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+        "account_address": "0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b",
+        "module_name": "Fungible Asset",
+        "struct_name": "USDt"
+      },
+      "address":"0x357b0b74bc833e95a115ad22604854d6b0fca151cecd94111770e5d6ffc9dc2b"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "official_symbol": "USDC",
+      "coingecko_id": "usd-coin",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/USDC.svg",
+      "token_type": {
+        "type": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+        "account_address": "0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b",
+        "module_name": "Fungible Asset",
+        "struct_name": "USDC"
+      },
+      "address":"0xbae207659db88bea0cbead6da0ed00aac12edcdda169e591cd41c94180b46f3b"
+    },
+    {
+      "name": "USD Coin (LayerZero)",
+      "symbol": "zUSDC",
+      "official_symbol": "USDC",
+      "coingecko_id": "usd-coin",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
+      "token_type": {
+        "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+        "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
+        "module_name": "asset",
+        "struct_name": "USDC"
+      },
+      "address":"0x2b3be0a97a73c87ff62cbdd36837a9fb5bbd1d7f06a73b7ed62ec15c5326c1b8"
+    },
+    {
+      "name": "USD Tether (LayerZero)",
+      "symbol": "zUSDT",
+      "official_symbol": "USDT",
+      "coingecko_id": "tether",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
+      "token_type": {
+        "type": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT",
+        "account_address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa",
+        "module_name": "asset",
+        "struct_name": "USDT"
+      },
+      "address":"0xe568e9322107a5c9ba4cbd05a630a5586aa73e744ada246c3efb0f4ce3e295f3"
+  
+    },
+    {
+      "name": "USD Coin (Wormhole)",
+      "symbol": "whUSDC",
+      "official_symbol": "whUSDC",
+      "coingecko_id": "usd-coin",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
+      "token_type": {
+        "type": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+        "account_address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea",
+        "module_name": "coin",
+        "struct_name": "T"
+      },
+      "address":"0x54fc0d5fa5ad975ede1bf8b1c892ae018745a1afd4a4da9b70bb6e5448509fc0"
+    },
+    {
+      "name": "Tether USD (Wormhole)",
+      "symbol": "whUSDT",
+      "official_symbol": "whUSDT",
+      "coingecko_id": "tether",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
+      "token_type": {
+        "type": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+        "account_address": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852",
+        "module_name": "coin",
+        "struct_name": "T"
+      },
+      "address":"0x6704464238d73a679486420aab91a8a2a01feb9d700e8ba3332aa3e41d3eab62"
+    },
+    {
+      "name": "eAPT",
+      "symbol": "eAPT",
+      "official_symbol": "eAPT",
+      "coingecko_id": "",
+      "decimals": 8,
+      "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/eAPT.png",
+      "token_type": {
+        "type": "0x8a7403ae3d95f181761cf36742680442c698b49e047350b77a8906ec5168bdae",
+        "account_address": "0x8a7403ae3d95f181761cf36742680442c698b49e047350b77a8906ec5168bdae",
+        "module_name": "Fungible Asset",
+        "struct_name": "eAPT"
+      },
+      "address":"0x8a7403ae3d95f181761cf36742680442c698b49e047350b77a8906ec5168bdae"
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "official_symbol": "USDe",
+      "coingecko_id": "ethena-usde",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/USDe.png",
+      "token_type": {
+        "type": "0xf37a8864fe737eb8ec2c2931047047cbaed1beed3fb0e5b7c5526dafd3b9c2e9",
+        "account_address": "0xf37a8864fe737eb8ec2c2931047047cbaed1beed3fb0e5b7c5526dafd3b9c2e9",
+        "module_name": "Fungible Asset",
+        "struct_name": "USDe"
+      },
+      "address":"0xf37a8864fe737eb8ec2c2931047047cbaed1beed3fb0e5b7c5526dafd3b9c2e9"
+    },
+    {
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "official_symbol": "sUSDe",
+      "coingecko_id": "ethena-staked-usde",
+      "decimals": 6,
+      "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/sUSDe.png",
+      "token_type": {
+        "type": "0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69",
+        "account_address": "0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69",
+        "module_name": "Fungible Asset",
+        "struct_name": "sUSDe"
+      },
+      "address":"0xb30a694a344edee467d9f82330bbe7c3b89f440a1ecd2da1f3bca266560fce69"
+    }
+  ]
