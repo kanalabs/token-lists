@@ -49,7 +49,7 @@
     "name": "USD Coin (LayerZero)",
     "symbol": "zUSDC",
     "official_symbol": "USDC",
-    "coingecko_id": "usd-coin",
+    "coingecko_id": "layerzero-bridged-usdc-aptos",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
     "token_type": {
@@ -64,7 +64,7 @@
     "name": "USD Tether (LayerZero)",
     "symbol": "zUSDT",
     "official_symbol": "USDT",
-    "coingecko_id": "tether",
+    "coingecko_id": "layerzero-bridged-usdt-aptos",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
     "token_type": {
@@ -266,7 +266,7 @@
     "name": "Mover",
     "symbol": "MOVER",
     "official_symbol": "MOVER",
-    "coingecko_id": "mover-xyz",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/MOVER.svg",
     "project_url": "https://mov3r.xyz/",
@@ -282,7 +282,7 @@
     "name": "wTBT Pool",
     "symbol": "wTBT",
     "official_symbol": "wTBT",
-    "coingecko_id": "wtbt",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/WTBT.svg",
     "project_url": "https://www.tprotocol.io/",
@@ -309,21 +309,6 @@
       "struct_name": "StakedAptos"
     },
     "address":"0xa743351ed4889845737082ab9fcd42c21270647e2c6f342c509320e974035ed2"
-  },
-  {
-    "name": "Ditto Discount Token",
-    "symbol": "DTO",
-    "official_symbol": "DTO",
-    "coingecko_id": "ditto-discount-token",
-    "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/DTO.svg",
-    "project_url": "https://www.dittofinance.io/",
-    "token_type": {
-      "type": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::ditto_discount_coin::DittoDiscountCoin",
-      "account_address": "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5",
-      "module_name": "ditto_discount_coin",
-      "struct_name": "DittoDiscountCoin"
-    }
   },
   {
     "name": "Amnis Aptos Coin",
@@ -393,7 +378,7 @@
     "name": "VibrantX token",
     "symbol": "VIBE",
     "official_symbol": "VIBE",
-    "coingecko_id": "",
+    "coingecko_id": "vibrantx",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/VIBE.png",
     "token_type": {
@@ -1352,21 +1337,6 @@
     "address":"0xb5f9a9ff6f815150af83b96b15e4f85e4e3b9e92e3fd17a414cd755c4aa49513"
   },
   {
-    "name": "SPRING",
-    "symbol": "SPRING",
-    "official_symbol": "SPRING",
-    "coingecko_id": "spring",
-    "decimals": 9,
-    "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/SPRING.webp",
-    "project_url": "https://springers.co.in/",
-    "token_type": {
-      "type": "0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10::spring_coin::Spring_Coin",
-      "account_address": "0x7bdeaba6f037caf06bb5b2d57df9ee03a07e2a9df45b338ef3deb44d16c01d10",
-      "module_name": "spring_coin",
-      "struct_name": "Spring_Coin"
-    }
-  },
-  {
     "name": "Gari",
     "symbol": "GARI",
     "official_symbol": "GARI",
@@ -1660,7 +1630,7 @@
     "name": "SWEAT",
     "symbol": "SWEAT",
     "official_symbol": "SWEAT",
-    "coingecko_id": "sweatcoin",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/SWEAT.webp",
     "token_type": {
@@ -1674,7 +1644,7 @@
     "name": "NEAR (Wormhole)",
     "symbol": "NEAR",
     "official_symbol": "NEAR",
-    "coingecko_id": "near",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/NEAR.webp",
     "token_type": {
@@ -1688,7 +1658,7 @@
     "name": "Nexum Coin",
     "symbol": "NEXM",
     "official_symbol": "NEXM",
-    "coingecko_id": "nexum",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/NEXM.webp",
     "token_type": {
@@ -1702,7 +1672,7 @@
     "name": "SushiToken (Wormhole)",
     "symbol": "SUSHI",
     "official_symbol": "SUSHI",
-    "coingecko_id": "sushi",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/SUSHI.webp",
     "token_type": {
@@ -1716,7 +1686,7 @@
     "name": "Celo (Wormhole)",
     "symbol": "CELO",
     "official_symbol": "CELO",
-    "coingecko_id": "celo",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/CELO.webp",
     "token_type": {
@@ -1730,7 +1700,7 @@
     "name": "FTX Token",
     "symbol": "FTT",
     "official_symbol": "FTT",
-    "coingecko_id": "ftx-token",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/FTXToken.webp",
     "token_type": {
@@ -1744,7 +1714,7 @@
     "name": "Chain",
     "symbol": "XCN",
     "official_symbol": "XCN",
-    "coingecko_id": "chain-2",
+    "coingecko_id": "",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/XCN.webp",
     "token_type": {
@@ -1758,7 +1728,7 @@
     "name": "Wrapped Ether (LayerZero)",
     "symbol": "zWETH",
     "official_symbol": "WETH",
-    "coingecko_id": "weth",
+    "coingecko_id": "layerzero-bridged-weth-aptos",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/WETH.svg",
     "token_type": {
@@ -1773,7 +1743,7 @@
     "name": "Wrapped BTC (LayerZero)",
     "symbol": "zWBTC",
     "official_symbol": "WBTC",
-    "coingecko_id": "wbtc",
+    "coingecko_id": "layerzero-bridged-wbtc-aptos",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BTC.webp",
     "token_type": {
