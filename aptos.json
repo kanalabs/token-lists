@@ -390,6 +390,36 @@
     "address":"0xeedba439a4ab8987a995cf5cfefebd713000b3365718a29dfbc36bc214445fb8"
   },
   {
+    "name": "Kofi APT",
+    "symbol": "kAPT",
+    "official_symbol": "kAPT",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/kAPT.png",
+    "token_type": {
+      "type": "0x821c94e69bc7ca058c913b7b5e6b0a5c9fd1523d58723a966fb8c1f5ea888105",
+      "account_address": "0x821c94e69bc7ca058c913b7b5e6b0a5c9fd1523d58723a966fb8c1f5ea888105",
+      "module_name": "Fungible Asset",
+      "struct_name": "kAPT"
+    },
+    "address":"0x821c94e69bc7ca058c913b7b5e6b0a5c9fd1523d58723a966fb8c1f5ea888105"
+  },
+  {
+    "name": "Staked Kofi APT",
+    "symbol": "stkAPT",
+    "official_symbol": "stkAPT",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/stkAPT.png",
+    "token_type": {
+      "type": "0x42556039b88593e768c97ab1a3ab0c6a17230825769304482dff8fdebe4c002b",
+      "account_address": "0x42556039b88593e768c97ab1a3ab0c6a17230825769304482dff8fdebe4c002b",
+      "module_name": "Fungible Asset",
+      "struct_name": "stkAPT"
+    },
+    "address":"0x42556039b88593e768c97ab1a3ab0c6a17230825769304482dff8fdebe4c002b"
+  },
+  {
     "name": "AMNIS",
     "symbol": "AMI",
     "official_symbol": "AMI",
