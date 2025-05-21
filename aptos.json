@@ -420,6 +420,36 @@
     "address":"0x42556039b88593e768c97ab1a3ab0c6a17230825769304482dff8fdebe4c002b"
   },
   {
+    "name": "OKX Wrapped BTC",
+    "symbol": "xBTC",
+    "official_symbol": "xBTC",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/xBTC.png",
+    "token_type": {
+      "type": "0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387",
+      "account_address": "0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387",
+      "module_name": "Fungible Asset",
+      "struct_name": "xBTC"
+    },
+    "address":"0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387"
+  },
+  {
+    "name": "MESO",
+    "symbol": "MESO",
+    "official_symbol": "MESO",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MESO.png",
+    "token_type": {
+      "type": "0x378d5ba871c3d1bdf477a617f997f23d9e0702de97a02f42925b44fa3abc9866",
+      "account_address": "0x378d5ba871c3d1bdf477a617f997f23d9e0702de97a02f42925b44fa3abc9866",
+      "module_name": "Fungible Asset",
+      "struct_name": "MESO"
+    },
+    "address":"0x378d5ba871c3d1bdf477a617f997f23d9e0702de97a02f42925b44fa3abc9866"
+  },
+  {
     "name": "AMNIS",
     "symbol": "AMI",
     "official_symbol": "AMI",
