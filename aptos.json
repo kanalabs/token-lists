@@ -80,7 +80,7 @@
     "name": "USD Coin (Wormhole)",
     "symbol": "whUSDC",
     "official_symbol": "whUSDC",
-    "coingecko_id": "usd-coin",
+    "coingecko_id": "usd-coin-wormhole-from-ethereum",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
     "token_type": {
@@ -393,7 +393,7 @@
     "name": "Kofi APT",
     "symbol": "kAPT",
     "official_symbol": "kAPT",
-    "coingecko_id": "",
+    "coingecko_id": "kofi-aptos",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/kAPT.png",
     "token_type": {
@@ -1527,7 +1527,7 @@
     "name": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "official_symbol": "WETH",
-    "coingecko_id": "weth",
+    "coingecko_id": "ethereum-wormhole",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/WETH.svg",
     "token_type": {
@@ -1556,7 +1556,7 @@
     "name": "BUSD Token (Wormhole)",
     "symbol": "BUSD",
     "official_symbol": "BUSD",
-    "coingecko_id": "binance-usd",
+    "coingecko_id": "bridged-busd",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BUSD.webp",
     "token_type": {
@@ -1863,7 +1863,7 @@
     "name": "Wrapped Ether (Celer)",
     "symbol": "ceWETH",
     "official_symbol": "WETH",
-    "coingecko_id": "ethereum",
+    "coingecko_id": "wrapped-ether-celer",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/WETH.svg",
     "token_type": {
@@ -1893,7 +1893,7 @@
     "name": "Binance Coin (Celer)",
     "symbol": "ceBNB",
     "official_symbol": "BNB",
-    "coingecko_id": "binancecoin",
+    "coingecko_id": "wrapped-bnb-celer",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BNB.svg",
     "token_type": {
@@ -2176,7 +2176,7 @@
     "name": "Merkle",
     "symbol": "MKL",
     "official_symbol": "MKL",
-    "coingecko_id": "",
+    "coingecko_id": "merkle-trade",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MKL.png",
     "project_url": "https://aptoslabs.com/",
@@ -2207,7 +2207,7 @@
     "name":"BUBBLES",
     "symbol": "BUBBLES",
     "official_symbol": "BUBBLES",
-    "coingecko_id": "",
+    "coingecko_id": "bubbles-2",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/BUBBLES.jpg",
     "token_type":{
