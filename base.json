@@ -489,26 +489,6 @@
     "chainId": 8453
   },
   {
-    "symbol": "stataBasWETH",
-    "name": "Static Aave Base WETH",
-    "decimals": 18,
-    "address": "0x468973e3264f2aeba0417a8f2cd0ec397e738898",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "stataBasUSDbC",
-    "name": "Static Aave Base USDbC",
-    "decimals": 6,
-    "address": "0x6fce2756794128b1771324caa860965801dcbcdb",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
     "symbol": "PRO",
     "name": "Propy",
     "decimals": 8,
@@ -610,16 +590,6 @@
     "chainId": 8453
   },
   {
-    "symbol": "stataBasUSDC",
-    "name": "Static Aave Base USDC",
-    "decimals": 6,
-    "address": "0x4ea71a20e655794051d1ee8b6e4a3269b13ccacc",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
     "symbol": "SKI",
     "name": "SKI MASK DOG",
     "decimals": 9,
@@ -630,16 +600,6 @@
       "tokens"
     ],
     "coingeckoId": "ski-mask-dog",
-    "chainId": 8453
-  },
-  {
-    "symbol": "stataBascbETH",
-    "name": "Static Aave Base cbETH",
-    "decimals": 18,
-    "address": "0x16a004065dfb11276dcb29dc03fb8a85f9a43c6e",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
     "chainId": 8453
   },
   {
@@ -785,7 +745,7 @@
     "name": "Staked USDe",
     "decimals": 18,
     "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-    "logoURI": null,
+    "logoURI": "https://assets.coingecko.com/coins/images/66153/standard/susde.jpg?1748492340",
     "tags": [
       "crosschain",
       "tokens"
@@ -832,26 +792,6 @@
       "tokens"
     ],
     "coingeckoId": "super-oeth",
-    "chainId": 8453
-  },
-  {
-    "symbol": "stataBasweETH",
-    "name": "Static Aave Base weETH",
-    "decimals": 18,
-    "address": "0x588159e0d360ffaa978330812f9234818ab46e8e",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "stataBaswstETH",
-    "name": "Static Aave Base wstETH",
-    "decimals": 18,
-    "address": "0x03916e49f794ab877efa23597627ee8094e6cbb0",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
     "chainId": 8453
   },
   {
@@ -1023,16 +963,6 @@
     "chainId": 8453
   },
   {
-    "symbol": "stataBascbBTC",
-    "name": "Static Aave Base cbBTC",
-    "decimals": 8,
-    "address": "0xeacfa728623d0958e3c386baced79138bcafc50f",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
     "symbol": "LYP",
     "name": "Lympid Token",
     "decimals": 18,
@@ -1074,36 +1004,6 @@
     "chainId": 8453
   },
   {
-    "symbol": "waBaswstETH",
-    "name": "Wrapped Aave Base wstETH",
-    "decimals": 18,
-    "address": "0x0830820d1a9aa1554364752d6d8f55c836871b74",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasWETH",
-    "name": "Wrapped Aave Base WETH",
-    "decimals": 18,
-    "address": "0xe298b938631f750dd409fb18227c4a23dcdaab9b",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasUSDC",
-    "name": "Wrapped Aave Base USDC",
-    "decimals": 6,
-    "address": "0xc768c589647798a6ee01a91fde98ef2ed046dbd6",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
     "symbol": "B3",
     "name": "B3",
     "decimals": 18,
@@ -1114,26 +1014,6 @@
       "tokens"
     ],
     "coingeckoId": "b3",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasGHO",
-    "name": "Wrapped Aave Base GHO",
-    "decimals": 18,
-    "address": "0x88b1cd4b430d95b406e382c3cdbae54697a0286e",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasezETH",
-    "name": "Wrapped Aave Base ezETH",
-    "decimals": 18,
-    "address": "0xf8f10f39116716e89498c1c5e94137ada11b2bc7",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
     "chainId": 8453
   },
   {
@@ -1159,16 +1039,6 @@
     "chainId": 8453
   },
   {
-    "symbol": "waBascbBTC",
-    "name": "Wrapped Aave Base cbBTC",
-    "decimals": 8,
-    "address": "0xfa2a03b6f4a65fb1af64f7d935fdbf78693df9af",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
     "symbol": "ZORA",
     "name": "Zora",
     "decimals": 18,
@@ -1179,26 +1049,6 @@
       "tokens"
     ],
     "coingeckoId": "zora",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasweETH",
-    "name": "Wrapped Aave Base weETH",
-    "decimals": 18,
-    "address": "0x6acd0a165fd70a84b6b50d955ff3628700baaf4b",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasEURC",
-    "name": "Wrapped Aave Base EURC",
-    "decimals": 6,
-    "address": "0x729f75aff28c726e32403e80cef2afb518cfbfa7",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
     "chainId": 8453
   },
   {
@@ -1213,26 +1063,6 @@
       "tokens"
     ],
     "coingeckoId": "wayfinder",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBasUSDbC",
-    "name": "Wrapped Aave Base USDbC",
-    "decimals": 6,
-    "address": "0x74d4d1d440c9679b1013999bd91507eaa2fff651",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
-    "chainId": 8453
-  },
-  {
-    "symbol": "waBascbETH",
-    "name": "Wrapped Aave Base cbETH",
-    "decimals": 18,
-    "address": "0x5e8b674127b321dc344c078e58bbacc3f3008962",
-    "logoURI": null,
-    "tags": [],
-    "coingeckoId": "",
     "chainId": 8453
   },
   {
