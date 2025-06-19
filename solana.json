@@ -346,7 +346,7 @@
     "decimals": 6,
     "name": "Hosico cat",
     "symbol": "Hosico",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/bafkreihev5l3pt2xzyvch2cco5qhimguamdztns2pgpi67tj7punzo34ku",
     "extensions": {
       "coingeckoId": "hosico-cat"
     }
@@ -995,7 +995,7 @@
     "decimals": 8,
     "name": "aixbt by Virtuals (Wormhole)",
     "symbol": "AIXBT",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138",
     "extensions": {
       "coingeckoId": "aixbt"
     }
@@ -1083,7 +1083,7 @@
     "decimals": 6,
     "name": "Let's BONK",
     "symbol": "LetsBONK",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/bafkreigsmirfebog72ttc2egkfk7udsjjlu2ue7hi73bijzupyyatsopgm",
     "extensions": {
       "coingeckoId": "lets-bonk"
     }
@@ -1875,7 +1875,7 @@
     "decimals": 9,
     "name": "Forgive Me Father",
     "symbol": "PURGE",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/bafybeifrvk2uh5bdxp3wjqlwwik2ogafn676jqevrzrbflr26bf4cwfsxu",
     "extensions": {
       "coingeckoId": "forgive-me-father"
     }
@@ -1897,7 +1897,7 @@
     "decimals": 6,
     "name": "Grassito",
     "symbol": "Grassito",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/bafybeihvuo6kkggegbfykumeldyfaxnexmzjqxiouakwsjbfgwz7zq6k5a",
     "extensions": {
       "coingeckoId": "grassito"
     }
@@ -2205,7 +2205,7 @@
     "decimals": 8,
     "name": "Non-Playable Coin (Wormhole)",
     "symbol": "NPC",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31193/large/NPC_200x200.png?1696530021",
     "extensions": {
       "coingeckoId": "non-playable-coin"
     }
@@ -2249,7 +2249,7 @@
     "decimals": 8,
     "name": "HarryPotterObamaSonic (Wormhole)",
     "symbol": "BITCOIN",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224",
     "extensions": {
       "coingeckoId": "harrypotterobamasonic10in"
     }
@@ -2557,7 +2557,7 @@
     "decimals": 8,
     "name": "Luna by Virtuals (Wormhole)",
     "symbol": "LUNA",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50880/large/luna.png?1729478763",
     "extensions": {
       "coingeckoId": "luna-by-virtuals"
     }
@@ -2678,7 +2678,7 @@
     "decimals": 8,
     "name": "Ninja Squad Token (Wormhole)",
     "symbol": "NST",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/22248/large/nst-logo-200x200.png?1711559985",
     "extensions": {
       "coingeckoId": "ninja-squad"
     }
@@ -2920,7 +2920,7 @@
     "decimals": 9,
     "name": "VR1",
     "symbol": "VR1",
-    "logoURI": null,
+    "logoURI": "https://assets.coingecko.com/coins/images/55342/large/THE_ICON.png?1745511625",
     "extensions": {
       "coingeckoId": "vr1"
     }
@@ -2931,7 +2931,7 @@
     "decimals": 6,
     "name": "Warrior Coin",
     "symbol": "$WAR",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/QmVANamUFj5NjNvkNc2yqaTkSnPzve6UAH6gZ1WvrCQsJD",
     "extensions": {
       "coingeckoId": "warrior-coin"
     }
@@ -4196,7 +4196,7 @@
     "decimals": 8,
     "name": "The Doge NFT (Wormhole)",
     "symbol": "DOG",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/18111/large/Doge.png?1696517615",
     "extensions": {
       "coingeckoId": "the-doge-nft"
     }
@@ -4790,7 +4790,7 @@
     "decimals": 8,
     "name": "DAO Maker (Wormhole)",
     "symbol": "DAO",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/13915/large/4.jpg?1727532864",
     "extensions": {
       "coingeckoId": "dao-maker"
     }
@@ -4823,7 +4823,7 @@
     "decimals": 8,
     "name": "AVA (Wormhole)",
     "symbol": "AVA",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3014/large/AVA_Logo_160x160px_Black.png?1696503750",
     "extensions": {
       "coingeckoId": "concierge-io"
     }
@@ -5054,7 +5054,7 @@
     "decimals": 6,
     "name": "BlackRack",
     "symbol": "RACKS",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/QmVRPsBSHpamDzcDzVL9wsbB9gr4frtNrrFF7g44Xa9FuS",
     "extensions": {
       "coingeckoId": "blackrack"
     }
@@ -5615,7 +5615,7 @@
     "decimals": 8,
     "name": "ZigCoin (Wormhole)",
     "symbol": "ZIG",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14796/large/zig.jpg?1731990265",
     "extensions": {
       "coingeckoId": "zignaly"
     }
@@ -5824,7 +5824,7 @@
     "decimals": 8,
     "name": "AlphaKEK.AI (Wormhole)",
     "symbol": "AIKEK",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35445/large/alphakek_-_Copy.png?1708620097",
     "extensions": {
       "coingeckoId": "alphakek-ai"
     }
@@ -6154,7 +6154,7 @@
     "decimals": 8,
     "name": "Shrub (Wormhole)",
     "symbol": "SHRUB",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38880/large/photo_2024-11-13_23.58.11.png?1731575427",
     "extensions": {
       "coingeckoId": "shrub"
     }
@@ -6187,7 +6187,7 @@
     "decimals": 8,
     "name": "pepeCoin (Wormhole)",
     "symbol": "pepecoin",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30219/large/pepecoin-icon_200x200.png?1735790725",
     "extensions": {
       "coingeckoId": "pepecoin-2"
     }
@@ -6715,7 +6715,7 @@
     "decimals": 8,
     "name": "AGI Token (Wormhole)",
     "symbol": "AGI",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29299/large/AGI_logo_200.png?1696528251",
     "extensions": {
       "coingeckoId": "delysium"
     }
@@ -6902,7 +6902,7 @@
     "decimals": 8,
     "name": "donotfomoew (Wormhole)",
     "symbol": "MOEW",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36737/large/moew_logo_%282%29.jpg?1747994632",
     "extensions": {
       "coingeckoId": "moew"
     }
@@ -7485,7 +7485,7 @@
     "decimals": 9,
     "name": "P’Nut's Freedom Farm",
     "symbol": "GOOD",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/QmWspSER6Qw2gJ6QFRf29s5VrZUxmjtZNKRVFhx7PhuYf4",
     "extensions": {
       "coingeckoId": "p-nut-s-freedom-farm"
     }
@@ -7815,7 +7815,7 @@
     "decimals": 8,
     "name": "DooDoo (Wormhole)",
     "symbol": "doodoo",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35033/large/doodoo.png?1707189618",
     "extensions": {
       "coingeckoId": "doodoo"
     }
@@ -7914,7 +7914,7 @@
     "decimals": 8,
     "name": "TADA (Wormhole)",
     "symbol": "TADA",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35180/large/img-linkedin-companyavatar_copie.jpg?1707796022",
     "extensions": {
       "coingeckoId": "ta-da"
     }
@@ -8266,7 +8266,7 @@
     "decimals": 6,
     "name": "Crypto AI",
     "symbol": "CRYPTOAI",
-    "logoURI": null,
+    "logoURI": "https://ipfs.io/ipfs/bafkreieybgvsfnbgdvk3b37a3hzryntis2rftmvgq6biao7mp4qb7fkwnq",
     "extensions": {
       "coingeckoId": "crypto-ai-2"
     }
@@ -8717,7 +8717,7 @@
     "decimals": 8,
     "name": "Token S (Wormhole)",
     "symbol": "S",
-    "logoURI": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54975/large/token-s.jpg?1742970082",
     "extensions": {
       "coingeckoId": "token-s"
     }
