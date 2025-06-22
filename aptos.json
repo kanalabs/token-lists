@@ -408,7 +408,7 @@
     "name": "Staked Kofi APT",
     "symbol": "stkAPT",
     "official_symbol": "stkAPT",
-    "coingecko_id": "",
+    "coingecko_id": "staked-kofi-aptos",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/stkAPT.png",
     "token_type": {
@@ -423,7 +423,7 @@
     "name": "OKX Wrapped BTC",
     "symbol": "xBTC",
     "official_symbol": "xBTC",
-    "coingecko_id": "",
+    "coingecko_id": "okx-wrapped-btc",
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/xBTC.png",
     "token_type": {
@@ -433,6 +433,21 @@
       "struct_name": "xBTC"
     },
     "address":"0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387"
+  },
+    {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "official_symbol": "WBTC",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/WBTC.png",
+    "token_type": {
+      "type": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
+      "account_address": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
+      "module_name": "Fungible Asset",
+      "struct_name": "WBTC"
+    },
+    "address":"0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793"
   },
   {
     "name": "MESO",
@@ -1510,7 +1525,7 @@
   },
   {
     "name": "Wrapped BTC (Wormhole)",
-    "symbol": "WBTC",
+    "symbol": "whWBTC",
     "official_symbol": "WBTC",
     "coingecko_id": "wrapped-bitcoin",
     "decimals": 8,
@@ -1801,7 +1816,7 @@
   },
   {
     "name": "Wrapped BTC (LayerZero)",
-    "symbol": "zWBTC",
+    "symbol": "lzWBTC",
     "official_symbol": "WBTC",
     "coingecko_id": "layerzero-bridged-wbtc-aptos",
     "decimals": 6,
