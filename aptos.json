@@ -465,6 +465,21 @@
     "address":"0x378d5ba871c3d1bdf477a617f997f23d9e0702de97a02f42925b44fa3abc9866"
   },
   {
+    "name": "mirage dollar",
+    "symbol": "mUSD",
+    "official_symbol": "mUSD",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/mUSD.svg",
+    "token_type": {
+      "type": "0xdd84125d1ebac8f1ecb2819801417fc392325e672be111ec03830c34d6ff82dd",
+      "account_address": "0xdd84125d1ebac8f1ecb2819801417fc392325e672be111ec03830c34d6ff82dd",
+      "module_name": "Fungible Asset",
+      "struct_name": "mUSD"
+    },
+    "address":"0xdd84125d1ebac8f1ecb2819801417fc392325e672be111ec03830c34d6ff82dd"
+  },
+  {
     "name": "AMNIS",
     "symbol": "AMI",
     "official_symbol": "AMI",
