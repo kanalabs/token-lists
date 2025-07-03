@@ -434,7 +434,22 @@
     },
     "address":"0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387"
   },
-    {
+  {
+    "name": "Echo",
+    "symbol": "Echo",
+    "official_symbol": "Echo",
+    "coingecko_id": "echo-protocol",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ECHO.svg",
+    "token_type": {
+      "type": "0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7",
+      "account_address": "0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7",
+      "module_name": "Fungible Asset",
+      "struct_name": "Echo"
+    },
+    "address":"0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7"
+  },
+  {
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "official_symbol": "WBTC",
