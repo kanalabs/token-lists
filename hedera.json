@@ -1,0 +1,16 @@
+[
+  {
+    "symbol": "HBAR",
+    "name": "Hedera Hashgraph",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "chainId": 12
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "address": "0x000000000000000000000000000000000006f89a",
+    "decimals": 6,
+    "chainId": 12
+  }
+]
