@@ -435,6 +435,21 @@
     "address":"0x81214a80d82035a190fcb76b6ff3c0145161c3a9f33d137f2bbaee4cfec8a387"
   },
   {
+    "name": "Hyperion",
+    "symbol": "RION",
+    "official_symbol": "RION",
+    "coingecko_id": "hyperion",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/RION.svg",
+    "token_type": {
+      "type": "0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d",
+      "account_address": "0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d",
+      "module_name": "Fungible Asset",
+      "struct_name": "RION"
+    },
+    "address":"0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d"
+  },
+  {
     "name": "Echo",
     "symbol": "Echo",
     "official_symbol": "Echo",
