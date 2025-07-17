@@ -438,7 +438,7 @@
     "name": "Hyperion",
     "symbol": "RION",
     "official_symbol": "RION",
-    "coingecko_id": "hyperion",
+    "coingecko_id": "hyperion-2",
     "decimals": 6,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/RION.svg",
     "token_type": {
