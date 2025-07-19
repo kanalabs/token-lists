@@ -472,12 +472,12 @@
     "decimals": 8,
     "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/WBTC.png",
     "token_type": {
-      "type": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
-      "account_address": "0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793",
+      "type": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d",
+      "account_address": "0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d",
       "module_name": "Fungible Asset",
       "struct_name": "WBTC"
     },
-    "address":"0x3cbc671063660cc4cec2c204ddaabe7978c8bc5adcc79a56f143a212dfd14793"
+    "address":"0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d"
   },
   {
     "name": "MESO",
