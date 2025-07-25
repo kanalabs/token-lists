@@ -1,16 +1,213 @@
 [
   {
     "symbol": "HBAR",
-    "name": "Hedera Hashgraph",
-    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Hedera",
     "decimals": 18,
-    "chainId": 12
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://www.saucerswap.finance/images/tokens/hbar.png",
+    "tags": ["tokens"],
+    "coingeckoId": "hedera-hashgraph",
+    "chainId": 13
   },
   {
     "symbol": "USDC",
     "name": "USD Coin",
-    "address": "0x000000000000000000000000000000000006f89a",
     "decimals": 6,
-    "chainId": 12
+    "address": "0x000000000000000000000000000000000006f89a",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.456858.png",
+    "tags": ["stablecoin", "tokens"],
+    "coingeckoId": "usd-coin",
+    "chainId": 13
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether",
+    "decimals": 6,
+    "address": "0x9fa3fC709276bC09c77b1c177F2f97A6C8101Af0",
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+    "tags": ["stablecoin", "tokens"],
+    "coingeckoId": "tether",
+    "chainId": 13
+  },
+  {
+    "symbol": "KARATE",
+    "name": "Karate",
+    "decimals": 6,
+    "address": "0x000000000000000000000000000000000022d6de",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.2283230.png",
+    "tags": ["tokens"],
+    "coingeckoId": "karate-combat",
+    "chainId": 13
+  },
+  {
+    "symbol": "CLXY",
+    "name": "Calaxy Tokens",
+    "decimals": 6,
+    "address": "0x00000000000000000000000000000000000d1ea6",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.859814.png",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "SAUCE",
+    "name": "SAUCE",
+    "decimals": 6,
+    "address": "0x00000000000000000000000000000000000b2ad5",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.731861.png",
+    "tags": ["dex", "tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "$LAB",
+    "name": "Satoshi NFT Labs",
+    "decimals": 8,
+    "address": "0x00000000000000000000000000000000000ff4da",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.1045722.png",
+    "tags": ["nft", "tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "CREAM",
+    "name": "CREAM",
+    "decimals": 0,
+    "address": "0x00000000000000000000000000000000000e22b1",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.926385.svg",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "DAI[hts]",
+    "name": "Dai Stablecoin",
+    "decimals": 8,
+    "address": "0x0000000000000000000000000000000000101af5",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.1055477.svg",
+    "tags": ["stablecoin", "tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "DOV[hts]",
+    "name": "DOVU",
+    "decimals": 8,
+    "address": "0x0000000000000000000000000000000000098779",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.624505.svg",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "GARY",
+    "name": "GASLESS GARY",
+    "decimals": 8,
+    "address": "0x000000000000000000000000000000000021226e",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.2171502.png",
+    "tags": ["meme", "tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "HASHTREE",
+    "name": "HASHTREE",
+    "decimals": 8,
+    "address": "0x0000000000000000000000000000000000163748",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.1455944.png",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "HELI",
+    "name": "HeliSwap",
+    "decimals": 8,
+    "address": "0x00000000000000000000000000000000001d90c9",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.1937609.svg",
+    "tags": ["dex", "tokens"],
+    "coingeckoId": "heliswap",
+    "chainId": 13
+  },
+  {
+    "symbol": "HSUITE",
+    "name": "HbarSuite",
+    "decimals": 4,
+    "address": "0x00000000000000000000000000000000000c01f3",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.786931.png",
+    "tags": ["tokens"],
+    "coingeckoId": "hbarsuite",
+    "chainId": 13
+  },
+  {
+    "symbol": "HCHF",
+    "name": "HCHF Stablecoin",
+    "decimals": 8,
+    "address": "0x00000000000000000000000000000000005c9f6b",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.6070123.png",
+    "tags": ["stablecoin", "tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "CAN",
+    "name": "ISLAS CANARIAS",
+    "decimals": 0,
+    "address": "0x0000000000000000000000000000000000498107",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.4817159.png",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "XPH",
+    "name": "XPHOTON",
+    "decimals": 17,
+    "address": "0x00000000000000000000000000000000004265cc",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.4351436.png",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },
+  {
+    "symbol": "BONZO",
+    "name": "BONZO",
+    "decimals": 8,
+    "address": "0x00000000000000000000000000000000007e545e",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.8279134.png",
+    "tags": ["tokens", "bonzo-finance"],
+    "coingeckoId": "bonzo-finance",
+    "chainId": 13
+  },
+
+  {
+    "symbol": "KBL",
+    "name": "KBL",
+    "decimals": 6,
+    "address": "0x00000000000000000000000000000000005b665a",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.5989978.svg",
+    "tags": ["tokens"],
+    "coingeckoId": "kabila",
+    "chainId": 13
+  },
+  {
+    "symbol": "HBARX",
+    "name": "HBARX",
+    "decimals": 8,
+    "address": "0x00000000000000000000000000000000000cba44",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.834116.svg",
+    "tags": ["hbarx", "tokens"],
+    "coingeckoId": "hbarx",
+    "chainId": 13
+  },
+  {
+    "symbol": "HST",
+    "name": "HeadStarter",
+    "decimals": 8,
+    "address": "0x00000000000000000000000000000000000ec585",
+    "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.968069.png",
+    "tags": ["headstarter", "tokens"],
+    "coingeckoId": "headstarter",
+    "chainId": 13
   }
 ]
