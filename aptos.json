@@ -480,6 +480,36 @@
     "address":"0x68844a0d7f2587e726ad0579f3d640865bb4162c08a4589eeda3f9689ec52a3d"
   },
   {
+    "name": "Defi Cattos",
+    "symbol": "CATTOS",
+    "official_symbol": "CATTOS",
+    "coingecko_id": "defi-cattos",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/CATTOS.png",
+    "token_type": {
+      "type": "0xeeb5ba9616292d315edc8ce36a25b921bab879b2a7088d479d12b0c182bd28c8",
+      "account_address": "0xeeb5ba9616292d315edc8ce36a25b921bab879b2a7088d479d12b0c182bd28c8",
+      "module_name": "Fungible Asset",
+      "struct_name": "CATTOS"
+    },
+    "address":"0xeeb5ba9616292d315edc8ce36a25b921bab879b2a7088d479d12b0c182bd28c8"
+  },
+  {
+    "name": "Klickl Token",
+    "symbol": "KLK",
+    "official_symbol": "KLK",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/KLK.svg",
+    "token_type": {
+      "type": "0x037b33e41330ab4d64c273b52cbacb23fb9dec352fadab768d73293f943193d6",
+      "account_address": "0x037b33e41330ab4d64c273b52cbacb23fb9dec352fadab768d73293f943193d6",
+      "module_name": "Fungible Asset",
+      "struct_name": "KLK"
+    },
+    "address":"0x037b33e41330ab4d64c273b52cbacb23fb9dec352fadab768d73293f943193d6"
+  },
+  {
     "name": "MESO",
     "symbol": "MESO",
     "official_symbol": "MESO",
