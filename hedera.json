@@ -16,7 +16,7 @@
     "address": "0x000000000000000000000000000000000006f89a",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.456858.png",
     "tags": ["stablecoin", "tokens"],
-    "coingeckoId": "usd-coin",
+    "coingeckoId": "bridged-usdc",
     "chainId": 13
   },
   {
@@ -46,7 +46,7 @@
     "address": "0x00000000000000000000000000000000000d1ea6",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.859814.png",
     "tags": ["tokens"],
-    "coingeckoId": "",
+    "coingeckoId": "calaxy",
     "chainId": 13
   },
   {
@@ -56,7 +56,7 @@
     "address": "0x00000000000000000000000000000000000b2ad5",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.731861.png",
     "tags": ["dex", "tokens"],
-    "coingeckoId": "",
+    "coingeckoId": "saucerswap",
     "chainId": 13
   },
   {
@@ -86,7 +86,7 @@
     "address": "0x0000000000000000000000000000000000101af5",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.1055477.svg",
     "tags": ["stablecoin", "tokens"],
-    "coingeckoId": "",
+    "coingeckoId": "ridged-dai-stablecoin-hashport",
     "chainId": 13
   },
   {
@@ -96,7 +96,7 @@
     "address": "0x0000000000000000000000000000000000098779",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.624505.svg",
     "tags": ["tokens"],
-    "coingeckoId": "",
+    "coingeckoId": "dovu",
     "chainId": 13
   },
   {
@@ -136,7 +136,7 @@
     "address": "0x00000000000000000000000000000000000c01f3",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.786931.png",
     "tags": ["tokens"],
-    "coingeckoId": "hbarsuite",
+    "coingeckoId": "hsuite",
     "chainId": 13
   },
   {
@@ -146,7 +146,7 @@
     "address": "0x00000000000000000000000000000000005c9f6b",
     "logoURI": "https://dwk1opv266jxs.cloudfront.net/icons/tokens/0.0.6070123.png",
     "tags": ["stablecoin", "tokens"],
-    "coingeckoId": "",
+    "coingeckoId": "hedera-swiss-franc",
     "chainId": 13
   },
   {
