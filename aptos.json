@@ -465,6 +465,21 @@
     "address":"0xb2c7780f0a255a6137e5b39733f5a4c85fe093c549de5c359c1232deef57d1b7"
   },
   {
+    "name": "Fiamma BTC",
+    "symbol": "FIABTC",
+    "official_symbol": "FIABTC",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/FIABTC.png",
+    "token_type": {
+      "type": "0x75de592a7e62e6224d13763c392190fda8635ebb79c798a5e9dd0840102f3f93",
+      "account_address": "0x75de592a7e62e6224d13763c392190fda8635ebb79c798a5e9dd0840102f3f93",
+      "module_name": "Fungible Asset",
+      "struct_name": "FIABTC"
+    },
+    "address":"0x75de592a7e62e6224d13763c392190fda8635ebb79c798a5e9dd0840102f3f93"
+  },
+  {
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "official_symbol": "WBTC",
