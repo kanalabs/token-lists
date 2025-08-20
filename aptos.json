@@ -1,4 +1,20 @@
 [
+    {
+    "name": "Kana",
+    "symbol": "KANA",
+    "official_symbol": "KANA",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/KANA.png",
+    "project_url": "https://kanalabs.io",
+    "token_type": {
+      "type": "0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2",
+      "account_address": "0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2",
+      "module_name": "Fungible Asset",
+      "struct_name": "Kana"
+    },
+    "address":"0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2"
+  },
   {
     "name": "Aptos Coin",
     "symbol": "APT",
