@@ -465,6 +465,21 @@
     },
     "address":"0x435ad41e7b383cef98899c4e5a22c8dc88ab67b22f95e5663d6c6649298c3a9d"
   },
+    {
+    "name": "AURO USDA",
+    "symbol": "USDA",
+    "official_symbol": "USDA",
+    "coingecko_id": "auro-usda",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/AURO_USDA.png",
+    "token_type": {
+      "type": "0x534e4c3dc0f038dab1a8259e89301c4da58779a5d482fb354a41c08147e6b9ec",
+      "account_address": "0x534e4c3dc0f038dab1a8259e89301c4da58779a5d482fb354a41c08147e6b9ec",
+      "module_name": "Fungible Asset",
+      "struct_name": "USDA"
+    },
+    "address":"0x534e4c3dc0f038dab1a8259e89301c4da58779a5d482fb354a41c08147e6b9ec"
+  },
   {
     "name": "Echo",
     "symbol": "Echo",
