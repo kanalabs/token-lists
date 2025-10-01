@@ -122,6 +122,21 @@
     },
     "address":"0x6704464238d73a679486420aab91a8a2a01feb9d700e8ba3332aa3e41d3eab62"
   },
+    {
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "official_symbol": "USD1",
+    "coingecko_id": "usd1-wlfi",
+    "decimals": 6,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/USD1.png",
+    "token_type": {
+      "type": "0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2",
+      "account_address": "0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2",
+      "module_name": "Fungible Asset",
+      "struct_name": "USD1"
+    },
+    "address":"0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2"
+  },
   {
     "name": "eAPT",
     "symbol": "eAPT",
