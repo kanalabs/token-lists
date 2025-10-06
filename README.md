@@ -16,3 +16,4 @@
 - Solana
 - Sui
 - Zksync
+- Monad
