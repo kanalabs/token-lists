@@ -4,9 +4,9 @@
     "name": "Wrapped Monad",
     "decimals": 18,
     "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/WMON.png",
     "tags": ["tokens"],
-    "coingeckoId": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/WMON.png",
+    "coingeckoId": "",
     "chainId": 13
   },
   {
