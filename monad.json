@@ -1,5 +1,15 @@
 [
   {
+    "symbol": "MON",
+    "name": "Monad",
+    "decimals": 18,
+    "address": "0x0000000000000000000000000000000000000000",
+    "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MOD.png",
+    "tags": ["tokens"],
+    "coingeckoId": "",
+    "chainId": 13
+  },  
+  {
     "symbol": "WMON",
     "name": "Wrapped Monad",
     "decimals": 18,
