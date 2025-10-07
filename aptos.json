@@ -122,7 +122,7 @@
     },
     "address":"0x6704464238d73a679486420aab91a8a2a01feb9d700e8ba3332aa3e41d3eab62"
   },
-    {
+  {
     "name": "World Liberty Financial USD",
     "symbol": "USD1",
     "official_symbol": "USD1",
@@ -136,6 +136,21 @@
       "struct_name": "USD1"
     },
     "address":"0x05fabd1b12e39967a3c24e91b7b8f67719a6dacee74f3c8b9fb7d93e855437d2"
+  },
+  {
+    "name": "KGEN",
+    "symbol": "KGEN",
+    "official_symbol": "KGEN",
+    "coingecko_id": "kgen",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/KGEN.png",
+    "token_type": {
+      "type": "0x2a8227993a4e38537a57caefe5e7e9a51327bf6cd732c1f56648f26f68304ebc",
+      "account_address": "0x2a8227993a4e38537a57caefe5e7e9a51327bf6cd732c1f56648f26f68304ebc",
+      "module_name": "Fungible Asset",
+      "struct_name": "KGEN"
+    },
+    "address":"0x2a8227993a4e38537a57caefe5e7e9a51327bf6cd732c1f56648f26f68304ebc"
   },
   {
     "name": "eAPT",
