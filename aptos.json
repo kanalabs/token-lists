@@ -260,7 +260,22 @@
       "struct_name": "THL"
     },
     "address":"0x377adc4848552eb2ea17259be928001923efe12271fef1667e2b784f04a7cf3a"
-
+  },
+  {
+    "name": "Reserve Token",
+    "symbol": "RESERVE",
+    "official_symbol": "RESERVE",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/RESERVE.png",
+    "project_url": "https://www.aptreserve.xyz",
+    "token_type": {
+      "type": "0x187428b1a8b1c823e5ad1bf07121cbe8712f2efc95c3117d1212ab8b33bae51c::reserve_coin::RESERVE",
+      "account_address": "0x187428b1a8b1c823e5ad1bf07121cbe8712f2efc95c3117d1212ab8b33bae51c",
+      "module_name": "reserve_coin",
+      "struct_name": "RESERVE"
+    },
+    "address":"0xe87ffe47d2e77253865f964c9478b333bedd1c54aa3e090ac8fc84db51aeff8b"
   },
   {
     "name": "Liquidswap",
