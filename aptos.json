@@ -1,20 +1,4 @@
 [
-    {
-    "name": "Kana",
-    "symbol": "KANA",
-    "official_symbol": "KANA",
-    "coingecko_id": "",
-    "decimals": 8,
-    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/KANA.png",
-    "project_url": "https://kanalabs.io",
-    "token_type": {
-      "type": "0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2",
-      "account_address": "0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2",
-      "module_name": "Fungible Asset",
-      "struct_name": "Kana"
-    },
-    "address":"0x623278ede66082bef28103009de81a56105df9ec71a2a3b3e65c47a351771ff2"
-  },
   {
     "name": "Aptos Coin",
     "symbol": "APT",
@@ -674,6 +658,21 @@
       "struct_name": "RWD"
     },
     "address":"0xc9a5d270bb8bb47e7bb34377ceb529db2878e4a7b521b5b8a984b35f8feaa8e2"
+  },
+  {
+    "name": "GMEOW",
+    "symbol": "GMEOW",
+    "official_symbol": "GMEOW",
+    "coingecko_id": "gmeow",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/GMEOW.png",
+    "token_type": {
+      "type": "0x4497d70897762eb540280f1d90a17661f30239ffb1bfc8a0bd4db7d44dfab77a",
+      "account_address": "0x4497d70897762eb540280f1d90a17661f30239ffb1bfc8a0bd4db7d44dfab77a",
+      "module_name": "Fungible Asset",
+      "struct_name": "GMEOW"
+    },
+    "address":"0x4497d70897762eb540280f1d90a17661f30239ffb1bfc8a0bd4db7d44dfab77a"
   },
   {
     "name": "Aptoge",
