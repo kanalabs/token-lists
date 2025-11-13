@@ -147,6 +147,19 @@
     "chainId": 56
   },
   {
+    "symbol": "KGEN",
+    "name": "KGEN",
+    "decimals": 8,
+    "address": "0xf3d5b4c34ed623478cc5141861776e6cf7ae3a1e",
+    "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/KGEN.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "kgen",
+    "chainId": 56
+  },
+  {
     "symbol": "MDAO",
     "name": "MarsDAO",
     "decimals": 18,
