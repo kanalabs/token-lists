@@ -214,7 +214,7 @@
     "name": "Dola USD Stablecoin",
     "decimals": 18,
     "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0x4621b7a9c75199271f773ebd9a499dbd165c3191.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14287/large/dola.png?1696513984",
     "tags": [
       "crosschain",
       "GROUP:DOLA",
@@ -556,7 +556,7 @@
     "name": "Virtual Protocol",
     "decimals": 18,
     "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
     "tags": [
       "crosschain",
       "GROUP:VIRTUAL",
@@ -771,7 +771,7 @@
     "name": "Solana (Universal)",
     "decimals": 18,
     "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0x9b8df6e244526ab5f6e6400d331db28c8fdddb55_0x126d08e99861b7a879cd3940c8c16d86419016bcbaea4391639f5de045c15ac3.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39987/large/UA-SOL_1.png?1725027946",
     "tags": [
       "crosschain",
       "tokens"
@@ -914,7 +914,7 @@
     "name": "Morpho Token",
     "decimals": 18,
     "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842_0xd18e9e5389702605395fffb94abd4f826aea2adbdc440bd890b21ef529e73df0.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
     "tags": [
       "crosschain",
       "tokens"
