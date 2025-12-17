@@ -637,10 +637,12 @@
     "decimals": 8,
     "name": "SPX6900 (Wormhole)",
     "symbol": "SPX",
-    "logoURI": "https://i.imgur.com/fLpAyY4.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
+    "coingeckoId": "spx6900",
     "extensions": {
       "coingeckoId": "spx6900"
-    }
+    },
+    "logoFixStatus": "batch-updated"
   },
   {
     "address": "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
@@ -1793,10 +1795,12 @@
     "decimals": 6,
     "name": "OctonetAI",
     "symbol": "OCTO",
-    "logoURI": "https://i.imgur.com/UwiREVK.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51829/large/OctonetAI.png?1732043000",
+    "coingeckoId": "octonetai",
     "extensions": {
       "coingeckoId": "octonetai"
-    }
+    },
+    "logoFixStatus": "batch-updated"
   },
   {
     "address": "G5e2XonmccmdKc98g3eNQe5oBYGw9m8xdMUvVtcZpump",
@@ -2821,10 +2825,12 @@
     "decimals": 6,
     "name": "SolCex ",
     "symbol": "SOLCEX",
-    "logoURI": "https://i.imgur.com/YN1yUMM.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37290/large/IMG_20240420_231258_206.png?1713947143",
+    "coingeckoId": "solcex",
     "extensions": {
       "coingeckoId": "solcex"
-    }
+    },
+    "logoFixStatus": "batch-updated"
   },
   {
     "address": "4WMcTsfEMNwhpPhfWDrnKAGintoFhmRcN5p1UDB6pump",
@@ -3158,17 +3164,6 @@
     "logoURI": "https://ipfs.io/ipfs/QmSSrzd99jeJfbqEbCam2WQMmjch38o5d3KphdtEg13fYD",
     "extensions": {
       "coingeckoId": "linkednation"
-    }
-  },
-  {
-    "address": "9Rhbn9G5poLvgnFzuYBtJgbzmiipNra35QpnUek9virt",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "Billy Bets by VIRTUALS",
-    "symbol": "BILLY",
-    "logoURI": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmdRU5EkGt1VsgLsXJdHK5kjojQqggQHjhyqeJwmApR53R",
-    "extensions": {
-      "coingeckoId": "billy-bets-by-virtuals"
     }
   },
   {
@@ -3862,10 +3857,12 @@
     "decimals": 9,
     "name": "Tajir Media",
     "symbol": "TJRM",
-    "logoURI": "https://i.imgur.com/IHBoT1n.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53685/large/3D_logo_PG.png?1737027049",
+    "coingeckoId": "tajir-tech-hub",
     "extensions": {
       "coingeckoId": "tajir-tech-hub"
-    }
+    },
+    "logoFixStatus": "batch-updated"
   },
   {
     "address": "AgDNMAi8r2QS1FQEeTHLsZSmkQKCK7xXP2bR7jQ2pump",
@@ -4006,10 +4003,12 @@
     "decimals": 9,
     "name": "shibwifhat",
     "symbol": "SHIB",
-    "logoURI": "https://i.imgur.com/6CMeW5c.jpg",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35115/large/IMG_20240206_134805_970.png?1707397125",
+    "coingeckoId": "shibwifhatcoin",
     "extensions": {
       "coingeckoId": "shibwifhatcoin"
-    }
+    },
+    "logoFixStatus": "batch-updated"
   },
   {
     "address": "Gp8GVGPc8QCe4Jn6ryG5YKokG5bjKycATEzqpeyspump",
@@ -4149,10 +4148,12 @@
     "decimals": 6,
     "name": "Naked Jim",
     "symbol": "JIM",
-    "logoURI": "https://i.imgur.com/zz3dMrb.png",
+    "coingeckoId": "naked-jim",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51158/large/Naked_Jim_Coin_Gecko.png?1730239333",
     "extensions": {
       "coingeckoId": "naked-jim"
-    }
+    },
+    "logoFixStatus": "batch-updated"
   },
   {
     "address": "9So52ugZh2BLBT3f7p61947q91uQh2DyvbfyMDeRpump",
