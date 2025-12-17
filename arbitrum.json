@@ -740,7 +740,7 @@
     "name": "Mountain Protocol USD",
     "decimals": 18,
     "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x59d9356e565ab3a36dd77763fc0d87feaf85508c_0x08fd2b601af615d0277c97dde87e790c988e73c8f08a6c5a2a2026804a3f5265.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
     "tags": [
       "crosschain",
       "GROUP:USDM",
@@ -838,7 +838,7 @@
     "name": "ether.fi governance token",
     "decimals": 18,
     "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27.png",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
     "tags": [
       "crosschain",
       "tokens"
