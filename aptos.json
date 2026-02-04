@@ -262,6 +262,22 @@
     "address":"0xe87ffe47d2e77253865f964c9478b333bedd1c54aa3e090ac8fc84db51aeff8b"
   },
   {
+    "name": "Echelon Token",
+    "symbol": "ELON",
+    "official_symbol": "ELON",
+    "coingecko_id": "echelon-token",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/ELON.svg",
+    "project_url": "https://echelon.market",
+    "token_type": {
+      "type": "0x51964f09020498a1421a2a3bafe8e1d9fa72574b60446486c599bc6f3e9fae29::echelon_coin::ELON",
+      "account_address": "0x51964f09020498a1421a2a3bafe8e1d9fa72574b60446486c599bc6f3e9fae29",
+      "module_name": "echelon_coin",
+      "struct_name": "ELON"
+    },
+    "address":"0xfc087a394c203d62c43eecfeba79db01441d39dd9d234131b78415626a26750e"
+  },
+  {
     "name": "Liquidswap",
     "symbol": "LSD",
     "official_symbol": "LSD",
