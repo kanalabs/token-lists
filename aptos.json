@@ -278,6 +278,22 @@
     "address":"0xfc087a394c203d62c43eecfeba79db01441d39dd9d234131b78415626a26750e"
   },
   {
+    "name": "Tapp Exchange",
+    "symbol": "TAPP",
+    "official_symbol": "TAPP",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/TAPP.svg",
+    "project_url": "https://tapp.exchange",
+    "token_type": {
+      "type": "0x7e464f3d2c1aed51cdcbdc653cc5c21526fe424bed2944bdd21dabb389dd7921",
+      "account_address": "0x7e464f3d2c1aed51cdcbdc653cc5c21526fe424bed2944bdd21dabb389dd7921",
+      "module_name": "TAPP",
+      "struct_name": "TAPP"
+    },
+    "address":"0x7e464f3d2c1aed51cdcbdc653cc5c21526fe424bed2944bdd21dabb389dd7921"
+  },
+  {
     "name": "Liquidswap",
     "symbol": "LSD",
     "official_symbol": "LSD",
