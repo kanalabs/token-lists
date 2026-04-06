@@ -1,15 +1,258 @@
 [
   {
-    "symbol": "sAVAX",
-    "name": "Staked AVAX",
+    "symbol": "AVAX",
+    "name": "Avalanche",
     "decimals": 18,
-    "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/23657/large/savax_blue.png?1696522860",
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+    "tags": [
+      "crosschain",
+      "GROUP:AVAX",
+      "native",
+      "PEG:AVAX"
+    ],
+    "coingeckoId": "avalanche-2",
+    "chainId": 43114
+  },
+  {
+    "symbol": "USDt",
+    "name": "TetherToken",
+    "decimals": 6,
+    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "tags": [
+      "crosschain",
+      "GROUP:USDT",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "tether",
+    "chainId": 43114
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 43114
+  },
+  {
+    "symbol": "AAVE.e",
+    "name": "Aave Token",
+    "decimals": 18,
+    "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0x63a72806098bd3d9520cc43356dd78afe5d386d9.webp",
+    "tags": [
+      "crosschain",
+      "GROUP:AAVE",
+      "tokens"
+    ],
+    "coingeckoId": "aave",
+    "chainId": 43114
+  },
+  {
+    "symbol": "LINK.e",
+    "name": "Chainlink Token",
+    "decimals": 18,
+    "address": "0x5947bb275c521040051d82396192181b413227a3",
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0x5947bb275c521040051d82396192181b413227a3.png",
+    "tags": [
+      "crosschain",
+      "GROUP:LINK",
+      "tokens"
+    ],
+    "coingeckoId": "chainlink",
+    "chainId": 43114
+  },
+  {
+    "symbol": "WAVAX",
+    "name": "Wrapped AVAX",
+    "decimals": 18,
+    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
+    "tags": [
+      "crosschain",
+      "PEG:AVAX",
+      "tokens"
+    ],
+    "coingeckoId": "wrapped-avax",
+    "chainId": 43114
+  },
+  {
+    "symbol": "ZRO",
+    "name": "LayerZero",
+    "decimals": 18,
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0x6985884c4392d348587b19cb9eaaf157f13271cd.png",
+    "tags": [
+      "crosschain",
+      "GROUP:ZRO",
+      "tokens"
+    ],
+    "coingeckoId": "layerzero",
+    "chainId": 43114
+  },
+  {
+    "symbol": "BTC.b",
+    "name": "Bitcoin",
+    "decimals": 8,
+    "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "logoURI": "https://tokens.1inch.io/0x152b9d0fdc40c096757f570a51e494bd4b943e50.png",
+    "tags": [
+      "crosschain",
+      "PEG:BTC",
+      "tokens"
+    ],
+    "coingeckoId": "bitcoin-avalanche-bridged-btc-b",
+    "chainId": 43114
+  },
+  {
+    "symbol": "EURC",
+    "name": "Euro Coin",
+    "decimals": 6,
+    "address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+    "logoURI": "https://tokens.1inch.io/0xc891eb4cbdeff6e073e859e987815ed1505c2acd.png",
+    "tags": [
+      "crosschain",
+      "GROUP:EURC",
+      "tokens"
+    ],
+    "coingeckoId": "euro-coin",
+    "chainId": 43114
+  },
+  {
+    "symbol": "STG",
+    "name": "StargateToken",
+    "decimals": 18,
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "logoURI": "https://tokens.1inch.io/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590.png",
+    "tags": [
+      "crosschain",
+      "GROUP:STG",
+      "tokens"
+    ],
+    "coingeckoId": "stargate-finance",
+    "chainId": 43114
+  },
+  {
+    "symbol": "WETH.e",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "tags": [
+      "crosschain",
+      "GROUP:WETH",
+      "PEG:ETH",
+      "tokens"
+    ],
+    "coingeckoId": "avalanche-bridged-weth-avalanche",
+    "chainId": 43114
+  },
+  {
+    "symbol": "TUSD",
+    "name": "TrueUSD",
+    "decimals": 18,
+    "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+    "logoURI": "https://tokens.1inch.io/0x1c20e891bab6b1727d14da358fae2984ed9b59eb.png",
+    "tags": [
+      "crosschain",
+      "GROUP:TUSD",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "true-usd",
+    "chainId": 43114
+  },
+  {
+    "symbol": "SPELL",
+    "name": "Spell Token",
+    "decimals": 18,
+    "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+    "logoURI": "https://tokens.1inch.io/0x090185f2135308bad17527004364ebcc2d37e5f6.png",
+    "tags": [
+      "crosschain",
+      "GROUP:SPELL",
+      "tokens"
+    ],
+    "coingeckoId": "spell-token",
+    "chainId": 43114
+  },
+  {
+    "symbol": "SWAP.e",
+    "name": "TrustSwap Token",
+    "decimals": 18,
+    "address": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+    "logoURI": "https://tokens.1inch.io/0xcc4304a31d09258b0029ea7fe63d032f52e44efe.png",
     "tags": [
       "crosschain",
       "tokens"
     ],
-    "coingeckoId": "benqi-liquid-staked-avax",
+    "coingeckoId": "trustswap",
+    "chainId": 43114
+  },
+  {
+    "symbol": "GMX",
+    "name": "GMX",
+    "decimals": 18,
+    "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+    "logoURI": "https://tokens.1inch.io/0x62edc0692bd897d2295872a9ffcac5425011c661.png",
+    "tags": [
+      "crosschain",
+      "GROUP:GMX",
+      "tokens"
+    ],
+    "coingeckoId": "gmx",
+    "chainId": 43114
+  },
+  {
+    "symbol": "SYN",
+    "name": "Synapse",
+    "decimals": 18,
+    "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
+    "logoURI": "https://tokens.1inch.io/0x1f1e7c893855525b303f99bdf5c3c05be09ca251_1.png",
+    "tags": [
+      "crosschain",
+      "GROUP:SYN",
+      "tokens"
+    ],
+    "coingeckoId": "synapse-2",
+    "chainId": 43114
+  },
+  {
+    "symbol": "JOE",
+    "name": "JoeToken",
+    "decimals": 18,
+    "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "logoURI": "https://tokens.1inch.io/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd.png",
+    "tags": [
+      "crosschain",
+      "GROUP:JOE",
+      "tokens"
+    ],
+    "coingeckoId": "joe",
+    "chainId": 43114
+  },
+  {
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "decimals": 18,
+    "address": "0x214db107654ff987ad859f34125307783fc8e387",
+    "logoURI": "https://tokens.1inch.io/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
+    "tags": [
+      "crosschain",
+      "GROUP:FXS",
+      "tokens"
+    ],
+    "coingeckoId": "frax-share",
     "chainId": 43114
   },
   {
@@ -27,18 +270,601 @@
     "chainId": 43114
   },
   {
-    "symbol": "USDt",
-    "name": "TetherToken",
-    "decimals": 6,
-    "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "symbol": "sAVAX",
+    "name": "Staked AVAX",
+    "decimals": 18,
+    "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/23657/large/savax_blue.png?1696522860",
     "tags": [
       "crosschain",
-      "GROUP:USDT",
+      "tokens"
+    ],
+    "coingeckoId": "benqi-liquid-staked-avax",
+    "chainId": 43114
+  },
+  {
+    "symbol": "USDC.e",
+    "name": "USD Coin",
+    "decimals": 6,
+    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC.e",
       "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "tether",
+    "coingeckoId": "usd-coin-avalanche-bridged-usdc-e",
+    "chainId": 43114
+  },
+  {
+    "symbol": "XAVA",
+    "name": "Avalaunch",
+    "decimals": 18,
+    "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
+    "logoURI": "https://tokens.1inch.io/0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "avalaunch",
+    "chainId": 43114
+  },
+  {
+    "symbol": "QI",
+    "name": "BENQI",
+    "decimals": 18,
+    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+    "logoURI": "https://tokens.1inch.io/0x8729438eb15e2c8b576fcc6aecda6a148776c0f5.png",
+    "tags": [
+      "crosschain",
+      "GROUP:QI",
+      "tokens"
+    ],
+    "coingeckoId": "benqi",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avWETH",
+    "name": "Aave Avalanche Market WETH",
+    "decimals": 18,
+    "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
+    "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
+    "tags": [
+      "crosschain",
+      "PEG:ETH",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avWBTC",
+    "name": "Aave Avalanche Market WBTC",
+    "decimals": 8,
+    "address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
+    "logoURI": "https://tokens.1inch.io/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656.png",
+    "tags": [
+      "crosschain",
+      "PEG:BTC",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "PNG",
+    "name": "Pangolin",
+    "decimals": 18,
+    "address": "0x60781c2586d68229fde47564546784ab3faca982",
+    "logoURI": "https://tokens.1inch.io/0x60781c2586d68229fde47564546784ab3faca982.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "pangolin",
+    "chainId": 43114
+  },
+  {
+    "symbol": "WXT",
+    "name": "Wirex Token",
+    "decimals": 18,
+    "address": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1",
+    "logoURI": "https://tokens.1inch.io/0xfcde4a87b8b6fa58326bb462882f1778158b02f1.png",
+    "tags": [
+      "crosschain",
+      "GROUP:WXT",
+      "tokens"
+    ],
+    "coingeckoId": "wirex",
+    "chainId": 43114
+  },
+  {
+    "symbol": "USDT.e",
+    "name": "Tether USD",
+    "decimals": 6,
+    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+    "logoURI": "https://tokens.1inch.io/0xc7198437980c041c805a1edcba50c1ce5db95118.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDT.e",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "tether-avalanche-bridged-usdt-e",
+    "chainId": 43114
+  },
+  {
+    "symbol": "ggAVAX",
+    "name": "GoGoPool Liquid Staking Token",
+    "decimals": 18,
+    "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
+    "logoURI": "https://tokens.1inch.io/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "gogopool-ggavax",
+    "chainId": 43114
+  },
+  {
+    "symbol": "WBTC.e",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "tags": [
+      "crosschain",
+      "GROUP:WBTC",
+      "PEG:BTC",
+      "tokens"
+    ],
+    "coingeckoId": "avalanche-old-bridged-wbtc-avalanche",
+    "chainId": 43114
+  },
+  {
+    "symbol": "MIM",
+    "name": "Magic Internet Money",
+    "decimals": 18,
+    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0x130966628846bfd36ff31a822705796e8cb8c18d.webp",
+    "tags": [
+      "crosschain",
+      "GROUP:MIM",
+      "tokens"
+    ],
+    "coingeckoId": "magic-internet-money-avalanche",
+    "chainId": 43114
+  },
+  {
+    "symbol": "DOMI",
+    "name": "Domi",
+    "decimals": 18,
+    "address": "0xfc6da929c031162841370af240dec19099861d3b",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/21633/large/Transparent_Circle_Logo_2.png?1696520993",
+    "tags": [
+      "crosschain",
+      "GROUP:DOMI",
+      "tokens"
+    ],
+    "coingeckoId": "domi",
+    "chainId": 43114
+  },
+  {
+    "symbol": "COOK",
+    "name": "Poly-Peg COOK",
+    "decimals": 18,
+    "address": "0x637afeff75ca669ff92e4570b14d6399a658902f",
+    "logoURI": "https://tokens.1inch.io/0xff75ced57419bcaebe5f05254983b013b0646ef5.png",
+    "tags": [
+      "crosschain",
+      "GROUP:COOK",
+      "tokens"
+    ],
+    "coingeckoId": "cook",
+    "chainId": 43114
+  },
+  {
+    "symbol": "gOHM",
+    "name": "Governance OHM",
+    "decimals": 18,
+    "address": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
+    "logoURI": "https://tokens.1inch.io/0x321e7092a180bb43555132ec53aaa65a5bf84251.png",
+    "tags": [
+      "crosschain",
+      "GROUP:gOHM",
+      "tokens"
+    ],
+    "coingeckoId": "governance-ohm",
+    "chainId": 43114
+  },
+  {
+    "symbol": "DAI.e",
+    "name": "Dai Stablecoin",
+    "decimals": 18,
+    "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "tags": [
+      "crosschain",
+      "GROUP:DAI",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "avalanche-bridged-dai-avalanche",
+    "chainId": 43114
+  },
+  {
+    "symbol": "ELK",
+    "name": "Elk",
+    "decimals": 18,
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
+    "tags": [
+      "crosschain",
+      "GROUP:ELK",
+      "tokens"
+    ],
+    "coingeckoId": "elk-finance",
+    "chainId": 43114
+  },
+  {
+    "symbol": "GGP",
+    "name": "GoGoPool Protocol",
+    "decimals": 18,
+    "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
+    "logoURI": "https://tokens.1inch.io/0x69260b9483f9871ca57f81a90d91e2f96c2cd11d.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "gogopool",
+    "chainId": 43114
+  },
+  {
+    "symbol": "KET",
+    "name": "yellow ket",
+    "decimals": 18,
+    "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
+    "logoURI": "https://tokens-data.1inch.io/images/43114/0xffff003a6bad9b743d658048742935fffe2b6ed7_0x7ea100596d830488817dd177710b0116638a79333aa302f6f8ae56185922b51d.png",
+    "tags": [
+      "tokens"
+    ],
+    "coingeckoId": "ket",
+    "chainId": 43114
+  },
+  {
+    "symbol": "LYD",
+    "name": "LydiaFinance Token",
+    "decimals": 18,
+    "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
+    "logoURI": "https://tokens.1inch.io/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "lydia-finance",
+    "chainId": 43114
+  },
+  {
+    "symbol": "YAK",
+    "name": "Yak Token",
+    "decimals": 18,
+    "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+    "logoURI": "https://tokens.1inch.io/0x59414b3089ce2af0010e7523dea7e2b35d776ec7.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "yield-yak",
+    "chainId": 43114
+  },
+  {
+    "symbol": "PEFI",
+    "name": "PenguinToken",
+    "decimals": 18,
+    "address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
+    "logoURI": "https://tokens.1inch.io/0xe896cdeaac9615145c0ca09c8cd5c25bced6384c.png",
+    "tags": [
+      "crosschain",
+      "GROUP:PEFI",
+      "tokens"
+    ],
+    "coingeckoId": "penguin-finance",
+    "chainId": 43114
+  },
+  {
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "decimals": 18,
+    "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+    "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png",
+    "tags": [
+      "crosschain",
+      "GROUP:PENDLE",
+      "tokens"
+    ],
+    "coingeckoId": "mai-fantom",
+    "chainId": 43114
+  },
+  {
+    "symbol": "NXUSD",
+    "name": "NXUSD",
+    "decimals": 18,
+    "address": "0xf14f4ce569cb3679e99d5059909e23b07bd2f387",
+    "logoURI": "https://tokens.1inch.io/0xf14f4ce569cb3679e99d5059909e23b07bd2f387.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "nxusd",
+    "chainId": 43114
+  },
+  {
+    "symbol": "DCAU",
+    "name": "Dragon Crypto Aurum",
+    "decimals": 18,
+    "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+    "logoURI": "https://tokens.1inch.io/0x100cc3a819dd3e8573fd2e46d1e66ee866068f30.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "dragon-crypto-aurum",
+    "chainId": 43114
+  },
+  {
+    "symbol": "SHIBX",
+    "name": "SHIBAVAX",
+    "decimals": 18,
+    "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
+    "logoURI": "https://tokens.1inch.io/0x440abbf18c54b2782a4917b80a1746d3a2c2cce1.png",
+    "tags": [
+      "tokens"
+    ],
+    "coingeckoId": "shibavax",
+    "chainId": 43114
+  },
+  {
+    "symbol": "BNB",
+    "name": "Binance",
+    "decimals": 18,
+    "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
+    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+    "tags": [
+      "crosschain",
+      "GROUP:BNB",
+      "PEG:BNB",
+      "tokens"
+    ],
+    "coingeckoId": "mutlichain-bridged-wbnb-avalanche",
+    "chainId": 43114
+  },
+  {
+    "symbol": "USDM",
+    "name": "Mountain Protocol USD",
+    "decimals": 18,
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
+    "tags": [
+      "crosschain",
+      "GROUP:USDM",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "mountain-protocol-usdm",
+    "chainId": 43114
+  },
+  {
+    "symbol": "INSUR",
+    "name": "InsurAce",
+    "decimals": 18,
+    "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+    "logoURI": "https://tokens.1inch.io/0x544c42fbb96b39b21df61cf322b5edc285ee7429.png",
+    "tags": [
+      "crosschain",
+      "GROUP:INSUR",
+      "tokens"
+    ],
+    "coingeckoId": "insurace",
+    "chainId": 43114
+  },
+  {
+    "symbol": "YTS",
+    "name": "YetiSwap",
+    "decimals": 18,
+    "address": "0x488f73cddda1de3664775ffd91623637383d6404",
+    "logoURI": "https://tokens.1inch.io/0x488f73cddda1de3664775ffd91623637383d6404.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "APEIN",
+    "name": "Ape In",
+    "decimals": 18,
+    "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
+    "logoURI": "https://tokens.1inch.io/0x938fe3788222a74924e062120e7bfac829c719fb.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "HON",
+    "name": "HonToken",
+    "decimals": 18,
+    "address": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
+    "logoURI": "https://tokens.1inch.io/0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "heroes-of-nft",
+    "chainId": 43114
+  },
+  {
+    "symbol": "ROCO",
+    "name": "ROCO",
+    "decimals": 18,
+    "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
+    "logoURI": "https://tokens.1inch.io/0xb2a85c5ecea99187a977ac34303b80acbddfa208.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "roco-finance",
+    "chainId": 43114
+  },
+  {
+    "symbol": "CRA",
+    "name": "CRA",
+    "decimals": 18,
+    "address": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
+    "logoURI": "https://tokens.1inch.io/0xa32608e873f9ddef944b24798db69d80bbb4d1ed.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "crabada",
+    "chainId": 43114
+  },
+  {
+    "symbol": "SNOB",
+    "name": "Snowball",
+    "decimals": 18,
+    "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
+    "logoURI": "https://tokens.1inch.io/0xc38f41a296a4493ff429f1238e030924a1542e50.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "snowball-token",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avWAVAX",
+    "name": "Aave Avalanche Market WAVAX",
+    "decimals": 18,
+    "address": "0xdfe521292ece2a4f44242efbcd66bc594ca9714b",
+    "logoURI": "https://tokens.1inch.io/0xdfe521292ece2a4f44242efbcd66bc594ca9714b.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "AXIAL",
+    "name": "AxialToken",
+    "decimals": 18,
+    "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
+    "logoURI": "https://tokens.1inch.io/0xcf8419a615c57511807236751c0af38db4ba3351.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "axial-token",
+    "chainId": 43114
+  },
+  {
+    "symbol": "THOR",
+    "name": "THOR v2",
+    "decimals": 18,
+    "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
+    "logoURI": "https://tokens.1inch.io/0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79.png",
+    "tags": [
+      "crosschain",
+      "GROUP:THOR",
+      "tokens"
+    ],
+    "coingeckoId": "thor",
+    "chainId": 43114
+  },
+  {
+    "symbol": "PTP",
+    "name": "Platypus",
+    "decimals": 18,
+    "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/21724/large/7r2U_2Ig_400x400.jpg?1696521079",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "platypus-finance",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avUSDT",
+    "name": "Aave Avalanche Market USDT",
+    "decimals": 6,
+    "address": "0x532e6537fea298397212f09a61e03311686f548e",
+    "logoURI": "https://tokens.1inch.io/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png",
+    "tags": [
+      "crosschain",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avUSDC",
+    "name": "Aave Avalanche Market USDC",
+    "decimals": 6,
+    "address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
+    "logoURI": "https://tokens.1inch.io/0xbcca60bb61934080951369a648fb03df4f96263c.png",
+    "tags": [
+      "crosschain",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "TUS",
+    "name": "Treasure Under Sea",
+    "decimals": 18,
+    "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
+    "logoURI": "https://tokens.1inch.io/0xf693248f96fe03422fea95ac0afbbbc4a8fdd172.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "treasure-under-sea",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avDAI",
+    "name": "Aave Avalanche Market DAI",
+    "decimals": 18,
+    "address": "0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a",
+    "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
+    "tags": [
+      "crosschain",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 43114
+  },
+  {
+    "symbol": "avAAVE",
+    "name": "Aave Avalanche Market AAVE",
+    "decimals": 18,
+    "address": "0xd45b7c061016102f9fa220502908f2c0f1add1d7",
+    "logoURI": "https://tokens.1inch.io/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "",
     "chainId": 43114
   },
   {
@@ -81,46 +907,6 @@
     "chainId": 43114
   },
   {
-    "symbol": "DOMI",
-    "name": "Domi",
-    "decimals": 18,
-    "address": "0xfc6da929c031162841370af240dec19099861d3b",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/21633/large/Transparent_Circle_Logo_2.png?1696520993",
-    "tags": [
-      "crosschain",
-      "GROUP:DOMI",
-      "tokens"
-    ],
-    "coingeckoId": "domi",
-    "chainId": 43114
-  },
-  {
-    "symbol": "NXUSD",
-    "name": "NXUSD",
-    "decimals": 18,
-    "address": "0xf14f4ce569cb3679e99d5059909e23b07bd2f387",
-    "logoURI": "https://tokens.1inch.io/0xf14f4ce569cb3679e99d5059909e23b07bd2f387.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "nxusd",
-    "chainId": 43114
-  },
-  {
-    "symbol": "HON",
-    "name": "HonToken",
-    "decimals": 18,
-    "address": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
-    "logoURI": "https://tokens.1inch.io/0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "heroes-of-nft",
-    "chainId": 43114
-  },
-  {
     "symbol": "NFTD",
     "name": "NFTrade Token [via ChainPort.io]",
     "decimals": 18,
@@ -132,225 +918,6 @@
       "tokens"
     ],
     "coingeckoId": "nftrade",
-    "chainId": 43114
-  },
-  {
-    "symbol": "TUSD",
-    "name": "TrueUSD",
-    "decimals": 18,
-    "address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
-    "logoURI": "https://tokens.1inch.io/0x1c20e891bab6b1727d14da358fae2984ed9b59eb.png",
-    "tags": [
-      "crosschain",
-      "GROUP:TUSD",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "true-usd",
-    "chainId": 43114
-  },
-  {
-    "symbol": "WXT",
-    "name": "Wirex Token",
-    "decimals": 18,
-    "address": "0xfcde4a87b8b6fa58326bb462882f1778158b02f1",
-    "logoURI": "https://tokens.1inch.io/0xfcde4a87b8b6fa58326bb462882f1778158b02f1.png",
-    "tags": [
-      "crosschain",
-      "GROUP:WXT",
-      "tokens"
-    ],
-    "coingeckoId": "wirex",
-    "chainId": 43114
-  },
-  {
-    "symbol": "GMX",
-    "name": "GMX",
-    "decimals": 18,
-    "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
-    "logoURI": "https://tokens.1inch.io/0x62edc0692bd897d2295872a9ffcac5425011c661.png",
-    "tags": [
-      "crosschain",
-      "GROUP:GMX",
-      "tokens"
-    ],
-    "coingeckoId": "gmx",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avWAVAX",
-    "name": "Aave Avalanche Market WAVAX",
-    "decimals": 18,
-    "address": "0xdfe521292ece2a4f44242efbcd66bc594ca9714b",
-    "logoURI": "https://tokens.1inch.io/0xdfe521292ece2a4f44242efbcd66bc594ca9714b.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "PNG",
-    "name": "Pangolin",
-    "decimals": 18,
-    "address": "0x60781c2586d68229fde47564546784ab3faca982",
-    "logoURI": "https://tokens.1inch.io/0x60781c2586d68229fde47564546784ab3faca982.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "pangolin",
-    "chainId": 43114
-  },
-  {
-    "symbol": "YTS",
-    "name": "YetiSwap",
-    "decimals": 18,
-    "address": "0x488f73cddda1de3664775ffd91623637383d6404",
-    "logoURI": "https://tokens.1inch.io/0x488f73cddda1de3664775ffd91623637383d6404.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "SNOB",
-    "name": "Snowball",
-    "decimals": 18,
-    "address": "0xc38f41a296a4493ff429f1238e030924a1542e50",
-    "logoURI": "https://tokens.1inch.io/0xc38f41a296a4493ff429f1238e030924a1542e50.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "snowball-token",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avDAI",
-    "name": "Aave Avalanche Market DAI",
-    "decimals": 18,
-    "address": "0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a",
-    "logoURI": "https://tokens.1inch.io/0x028171bca77440897b824ca71d1c56cac55b68a3.png",
-    "tags": [
-      "crosschain",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avUSDT",
-    "name": "Aave Avalanche Market USDT",
-    "decimals": 6,
-    "address": "0x532e6537fea298397212f09a61e03311686f548e",
-    "logoURI": "https://tokens.1inch.io/0x3ed3b47dd13ec9a98b44e6204a523e766b225811.png",
-    "tags": [
-      "crosschain",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "BNB",
-    "name": "Binance",
-    "decimals": 18,
-    "address": "0x264c1383ea520f73dd837f915ef3a732e204a493",
-    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
-    "tags": [
-      "crosschain",
-      "GROUP:BNB",
-      "PEG:BNB",
-      "tokens"
-    ],
-    "coingeckoId": "mutlichain-bridged-wbnb-avalanche",
-    "chainId": 43114
-  },
-  {
-    "symbol": "QI",
-    "name": "BENQI",
-    "decimals": 18,
-    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-    "logoURI": "https://tokens.1inch.io/0x8729438eb15e2c8b576fcc6aecda6a148776c0f5.png",
-    "tags": [
-      "crosschain",
-      "GROUP:QI",
-      "tokens"
-    ],
-    "coingeckoId": "benqi",
-    "chainId": 43114
-  },
-  {
-    "symbol": "JOE",
-    "name": "JoeToken",
-    "decimals": 18,
-    "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-    "logoURI": "https://tokens.1inch.io/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd.png",
-    "tags": [
-      "crosschain",
-      "GROUP:JOE",
-      "tokens"
-    ],
-    "coingeckoId": "joe",
-    "chainId": 43114
-  },
-  {
-    "symbol": "SHIBX",
-    "name": "SHIBAVAX",
-    "decimals": 18,
-    "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
-    "logoURI": "https://tokens.1inch.io/0x440abbf18c54b2782a4917b80a1746d3a2c2cce1.png",
-    "tags": [
-      "tokens"
-    ],
-    "coingeckoId": "shibavax",
-    "chainId": 43114
-  },
-  {
-    "symbol": "SWAP.e",
-    "name": "TrustSwap Token",
-    "decimals": 18,
-    "address": "0xc7b5d72c836e718cda8888eaf03707faef675079",
-    "logoURI": "https://tokens.1inch.io/0xcc4304a31d09258b0029ea7fe63d032f52e44efe.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "trustswap",
-    "chainId": 43114
-  },
-  {
-    "symbol": "gOHM",
-    "name": "Governance OHM",
-    "decimals": 18,
-    "address": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
-    "logoURI": "https://tokens.1inch.io/0x321e7092a180bb43555132ec53aaa65a5bf84251.png",
-    "tags": [
-      "crosschain",
-      "GROUP:gOHM",
-      "tokens"
-    ],
-    "coingeckoId": "governance-ohm",
-    "chainId": 43114
-  },
-  {
-    "symbol": "COOK",
-    "name": "Poly-Peg COOK",
-    "decimals": 18,
-    "address": "0x637afeff75ca669ff92e4570b14d6399a658902f",
-    "logoURI": "https://tokens.1inch.io/0xff75ced57419bcaebe5f05254983b013b0646ef5.png",
-    "tags": [
-      "crosschain",
-      "GROUP:COOK",
-      "tokens"
-    ],
-    "coingeckoId": "cook",
     "chainId": 43114
   },
   {
@@ -367,288 +934,6 @@
     "chainId": 43114
   },
   {
-    "symbol": "WETH.e",
-    "name": "Wrapped Ether",
-    "decimals": 18,
-    "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
-    "tags": [
-      "crosschain",
-      "GROUP:WETH",
-      "PEG:ETH",
-      "tokens"
-    ],
-    "coingeckoId": "avalanche-bridged-weth-avalanche",
-    "chainId": 43114
-  },
-  {
-    "symbol": "WAVAX",
-    "name": "Wrapped AVAX",
-    "decimals": 18,
-    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
-    "tags": [
-      "crosschain",
-      "PEG:AVAX",
-      "tokens"
-    ],
-    "coingeckoId": "wrapped-avax",
-    "chainId": 43114
-  },
-  {
-    "symbol": "USDC.e",
-    "name": "USD Coin",
-    "decimals": 6,
-    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USDC.e",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "usd-coin-avalanche-bridged-usdc-e",
-    "chainId": 43114
-  },
-  {
-    "symbol": "USDT.e",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
-    "logoURI": "https://tokens.1inch.io/0xc7198437980c041c805a1edcba50c1ce5db95118.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USDT.e",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "tether-avalanche-bridged-usdt-e",
-    "chainId": 43114
-  },
-  {
-    "symbol": "WBTC.e",
-    "name": "Wrapped BTC",
-    "decimals": 8,
-    "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
-    "logoURI": "https://tokens.1inch.io/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
-    "tags": [
-      "crosschain",
-      "GROUP:WBTC",
-      "PEG:BTC",
-      "tokens"
-    ],
-    "coingeckoId": "avalanche-old-bridged-wbtc-avalanche",
-    "chainId": 43114
-  },
-  {
-    "symbol": "DAI.e",
-    "name": "Dai Stablecoin",
-    "decimals": 18,
-    "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
-    "tags": [
-      "crosschain",
-      "GROUP:DAI",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "avalanche-bridged-dai-avalanche",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avUSDC",
-    "name": "Aave Avalanche Market USDC",
-    "decimals": 6,
-    "address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
-    "logoURI": "https://tokens.1inch.io/0xbcca60bb61934080951369a648fb03df4f96263c.png",
-    "tags": [
-      "crosschain",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "AAVE.e",
-    "name": "Aave Token",
-    "decimals": 18,
-    "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
-    "logoURI": "https://tokens-data.1inch.io/images/43114/0x63a72806098bd3d9520cc43356dd78afe5d386d9.webp",
-    "tags": [
-      "crosschain",
-      "GROUP:AAVE",
-      "tokens"
-    ],
-    "coingeckoId": "aave",
-    "chainId": 43114
-  },
-  {
-    "symbol": "APEIN",
-    "name": "Ape In",
-    "decimals": 18,
-    "address": "0x938fe3788222a74924e062120e7bfac829c719fb",
-    "logoURI": "https://tokens.1inch.io/0x938fe3788222a74924e062120e7bfac829c719fb.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "SPELL",
-    "name": "Spell Token",
-    "decimals": 18,
-    "address": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
-    "logoURI": "https://tokens.1inch.io/0x090185f2135308bad17527004364ebcc2d37e5f6.png",
-    "tags": [
-      "crosschain",
-      "GROUP:SPELL",
-      "tokens"
-    ],
-    "coingeckoId": "spell-token",
-    "chainId": 43114
-  },
-  {
-    "symbol": "SYN",
-    "name": "Synapse",
-    "decimals": 18,
-    "address": "0x1f1e7c893855525b303f99bdf5c3c05be09ca251",
-    "logoURI": "https://tokens.1inch.io/0x1f1e7c893855525b303f99bdf5c3c05be09ca251_1.png",
-    "tags": [
-      "crosschain",
-      "GROUP:SYN",
-      "tokens"
-    ],
-    "coingeckoId": "synapse-2",
-    "chainId": 43114
-  },
-  {
-    "symbol": "THOR",
-    "name": "THOR v2",
-    "decimals": 18,
-    "address": "0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79",
-    "logoURI": "https://tokens.1inch.io/0x8f47416cae600bccf9530e9f3aeaa06bdd1caa79.png",
-    "tags": [
-      "crosschain",
-      "GROUP:THOR",
-      "tokens"
-    ],
-    "coingeckoId": "thor",
-    "chainId": 43114
-  },
-  {
-    "symbol": "TUS",
-    "name": "Treasure Under Sea",
-    "decimals": 18,
-    "address": "0xf693248f96fe03422fea95ac0afbbbc4a8fdd172",
-    "logoURI": "https://tokens.1inch.io/0xf693248f96fe03422fea95ac0afbbbc4a8fdd172.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "treasure-under-sea",
-    "chainId": 43114
-  },
-  {
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USDC",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "usd-coin",
-    "chainId": 43114
-  },
-  {
-    "symbol": "AXIAL",
-    "name": "AxialToken",
-    "decimals": 18,
-    "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
-    "logoURI": "https://tokens.1inch.io/0xcf8419a615c57511807236751c0af38db4ba3351.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "axial-token",
-    "chainId": 43114
-  },
-  {
-    "symbol": "INSUR",
-    "name": "InsurAce",
-    "decimals": 18,
-    "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
-    "logoURI": "https://tokens.1inch.io/0x544c42fbb96b39b21df61cf322b5edc285ee7429.png",
-    "tags": [
-      "crosschain",
-      "GROUP:INSUR",
-      "tokens"
-    ],
-    "coingeckoId": "insurace",
-    "chainId": 43114
-  },
-  {
-    "symbol": "ROCO",
-    "name": "ROCO",
-    "decimals": 18,
-    "address": "0xb2a85c5ecea99187a977ac34303b80acbddfa208",
-    "logoURI": "https://tokens.1inch.io/0xb2a85c5ecea99187a977ac34303b80acbddfa208.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "roco-finance",
-    "chainId": 43114
-  },
-  {
-    "symbol": "CRA",
-    "name": "CRA",
-    "decimals": 18,
-    "address": "0xa32608e873f9ddef944b24798db69d80bbb4d1ed",
-    "logoURI": "https://tokens.1inch.io/0xa32608e873f9ddef944b24798db69d80bbb4d1ed.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "crabada",
-    "chainId": 43114
-  },
-  {
-    "symbol": "AVAX",
-    "name": "Avalanche",
-    "decimals": 18,
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "logoURI": "https://tokens.1inch.io/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7.png",
-    "tags": [
-      "crosschain",
-      "GROUP:AVAX",
-      "native",
-      "PEG:AVAX"
-    ],
-    "coingeckoId": "avalanche-2",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avWETH",
-    "name": "Aave Avalanche Market WETH",
-    "decimals": 18,
-    "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
-    "logoURI": "https://tokens.1inch.io/0x030ba81f1c18d280636f32af80b9aad02cf0854e.png",
-    "tags": [
-      "crosschain",
-      "PEG:ETH",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
     "symbol": "SPORE",
     "name": "Spore.Finance",
     "decimals": 9,
@@ -658,116 +943,6 @@
       "tokens"
     ],
     "coingeckoId": "spore",
-    "chainId": 43114
-  },
-  {
-    "symbol": "PEFI",
-    "name": "PenguinToken",
-    "decimals": 18,
-    "address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
-    "logoURI": "https://tokens.1inch.io/0xe896cdeaac9615145c0ca09c8cd5c25bced6384c.png",
-    "tags": [
-      "crosschain",
-      "GROUP:PEFI",
-      "tokens"
-    ],
-    "coingeckoId": "penguin-finance",
-    "chainId": 43114
-  },
-  {
-    "symbol": "LYD",
-    "name": "LydiaFinance Token",
-    "decimals": 18,
-    "address": "0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084",
-    "logoURI": "https://tokens.1inch.io/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "lydia-finance",
-    "chainId": 43114
-  },
-  {
-    "symbol": "FXS",
-    "name": "Frax Share",
-    "decimals": 18,
-    "address": "0x214db107654ff987ad859f34125307783fc8e387",
-    "logoURI": "https://tokens.1inch.io/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-    "tags": [
-      "crosschain",
-      "GROUP:FXS",
-      "tokens"
-    ],
-    "coingeckoId": "frax-share",
-    "chainId": 43114
-  },
-  {
-    "symbol": "ELK",
-    "name": "Elk",
-    "decimals": 18,
-    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
-    "tags": [
-      "crosschain",
-      "GROUP:ELK",
-      "tokens"
-    ],
-    "coingeckoId": "elk-finance",
-    "chainId": 43114
-  },
-  {
-    "symbol": "BTC.b",
-    "name": "Bitcoin",
-    "decimals": 8,
-    "address": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
-    "logoURI": "https://tokens.1inch.io/0x152b9d0fdc40c096757f570a51e494bd4b943e50.png",
-    "tags": [
-      "crosschain",
-      "PEG:BTC",
-      "tokens"
-    ],
-    "coingeckoId": "bitcoin-avalanche-bridged-btc-b",
-    "chainId": 43114
-  },
-  {
-    "symbol": "STG",
-    "name": "StargateToken",
-    "decimals": 18,
-    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-    "logoURI": "https://tokens.1inch.io/0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590.png",
-    "tags": [
-      "crosschain",
-      "GROUP:STG",
-      "tokens"
-    ],
-    "coingeckoId": "stargate-finance",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avAAVE",
-    "name": "Aave Avalanche Market AAVE",
-    "decimals": 18,
-    "address": "0xd45b7c061016102f9fa220502908f2c0f1add1d7",
-    "logoURI": "https://tokens.1inch.io/0xffc97d72e13e01096502cb8eb52dee56f74dad7b.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 43114
-  },
-  {
-    "symbol": "avWBTC",
-    "name": "Aave Avalanche Market WBTC",
-    "decimals": 8,
-    "address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
-    "logoURI": "https://tokens.1inch.io/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656.png",
-    "tags": [
-      "crosschain",
-      "PEG:BTC",
-      "tokens"
-    ],
-    "coingeckoId": "",
     "chainId": 43114
   },
   {
@@ -781,32 +956,6 @@
       "tokens"
     ],
     "coingeckoId": "husky-avax",
-    "chainId": 43114
-  },
-  {
-    "symbol": "XAVA",
-    "name": "Avalaunch",
-    "decimals": 18,
-    "address": "0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4",
-    "logoURI": "https://tokens.1inch.io/0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "avalaunch",
-    "chainId": 43114
-  },
-  {
-    "symbol": "YAK",
-    "name": "Yak Token",
-    "decimals": 18,
-    "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
-    "logoURI": "https://tokens.1inch.io/0x59414b3089ce2af0010e7523dea7e2b35d776ec7.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "yield-yak",
     "chainId": 43114
   },
   {
@@ -837,19 +986,6 @@
     "chainId": 43114
   },
   {
-    "symbol": "PTP",
-    "name": "Platypus",
-    "decimals": 18,
-    "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/21724/large/7r2U_2Ig_400x400.jpg?1696521079",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "platypus-finance",
-    "chainId": 43114
-  },
-  {
     "symbol": "SMRTr",
     "name": "SmarterCoin",
     "decimals": 18,
@@ -860,20 +996,6 @@
       "tokens"
     ],
     "coingeckoId": "smart-coin-smrtr",
-    "chainId": 43114
-  },
-  {
-    "symbol": "PENDLE",
-    "name": "Pendle",
-    "decimals": 18,
-    "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
-    "logoURI": "https://tokens.1inch.io/0x808507121b80c02388fad14726482e061b8da827.png",
-    "tags": [
-      "crosschain",
-      "GROUP:PENDLE",
-      "tokens"
-    ],
-    "coingeckoId": "mai-fantom",
     "chainId": 43114
   },
   {
@@ -891,47 +1013,6 @@
     "chainId": 43114
   },
   {
-    "symbol": "DCAU",
-    "name": "Dragon Crypto Aurum",
-    "decimals": 18,
-    "address": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
-    "logoURI": "https://tokens.1inch.io/0x100cc3a819dd3e8573fd2e46d1e66ee866068f30.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "dragon-crypto-aurum",
-    "chainId": 43114
-  },
-  {
-    "symbol": "LINK.e",
-    "name": "Chainlink Token",
-    "decimals": 18,
-    "address": "0x5947bb275c521040051d82396192181b413227a3",
-    "logoURI": "https://tokens-data.1inch.io/images/43114/0x5947bb275c521040051d82396192181b413227a3.png",
-    "tags": [
-      "crosschain",
-      "GROUP:LINK",
-      "tokens"
-    ],
-    "coingeckoId": "chainlink",
-    "chainId": 43114
-  },
-  {
-    "symbol": "MIM",
-    "name": "Magic Internet Money",
-    "decimals": 18,
-    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
-    "logoURI": "https://tokens-data.1inch.io/images/43114/0x130966628846bfd36ff31a822705796e8cb8c18d.webp",
-    "tags": [
-      "crosschain",
-      "GROUP:MIM",
-      "tokens"
-    ],
-    "coingeckoId": "magic-internet-money-avalanche",
-    "chainId": 43114
-  },
-  {
     "symbol": "AVAI",
     "name": "AVAI",
     "decimals": 18,
@@ -945,46 +1026,6 @@
     "chainId": 43114
   },
   {
-    "symbol": "EURC",
-    "name": "Euro Coin",
-    "decimals": 6,
-    "address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
-    "logoURI": "https://tokens.1inch.io/0xc891eb4cbdeff6e073e859e987815ed1505c2acd.png",
-    "tags": [
-      "crosschain",
-      "GROUP:EURC",
-      "tokens"
-    ],
-    "coingeckoId": "euro-coin",
-    "chainId": 43114
-  },
-  {
-    "symbol": "ggAVAX",
-    "name": "GoGoPool Liquid Staking Token",
-    "decimals": 18,
-    "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
-    "logoURI": "https://tokens.1inch.io/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "gogopool-ggavax",
-    "chainId": 43114
-  },
-  {
-    "symbol": "GGP",
-    "name": "GoGoPool Protocol",
-    "decimals": 18,
-    "address": "0x69260b9483f9871ca57f81a90d91e2f96c2cd11d",
-    "logoURI": "https://tokens.1inch.io/0x69260b9483f9871ca57f81a90d91e2f96c2cd11d.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "gogopool",
-    "chainId": 43114
-  },
-  {
     "symbol": "BINGO",
     "name": "Bingo",
     "decimals": 18,
@@ -995,47 +1036,6 @@
       "tokens"
     ],
     "coingeckoId": "bingo-3",
-    "chainId": 43114
-  },
-  {
-    "symbol": "ZRO",
-    "name": "LayerZero",
-    "decimals": 18,
-    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
-    "logoURI": "https://tokens-data.1inch.io/images/43114/0x6985884c4392d348587b19cb9eaaf157f13271cd.png",
-    "tags": [
-      "crosschain",
-      "GROUP:ZRO",
-      "tokens"
-    ],
-    "coingeckoId": "layerzero",
-    "chainId": 43114
-  },
-  {
-    "symbol": "USDM",
-    "name": "Mountain Protocol USD",
-    "decimals": 18,
-    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
-    "tags": [
-      "crosschain",
-      "GROUP:USDM",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "mountain-protocol-usdm",
-    "chainId": 43114
-  },
-  {
-    "symbol": "KET",
-    "name": "yellow ket",
-    "decimals": 18,
-    "address": "0xffff003a6bad9b743d658048742935fffe2b6ed7",
-    "logoURI": "https://tokens-data.1inch.io/images/43114/0xffff003a6bad9b743d658048742935fffe2b6ed7_0x7ea100596d830488817dd177710b0116638a79333aa302f6f8ae56185922b51d.png",
-    "tags": [
-      "tokens"
-    ],
-    "coingeckoId": "ket",
     "chainId": 43114
   }
 ]

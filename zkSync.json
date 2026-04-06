@@ -1,5 +1,103 @@
 [
   {
+    "symbol": "ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": [
+      "crosschain",
+      "GROUP:ETH",
+      "native",
+      "PEG:ETH"
+    ],
+    "coingeckoId": "ethereum",
+    "chainId": 324
+  },
+  {
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 6,
+    "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+    "logoURI": "https://tokens.1inch.io/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 324
+  },
+  {
+    "symbol": "Cake",
+    "name": "PancakeSwap Token",
+    "decimals": 18,
+    "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
+    "logoURI": "https://tokens.1inch.io/0x3a287a06c66f9e95a56327185ca2bdf5f031cecd.png",
+    "tags": [
+      "crosschain",
+      "GROUP:Cake",
+      "tokens"
+    ],
+    "coingeckoId": "pancakeswap-token",
+    "chainId": 324
+  },
+  {
+    "symbol": "ZK",
+    "name": "ZKsync",
+    "decimals": 18,
+    "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e",
+    "logoURI": "https://tokens.1inch.io/0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "zksync",
+    "chainId": 324
+  },
+  {
+    "symbol": "MAV",
+    "name": "Maverick Token",
+    "decimals": 18,
+    "address": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
+    "logoURI": "https://tokens.1inch.io/0x787c09494ec8bcb24dcaf8659e7d5d69979ee508.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "maverick-protocol",
+    "chainId": 324
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
+    "logoURI": "https://tokens.1inch.io/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDT",
+      "tokens"
+    ],
+    "coingeckoId": "bridged-usdt",
+    "chainId": 324
+  },
+  {
+    "symbol": "SIS",
+    "name": "Symbiosis",
+    "decimals": 18,
+    "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
+    "logoURI": "https://tokens.1inch.io/0xdd9f72afed3631a6c85b5369d84875e6c42f1827.png",
+    "tags": [
+      "crosschain",
+      "GROUP:SIS",
+      "tokens"
+    ],
+    "coingeckoId": "symbiosis-finance",
+    "chainId": 324
+  },
+  {
     "symbol": "WETH",
     "name": "Wrapped Ether",
     "decimals": 18,
@@ -30,46 +128,6 @@
     "chainId": 324
   },
   {
-    "symbol": "MUTE",
-    "name": "Mute.io",
-    "decimals": 18,
-    "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
-    "logoURI": "https://tokens.1inch.io/324/0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "mute",
-    "chainId": 324
-  },
-  {
-    "symbol": "ZKDOGE",
-    "name": "zkDoge",
-    "decimals": 18,
-    "address": "0xbfb4b5616044eded03e5b1ad75141f0d9cb1499b",
-    "logoURI": "https://tokens.1inch.io/324/0xbfb4b5616044eded03e5b1ad75141f0d9cb1499b.png",
-    "tags": [
-      "tokens"
-    ],
-    "coingeckoId": "zkdoge",
-    "chainId": 324
-  },
-  {
-    "symbol": "ETH",
-    "name": "Ether",
-    "decimals": 18,
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
-    "tags": [
-      "crosschain",
-      "GROUP:ETH",
-      "native",
-      "PEG:ETH"
-    ],
-    "coingeckoId": "ethereum",
-    "chainId": 324
-  },
-  {
     "symbol": "SPACE",
     "name": "SPACE",
     "decimals": 18,
@@ -80,32 +138,6 @@
       "tokens"
     ],
     "coingeckoId": "spacefi-zksync",
-    "chainId": 324
-  },
-  {
-    "symbol": "USD+",
-    "name": "USD+",
-    "decimals": 6,
-    "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
-    "logoURI": "https://tokens.1inch.io/0x8e86e46278518efc1c5ced245cba2c7e3ef11557.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "usd",
-    "chainId": 324
-  },
-  {
-    "symbol": "MVX",
-    "name": "Metavault Trade",
-    "decimals": 18,
-    "address": "0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305",
-    "logoURI": "https://tokens-data.1inch.io/images/324/0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305_0x9edfa226b9961538dba8a1c4b2285b96d7007d8d6d7e8075f1d45b205efc0c60.webp",
-    "tags": [
-      "GROUP:MVX",
-      "tokens"
-    ],
-    "coingeckoId": "metavault-trade",
     "chainId": 324
   },
   {
@@ -122,58 +154,30 @@
     "chainId": 324
   },
   {
-    "symbol": "SIS",
-    "name": "Symbiosis",
+    "symbol": "ZF",
+    "name": "zkSwap Finance",
     "decimals": 18,
-    "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
-    "logoURI": "https://tokens.1inch.io/0xdd9f72afed3631a6c85b5369d84875e6c42f1827.png",
+    "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
+    "logoURI": "https://tokens.1inch.io/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a.png",
     "tags": [
       "crosschain",
-      "GROUP:SIS",
       "tokens"
     ],
-    "coingeckoId": "symbiosis-finance",
+    "coingeckoId": "zkswap-finance",
     "chainId": 324
   },
   {
-    "symbol": "USDT",
-    "name": "Tether USD",
-    "decimals": 6,
-    "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
-    "logoURI": "https://tokens.1inch.io/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USDT",
-      "tokens"
-    ],
-    "coingeckoId": "bridged-usdt",
-    "chainId": 324
-  },
-  {
-    "symbol": "rETH",
-    "name": "Rocket Pool ETH",
+    "symbol": "wrsETH",
+    "name": "rsETHWrapper",
     "decimals": 18,
-    "address": "0x32fd44bb869620c0ef993754c8a00be67c464806",
-    "logoURI": "https://tokens.1inch.io/0x32fd44bb869620c0ef993754c8a00be67c464806.png",
+    "address": "0xd4169e045bcf9a86cc00101225d9ed61d2f51af2",
+    "logoURI": "https://tokens-data.1inch.io/images/324/0xd4169e045bcf9a86cc00101225d9ed61d2f51af2.png",
     "tags": [
       "crosschain",
+      "PEG:ETH",
       "tokens"
     ],
-    "coingeckoId": "",
-    "chainId": 324
-  },
-  {
-    "symbol": "cbETH",
-    "name": "Coinbase Wrapped Staked ETH",
-    "decimals": 18,
-    "address": "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5",
-    "logoURI": "https://tokens.1inch.io/0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5.png",
-    "tags": [
-      "crosschain",
-      "GROUP:cbETH",
-      "tokens"
-    ],
-    "coingeckoId": "",
+    "coingeckoId": "wrapped-rseth",
     "chainId": 324
   },
   {
@@ -191,6 +195,110 @@
     "chainId": 324
   },
   {
+    "symbol": "MVX",
+    "name": "Metavault Trade",
+    "decimals": 18,
+    "address": "0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305",
+    "logoURI": "https://tokens-data.1inch.io/images/324/0xc8ac6191cdc9c7bf846ad6b52aaaa7a0757ee305_0x9edfa226b9961538dba8a1c4b2285b96d7007d8d6d7e8075f1d45b205efc0c60.webp",
+    "tags": [
+      "GROUP:MVX",
+      "tokens"
+    ],
+    "coingeckoId": "metavault-trade",
+    "chainId": 324
+  },
+  {
+    "symbol": "KOI",
+    "name": "Koi",
+    "decimals": 18,
+    "address": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05",
+    "logoURI": "https://tokens-data.1inch.io/images/324/0xa995ad25ce5eb76972ab356168f5e1d9257e4d05_0x628f30cc862b1a98ce3c10b02b079f1b537daa872dc615847b13ffee5753c5bd.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "koi-3",
+    "chainId": 324
+  },
+  {
+    "symbol": "cbETH",
+    "name": "Coinbase Wrapped Staked ETH",
+    "decimals": 18,
+    "address": "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5",
+    "logoURI": "https://tokens.1inch.io/0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5.png",
+    "tags": [
+      "crosschain",
+      "GROUP:cbETH",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 324
+  },
+  {
+    "symbol": "MUTE",
+    "name": "Mute.io",
+    "decimals": 18,
+    "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
+    "logoURI": "https://tokens.1inch.io/324/0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "mute",
+    "chainId": 324
+  },
+  {
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH",
+    "decimals": 18,
+    "address": "0x32fd44bb869620c0ef993754c8a00be67c464806",
+    "logoURI": "https://tokens.1inch.io/0x32fd44bb869620c0ef993754c8a00be67c464806.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 324
+  },
+  {
+    "symbol": "ZKDOGE",
+    "name": "zkDoge",
+    "decimals": 18,
+    "address": "0xbfb4b5616044eded03e5b1ad75141f0d9cb1499b",
+    "logoURI": "https://tokens.1inch.io/324/0xbfb4b5616044eded03e5b1ad75141f0d9cb1499b.png",
+    "tags": [
+      "tokens"
+    ],
+    "coingeckoId": "zkdoge",
+    "chainId": 324
+  },
+  {
+    "symbol": "USD+",
+    "name": "USD+",
+    "decimals": 6,
+    "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
+    "logoURI": "https://tokens.1inch.io/0x8e86e46278518efc1c5ced245cba2c7e3ef11557.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "usd",
+    "chainId": 324
+  },
+  {
+    "symbol": "VC",
+    "name": "Velocore",
+    "decimals": 18,
+    "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
+    "logoURI": "https://tokens.1inch.io/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "",
+    "chainId": 324
+  },
+  {
     "symbol": "PEPE",
     "name": "Pepe",
     "decimals": 18,
@@ -201,33 +309,6 @@
       "tokens"
     ],
     "coingeckoId": "",
-    "chainId": 324
-  },
-  {
-    "symbol": "MAV",
-    "name": "Maverick Token",
-    "decimals": 18,
-    "address": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
-    "logoURI": "https://tokens.1inch.io/0x787c09494ec8bcb24dcaf8659e7d5d69979ee508.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "maverick-protocol",
-    "chainId": 324
-  },
-  {
-    "symbol": "Cake",
-    "name": "PancakeSwap Token",
-    "decimals": 18,
-    "address": "0x3a287a06c66f9e95a56327185ca2bdf5f031cecd",
-    "logoURI": "https://tokens.1inch.io/0x3a287a06c66f9e95a56327185ca2bdf5f031cecd.png",
-    "tags": [
-      "crosschain",
-      "GROUP:Cake",
-      "tokens"
-    ],
-    "coingeckoId": "pancakeswap-token",
     "chainId": 324
   },
   {
@@ -253,87 +334,6 @@
       "tokens"
     ],
     "coingeckoId": "",
-    "chainId": 324
-  },
-  {
-    "symbol": "ZF",
-    "name": "zkSwap Finance",
-    "decimals": 18,
-    "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
-    "logoURI": "https://tokens.1inch.io/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "zkswap-finance",
-    "chainId": 324
-  },
-  {
-    "symbol": "VC",
-    "name": "Velocore",
-    "decimals": 18,
-    "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
-    "logoURI": "https://tokens.1inch.io/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 324
-  },
-  {
-    "symbol": "KOI",
-    "name": "Koi",
-    "decimals": 18,
-    "address": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05",
-    "logoURI": "https://tokens-data.1inch.io/images/324/0xa995ad25ce5eb76972ab356168f5e1d9257e4d05_0x628f30cc862b1a98ce3c10b02b079f1b537daa872dc615847b13ffee5753c5bd.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "koi-3",
-    "chainId": 324
-  },
-  {
-    "symbol": "USDC",
-    "name": "USDC",
-    "decimals": 6,
-    "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
-    "logoURI": "https://tokens.1inch.io/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USDC",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "usd-coin",
-    "chainId": 324
-  },
-  {
-    "symbol": "wrsETH",
-    "name": "rsETHWrapper",
-    "decimals": 18,
-    "address": "0xd4169e045bcf9a86cc00101225d9ed61d2f51af2",
-    "logoURI": "https://tokens-data.1inch.io/images/324/0xd4169e045bcf9a86cc00101225d9ed61d2f51af2.png",
-    "tags": [
-      "crosschain",
-      "PEG:ETH",
-      "tokens"
-    ],
-    "coingeckoId": "wrapped-rseth",
-    "chainId": 324
-  },
-  {
-    "symbol": "ZK",
-    "name": "ZKsync",
-    "decimals": 18,
-    "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e",
-    "logoURI": "https://tokens.1inch.io/0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "zksync",
     "chainId": 324
   }
 ]

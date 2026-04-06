@@ -1,98 +1,17 @@
 [
   {
-    "symbol": "RDPX",
-    "name": "Dopex Rebate Token",
+    "symbol": "ETH",
+    "name": "Ether",
     "decimals": 18,
-    "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
-    "logoURI": "https://tokens.1inch.io/0x32eb7902d4134bf98a28b963d26de779af92a212.png",
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
     "tags": [
       "crosschain",
-      "tokens"
+      "GROUP:ETH",
+      "native",
+      "PEG:ETH"
     ],
-    "coingeckoId": "dopex-rebate-token",
-    "chainId": 42161
-  },
-  {
-    "symbol": "MAGIC",
-    "name": "MAGIC",
-    "decimals": 18,
-    "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x539bde0d7dbd336b79148aa742883198bbf60342.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "magic",
-    "chainId": 42161
-  },
-  {
-    "symbol": "RPL",
-    "name": "Rocket Pool Protocol",
-    "decimals": 18,
-    "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
-    "logoURI": "https://tokens.1inch.io/0xb766039cc6db368759c1e56b79affe831d0cc507.png",
-    "tags": [
-      "crosschain",
-      "GROUP:RPL",
-      "tokens"
-    ],
-    "coingeckoId": "rocket-pool",
-    "chainId": 42161
-  },
-  {
-    "symbol": "SIS",
-    "name": "Symbiosis",
-    "decimals": 18,
-    "address": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370",
-    "logoURI": "https://tokens.1inch.io/0x9e758b8a98a42d612b3d38b66a22074dc03d7370.png",
-    "tags": [
-      "crosschain",
-      "GROUP:SIS",
-      "tokens"
-    ],
-    "coingeckoId": "symbiosis-finance",
-    "chainId": 42161
-  },
-  {
-    "symbol": "AAVE",
-    "name": "Aave",
-    "decimals": 18,
-    "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0xba5ddd1f9d7f570dc94a51479a000e3bce967196.webp",
-    "tags": [
-      "crosschain",
-      "GROUP:AAVE",
-      "tokens"
-    ],
-    "coingeckoId": "aave",
-    "chainId": 42161
-  },
-  {
-    "symbol": "rETH",
-    "name": "Rocket Pool ETH",
-    "decimals": 18,
-    "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
-    "logoURI": "https://tokens.1inch.io/0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8.png",
-    "tags": [
-      "crosschain",
-      "GROUP:rETH",
-      "tokens"
-    ],
-    "coingeckoId": "rocket-pool-eth",
-    "chainId": 42161
-  },
-  {
-    "symbol": "KROM",
-    "name": "Kromatika",
-    "decimals": 18,
-    "address": "0x55ff62567f09906a85183b866df84bf599a4bf70",
-    "logoURI": "https://tokens.1inch.io/0x55ff62567f09906a85183b866df84bf599a4bf70.png",
-    "tags": [
-      "crosschain",
-      "GROUP:KROM",
-      "tokens"
-    ],
-    "coingeckoId": "kromatika",
+    "coingeckoId": "ethereum",
     "chainId": 42161
   },
   {
@@ -111,151 +30,60 @@
     "chainId": 42161
   },
   {
-    "symbol": "JOE",
-    "name": "JoeToken",
-    "decimals": 18,
-    "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
-    "logoURI": "https://tokens.1inch.io/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png",
+    "symbol": "cbBTC",
+    "name": "Coinbase Wrapped BTC",
+    "decimals": 8,
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.webp",
     "tags": [
       "crosschain",
-      "GROUP:JOE",
+      "GROUP:CBBTC",
       "tokens"
     ],
-    "coingeckoId": "joe",
+    "coingeckoId": "coinbase-wrapped-btc",
     "chainId": 42161
   },
   {
-    "symbol": "PENDLE",
-    "name": "Pendle",
+    "symbol": "AAVE",
+    "name": "Aave",
     "decimals": 18,
-    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.webp",
+    "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xba5ddd1f9d7f570dc94a51479a000e3bce967196.webp",
     "tags": [
       "crosschain",
-      "GROUP:PENDLE",
+      "GROUP:AAVE",
       "tokens"
     ],
-    "coingeckoId": "pendle",
+    "coingeckoId": "aave",
     "chainId": 42161
   },
   {
-    "symbol": "GRT",
-    "name": "Graph Token",
+    "symbol": "LINK",
+    "name": "ChainLink Token",
     "decimals": 18,
-    "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
-    "logoURI": "https://tokens.1inch.io/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
+    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
     "tags": [
       "crosschain",
-      "GROUP:GRT",
+      "GROUP:LINK",
       "tokens"
     ],
-    "coingeckoId": "the-graph",
+    "coingeckoId": "chainlink",
     "chainId": 42161
   },
   {
-    "symbol": "VELA",
-    "name": "VelaToken",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
     "decimals": 18,
-    "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
-    "logoURI": "https://tokens.1inch.io/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png",
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
     "tags": [
       "crosschain",
+      "GROUP:WETH",
+      "PEG:ETH",
       "tokens"
     ],
-    "coingeckoId": "vela-token",
-    "chainId": 42161
-  },
-  {
-    "symbol": "EMAX",
-    "name": "EthereumMax",
-    "decimals": 18,
-    "address": "0x123389c2f0e9194d9ba98c21e63c375b67614108",
-    "logoURI": "https://tokens.1inch.io/0x123389c2f0e9194d9ba98c21e63c375b67614108.png",
-    "tags": [
-      "tokens"
-    ],
-    "coingeckoId": "ethereummax",
-    "chainId": 42161
-  },
-  {
-    "symbol": "ELK",
-    "name": "Elk",
-    "decimals": 18,
-    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "elk-finance",
-    "chainId": 42161
-  },
-  {
-    "symbol": "DPX",
-    "name": "Dopex Governance Token",
-    "decimals": 18,
-    "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
-    "logoURI": "https://tokens.1inch.io/0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "dopex",
-    "chainId": 42161
-  },
-  {
-    "symbol": "STG",
-    "name": "StargateToken",
-    "decimals": 18,
-    "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
-    "logoURI": "https://tokens.1inch.io/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png",
-    "tags": [
-      "crosschain",
-      "GROUP:STG",
-      "tokens"
-    ],
-    "coingeckoId": "stargate-finance",
-    "chainId": 42161
-  },
-  {
-    "symbol": "LIQD",
-    "name": "Liquid",
-    "decimals": 18,
-    "address": "0x93c15cd7de26f07265f0272e0b831c5d7fab174f",
-    "logoURI": "https://tokens.1inch.io/0x93c15cd7de26f07265f0272e0b831c5d7fab174f.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "liquid-finance",
-    "chainId": 42161
-  },
-  {
-    "symbol": "WstETH",
-    "name": "Wrapped liquid staked Ether 2.0",
-    "decimals": 18,
-    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
-    "logoURI": "https://tokens.1inch.io/0x5979d7b546e38e414f7e9822514be443a4800529.png",
-    "tags": [
-      "crosschain",
-      "GROUP:Wst ETH",
-      "tokens"
-    ],
-    "coingeckoId": "arbitrum-bridged-wsteth-arbitrum",
-    "chainId": 42161
-  },
-  {
-    "symbol": "USDs_2",
-    "name": "Sperax USD",
-    "decimals": 18,
-    "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
-    "logoURI": "https://tokens.1inch.io/0xd74f5255d557944cf7dd0e45ff521520002d5748.png",
-    "tags": [
-      "crosschain",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "sperax-usd",
+    "coingeckoId": "arbitrum-bridged-weth-arbitrum-one",
     "chainId": 42161
   },
   {
@@ -288,21 +116,6 @@
     "chainId": 42161
   },
   {
-    "symbol": "USDC.e",
-    "name": "USD Coin (Arb1)",
-    "decimals": 6,
-    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USDC.e",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "usd-coin-ethereum-bridged",
-    "chainId": 42161
-  },
-  {
     "symbol": "WBTC",
     "name": "Wrapped BTC",
     "decimals": 8,
@@ -318,77 +131,86 @@
     "chainId": 42161
   },
   {
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
+    "symbol": "USDe",
+    "name": "USDe",
     "decimals": 18,
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.webp",
     "tags": [
       "crosschain",
-      "GROUP:WETH",
-      "PEG:ETH",
+      "GROUP:USDe",
       "tokens"
     ],
-    "coingeckoId": "arbitrum-bridged-weth-arbitrum-one",
+    "coingeckoId": "bridged-usde",
     "chainId": 42161
   },
   {
-    "symbol": "DAI",
-    "name": "Dai Stablecoin",
+    "symbol": "ARB",
+    "name": "Arbitrum",
     "decimals": 18,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "logoURI": "https://tokens.1inch.io/0x912ce59144191c1204e64559fe8253a0e49e6548.png",
     "tags": [
       "crosschain",
-      "GROUP:DAI",
-      "PEG:USD",
+      "GROUP:ARB",
       "tokens"
     ],
-    "coingeckoId": "makerdao-arbitrum-bridged-dai-arbitrum-one",
+    "coingeckoId": "arbitrum",
     "chainId": 42161
   },
   {
-    "symbol": "SPELL",
-    "name": "Spell Token",
+    "symbol": "CRV",
+    "name": "Curve DAO Token",
     "decimals": 18,
-    "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
-    "logoURI": "https://tokens.1inch.io/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png",
+    "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
     "tags": [
       "crosschain",
-      "GROUP:SPELL",
+      "GROUP:CRV",
       "tokens"
     ],
-    "coingeckoId": "spell-token",
+    "coingeckoId": "curve-dao-token",
     "chainId": 42161
   },
   {
-    "symbol": "deUSDC",
-    "name": "deBridge USD Coin",
-    "decimals": 6,
-    "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
-    "logoURI": "https://tokens.1inch.io/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa_2.png",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "decimals": 18,
+    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.webp",
     "tags": [
       "crosschain",
-      "GROUP:deUSDC",
-      "PEG:USD",
+      "GROUP:PENDLE",
       "tokens"
     ],
-    "coingeckoId": "usd-coin",
+    "coingeckoId": "pendle",
     "chainId": 42161
   },
   {
-    "symbol": "EURA",
-    "name": "EURA (previously agEUR)",
+    "symbol": "ETHFI",
+    "name": "ether.fi governance token",
     "decimals": 18,
-    "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
-    "logoURI": "https://tokens.1inch.io/0xfa5ed56a203466cbbc2430a43c66b9d8723528e7.png",
+    "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
     "tags": [
       "crosschain",
-      "GROUP:EURA",
-      "PEG:EUR",
       "tokens"
     ],
-    "coingeckoId": "ageur",
+    "coingeckoId": "ether-fi",
+    "chainId": 42161
+  },
+  {
+    "symbol": "Cake",
+    "name": "PancakeSwap Token",
+    "decimals": 18,
+    "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c.webp",
+    "tags": [
+      "crosschain",
+      "GROUP:Cake",
+      "tokens"
+    ],
+    "coingeckoId": "pancakeswap-token",
     "chainId": 42161
   },
   {
@@ -406,17 +228,171 @@
     "chainId": 42161
   },
   {
-    "symbol": "MIM",
-    "name": "Magic Internet Money",
+    "symbol": "USDS",
+    "name": "USDS Stablecoin",
     "decimals": 18,
-    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
-    "logoURI": "https://tokens.1inch.io/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.png",
+    "address": "0x6491c05a82219b8d1479057361ff1654749b876b",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x6491c05a82219b8d1479057361ff1654749b876b_0xbe225ac54d8c7d5447f1ce9e74c846bec57f8f8b2c66ec2d2d09086dc40b4a3c.webp",
     "tags": [
       "crosschain",
-      "GROUP:MIM",
+      "GROUP:USDS",
+      "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "magic-internet-money-arbitrum",
+    "coingeckoId": "usds",
+    "chainId": 42161
+  },
+  {
+    "symbol": "crvUSD",
+    "name": "Curve.Fi USD Stablecoin",
+    "decimals": 18,
+    "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
+    "logoURI": "https://tokens.1inch.io/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png",
+    "tags": [
+      "crosschain",
+      "GROUP:crvUSD",
+      "tokens"
+    ],
+    "coingeckoId": "crvusd",
+    "chainId": 42161
+  },
+  {
+    "symbol": "STG",
+    "name": "StargateToken",
+    "decimals": 18,
+    "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "logoURI": "https://tokens.1inch.io/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png",
+    "tags": [
+      "crosschain",
+      "GROUP:STG",
+      "tokens"
+    ],
+    "coingeckoId": "stargate-finance",
+    "chainId": 42161
+  },
+  {
+    "symbol": "W",
+    "name": "Wormhole Token",
+    "decimals": 18,
+    "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.webp",
+    "tags": [
+      "crosschain",
+      "GROUP:W",
+      "tokens"
+    ],
+    "coingeckoId": "wormhole",
+    "chainId": 42161
+  },
+  {
+    "symbol": "MAGIC",
+    "name": "MAGIC",
+    "decimals": 18,
+    "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x539bde0d7dbd336b79148aa742883198bbf60342.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "magic",
+    "chainId": 42161
+  },
+  {
+    "symbol": "GRT",
+    "name": "Graph Token",
+    "decimals": 18,
+    "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+    "logoURI": "https://tokens.1inch.io/0xc944e90c64b2c07662a292be6244bdf05cda44a7.png",
+    "tags": [
+      "crosschain",
+      "GROUP:GRT",
+      "tokens"
+    ],
+    "coingeckoId": "the-graph",
+    "chainId": 42161
+  },
+  {
+    "symbol": "sUSDS",
+    "name": "Savings USDS",
+    "decimals": 18,
+    "address": "0xddb46999f8891663a8f2828d25298f70416d7610",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xddb46999f8891663a8f2828d25298f70416d7610_0xdaa284411a634bdc7d0862a1528748cc2fab9017b6dad23572dec72ec581fda5.svg",
+    "tags": [
+      "crosschain",
+      "GROUP:sUSDS",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "susds",
+    "chainId": 42161
+  },
+  {
+    "symbol": "XAI",
+    "name": "Xai",
+    "decimals": 18,
+    "address": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "xai-blockchain",
+    "chainId": 42161
+  },
+  {
+    "symbol": "COMP",
+    "name": "Compound",
+    "decimals": 18,
+    "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+    "logoURI": "https://tokens.1inch.io/0xc00e94cb662c3520282e6f5717214004a7f26888.png",
+    "tags": [
+      "crosschain",
+      "GROUP:COMP",
+      "tokens"
+    ],
+    "coingeckoId": "compound-governance-token",
+    "chainId": 42161
+  },
+  {
+    "symbol": "ANIME",
+    "name": "Animecoin",
+    "decimals": 18,
+    "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x37a645648df29205c6261289983fb04ecd70b4b3_0x93fe1ce4d7d74895613cea4d5e6b54d2d38703230f5f3d783a205d4632a46168.webp",
+    "tags": [
+      "crosschain",
+      "GROUP:ANIME",
+      "tokens"
+    ],
+    "coingeckoId": "anime",
+    "chainId": 42161
+  },
+  {
+    "symbol": "SUSHI",
+    "name": "SushiToken",
+    "decimals": 18,
+    "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+    "logoURI": "https://tokens.1inch.io/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
+    "tags": [
+      "crosschain",
+      "GROUP:SUSHI",
+      "tokens"
+    ],
+    "coingeckoId": "sushi",
+    "chainId": 42161
+  },
+  {
+    "symbol": "SPELL",
+    "name": "Spell Token",
+    "decimals": 18,
+    "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+    "logoURI": "https://tokens.1inch.io/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png",
+    "tags": [
+      "crosschain",
+      "GROUP:SPELL",
+      "tokens"
+    ],
+    "coingeckoId": "spell-token",
     "chainId": 42161
   },
   {
@@ -434,59 +410,102 @@
     "chainId": 42161
   },
   {
-    "symbol": "LINK",
-    "name": "ChainLink Token",
-    "decimals": 18,
-    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
-    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "symbol": "USDC.e",
+    "name": "USD Coin (Arb1)",
+    "decimals": 6,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
     "tags": [
       "crosschain",
-      "GROUP:LINK",
+      "GROUP:USDC.e",
+      "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "chainlink",
+    "coingeckoId": "usd-coin-ethereum-bridged",
     "chainId": 42161
   },
   {
-    "symbol": "MCB",
-    "name": "MCDEX Token",
+    "symbol": "RPL",
+    "name": "Rocket Pool Protocol",
     "decimals": 18,
-    "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.webp",
+    "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+    "logoURI": "https://tokens.1inch.io/0xb766039cc6db368759c1e56b79affe831d0cc507.png",
     "tags": [
       "crosschain",
+      "GROUP:RPL",
       "tokens"
     ],
-    "coingeckoId": "mcdex",
+    "coingeckoId": "rocket-pool",
     "chainId": 42161
   },
   {
-    "symbol": "MKR",
-    "name": "Maker",
+    "symbol": "JOE",
+    "name": "JoeToken",
     "decimals": 18,
-    "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
-    "logoURI": "https://tokens.1inch.io/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+    "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+    "logoURI": "https://tokens.1inch.io/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png",
     "tags": [
       "crosschain",
-      "GROUP:MKR",
+      "GROUP:JOE",
       "tokens"
     ],
-    "coingeckoId": "maker",
+    "coingeckoId": "joe",
     "chainId": 42161
   },
   {
-    "symbol": "ETH",
-    "name": "Ether",
+    "symbol": "GHO",
+    "name": "Gho Token",
     "decimals": 18,
-    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33_0x3f29afe1b545fe97d254f04f630afe7aa3e1f979629b7a10f0d8ffba60f5ba18.png",
     "tags": [
       "crosschain",
-      "GROUP:ETH",
-      "native",
-      "PEG:ETH"
+      "GROUP:GHO",
+      "tokens"
     ],
-    "coingeckoId": "ethereum",
+    "coingeckoId": "gho",
+    "chainId": 42161
+  },
+  {
+    "symbol": "SIS",
+    "name": "Symbiosis",
+    "decimals": 18,
+    "address": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370",
+    "logoURI": "https://tokens.1inch.io/0x9e758b8a98a42d612b3d38b66a22074dc03d7370.png",
+    "tags": [
+      "crosschain",
+      "GROUP:SIS",
+      "tokens"
+    ],
+    "coingeckoId": "symbiosis-finance",
+    "chainId": 42161
+  },
+  {
+    "symbol": "RDNT",
+    "name": "Radiant",
+    "decimals": 18,
+    "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
+    "tags": [
+      "crosschain",
+      "GROUP:RDNT",
+      "tokens"
+    ],
+    "coingeckoId": "radiant-capital",
+    "chainId": 42161
+  },
+  {
+    "symbol": "USD+",
+    "name": "USD+",
+    "decimals": 6,
+    "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "logoURI": "https://tokens.1inch.io/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USD+",
+      "tokens"
+    ],
+    "coingeckoId": "overnight-fi-usd-arbitrum-one",
     "chainId": 42161
   },
   {
@@ -518,236 +537,46 @@
     "chainId": 42161
   },
   {
-    "symbol": "PREMIA",
-    "name": "Premia",
+    "symbol": "rETH",
+    "name": "Rocket Pool ETH",
     "decimals": 18,
-    "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
-    "logoURI": "https://tokens.1inch.io/0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70.png",
+    "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "logoURI": "https://tokens.1inch.io/0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8.png",
     "tags": [
       "crosschain",
-      "GROUP:PREMIA",
+      "GROUP:rETH",
       "tokens"
     ],
-    "coingeckoId": "premia",
+    "coingeckoId": "rocket-pool-eth",
     "chainId": 42161
   },
   {
-    "symbol": "SUSHI",
-    "name": "SushiToken",
+    "symbol": "WstETH",
+    "name": "Wrapped liquid staked Ether 2.0",
     "decimals": 18,
-    "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
-    "logoURI": "https://tokens.1inch.io/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
+    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "logoURI": "https://tokens.1inch.io/0x5979d7b546e38e414f7e9822514be443a4800529.png",
     "tags": [
       "crosschain",
-      "GROUP:SUSHI",
+      "GROUP:Wst ETH",
       "tokens"
     ],
-    "coingeckoId": "sushi",
+    "coingeckoId": "arbitrum-bridged-wsteth-arbitrum",
     "chainId": 42161
   },
   {
-    "symbol": "USD+",
-    "name": "USD+",
-    "decimals": 6,
-    "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
-    "logoURI": "https://tokens.1inch.io/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.png",
-    "tags": [
-      "crosschain",
-      "GROUP:USD+",
-      "tokens"
-    ],
-    "coingeckoId": "overnight-fi-usd-arbitrum-one",
-    "chainId": 42161
-  },
-  {
-    "symbol": "COMP",
-    "name": "Compound",
+    "symbol": "DAI",
+    "name": "Dai Stablecoin",
     "decimals": 18,
-    "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
-    "logoURI": "https://tokens.1inch.io/0xc00e94cb662c3520282e6f5717214004a7f26888.png",
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
     "tags": [
       "crosschain",
-      "GROUP:COMP",
-      "tokens"
-    ],
-    "coingeckoId": "compound-governance-token",
-    "chainId": 42161
-  },
-  {
-    "symbol": "CRV",
-    "name": "Curve DAO Token",
-    "decimals": 18,
-    "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
-    "logoURI": "https://tokens.1inch.io/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-    "tags": [
-      "crosschain",
-      "GROUP:CRV",
-      "tokens"
-    ],
-    "coingeckoId": "curve-dao-token",
-    "chainId": 42161
-  },
-  {
-    "symbol": "WINR",
-    "name": "WINR",
-    "decimals": 18,
-    "address": "0xd77b108d4f6cefaa0cae9506a934e825becca46e",
-    "logoURI": "https://tokens.1inch.io/0xd77b108d4f6cefaa0cae9506a934e825becca46e.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "winr-protocol",
-    "chainId": 42161
-  },
-  {
-    "symbol": "RDNT",
-    "name": "Radiant",
-    "decimals": 18,
-    "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
-    "logoURI": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
-    "tags": [
-      "crosschain",
-      "GROUP:RDNT",
-      "tokens"
-    ],
-    "coingeckoId": "radiant-capital",
-    "chainId": 42161
-  },
-  {
-    "symbol": "Bonk",
-    "name": "Bonk",
-    "decimals": 5,
-    "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
-    "logoURI": "https://assets.coingecko.com/coins/images/28600/large/bonk.jpg?1672304290",
-    "tags": [
-      "GROUP:BONK",
-      "tokens"
-    ],
-    "coingeckoId": "bonk",
-    "chainId": 42161
-  },
-  {
-    "symbol": "ARB",
-    "name": "Arbitrum",
-    "decimals": 18,
-    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-    "logoURI": "https://tokens.1inch.io/0x912ce59144191c1204e64559fe8253a0e49e6548.png",
-    "tags": [
-      "crosschain",
-      "GROUP:ARB",
-      "tokens"
-    ],
-    "coingeckoId": "arbitrum",
-    "chainId": 42161
-  },
-  {
-    "symbol": "REUNI",
-    "name": "Reunit Token",
-    "decimals": 6,
-    "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
-    "logoURI": "https://tokens.1inch.io/0x9ed7e4b1bff939ad473da5e7a218c771d1569456.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "",
-    "chainId": 42161
-  },
-  {
-    "symbol": "crvUSD",
-    "name": "Curve.Fi USD Stablecoin",
-    "decimals": 18,
-    "address": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
-    "logoURI": "https://tokens.1inch.io/0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5.png",
-    "tags": [
-      "crosschain",
-      "GROUP:crvUSD",
-      "tokens"
-    ],
-    "coingeckoId": "crvusd",
-    "chainId": 42161
-  },
-  {
-    "symbol": "NEXT",
-    "name": "Connext",
-    "decimals": 18,
-    "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
-    "logoURI": "https://tokens.1inch.io/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "connext",
-    "chainId": 42161
-  },
-  {
-    "symbol": "PSM",
-    "name": "Possum",
-    "decimals": 18,
-    "address": "0x17a8541b82bf67e10b0874284b4ae66858cb1fd5",
-    "logoURI": "https://tokens.1inch.io/0x17a8541b82bf67e10b0874284b4ae66858cb1fd5.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "possum",
-    "chainId": 42161
-  },
-  {
-    "symbol": "DFX",
-    "name": "DFX Token (L2)",
-    "decimals": 18,
-    "address": "0x27f485b62c4a7e635f561a87560adf5090239e93",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x27f485b62c4a7e635f561a87560adf5090239e93.webp",
-    "tags": [
-      "crosschain",
-      "GROUP:DFX",
-      "tokens"
-    ],
-    "coingeckoId": "dfx-finance",
-    "chainId": 42161
-  },
-  {
-    "symbol": "weETH",
-    "name": "Wrapped eETH",
-    "decimals": 18,
-    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x35751007a407ca6feffe80b3cb397736d2cf4dbe_0xc9299da210e6d68839b21e6e218dd397395eafaa6b2b11b3e9035b49418be043.png",
-    "tags": [
-      "crosschain",
-      "GROUP:weETH",
-      "tokens"
-    ],
-    "coingeckoId": "wrapped-eeth",
-    "chainId": 42161
-  },
-  {
-    "symbol": "XAI",
-    "name": "Xai",
-    "decimals": 18,
-    "address": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66.png",
-    "tags": [
-      "crosschain",
-      "tokens"
-    ],
-    "coingeckoId": "xai-blockchain",
-    "chainId": 42161
-  },
-  {
-    "symbol": "USDM",
-    "name": "Mountain Protocol USD",
-    "decimals": 18,
-    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
-    "tags": [
-      "crosschain",
-      "GROUP:USDM",
+      "GROUP:DAI",
       "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "mountain-protocol-usdm",
+    "coingeckoId": "makerdao-arbitrum-bridged-dai-arbitrum-one",
     "chainId": 42161
   },
   {
@@ -765,29 +594,169 @@
     "chainId": 42161
   },
   {
-    "symbol": "USDe",
-    "name": "USDe",
+    "symbol": "USDs_2",
+    "name": "Sperax USD",
     "decimals": 18,
-    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.webp",
+    "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
+    "logoURI": "https://tokens.1inch.io/0xd74f5255d557944cf7dd0e45ff521520002d5748.png",
     "tags": [
       "crosschain",
-      "GROUP:USDe",
+      "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "bridged-usde",
+    "coingeckoId": "sperax-usd",
     "chainId": 42161
   },
   {
-    "symbol": "stataArbUSDCn",
-    "name": "Static Aave Arbitrum USDCn",
-    "decimals": 6,
-    "address": "0x7cfadfd5645b50be87d546f42699d863648251ad",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7cfadfd5645b50be87d546f42699d863648251ad.png",
+    "symbol": "weETH",
+    "name": "Wrapped eETH",
+    "decimals": 18,
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x35751007a407ca6feffe80b3cb397736d2cf4dbe_0xc9299da210e6d68839b21e6e218dd397395eafaa6b2b11b3e9035b49418be043.png",
     "tags": [
-      "crosschain"
+      "crosschain",
+      "GROUP:weETH",
+      "tokens"
     ],
-    "coingeckoId": "",
+    "coingeckoId": "wrapped-eeth",
+    "chainId": 42161
+  },
+  {
+    "symbol": "MIM",
+    "name": "Magic Internet Money",
+    "decimals": 18,
+    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+    "logoURI": "https://tokens.1inch.io/0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a.png",
+    "tags": [
+      "crosschain",
+      "GROUP:MIM",
+      "tokens"
+    ],
+    "coingeckoId": "magic-internet-money-arbitrum",
+    "chainId": 42161
+  },
+  {
+    "symbol": "NEXT",
+    "name": "Connext",
+    "decimals": 18,
+    "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "logoURI": "https://tokens.1inch.io/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "connext",
+    "chainId": 42161
+  },
+  {
+    "symbol": "PREMIA",
+    "name": "Premia",
+    "decimals": 18,
+    "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
+    "logoURI": "https://tokens.1inch.io/0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70.png",
+    "tags": [
+      "crosschain",
+      "GROUP:PREMIA",
+      "tokens"
+    ],
+    "coingeckoId": "premia",
+    "chainId": 42161
+  },
+  {
+    "symbol": "EURA",
+    "name": "EURA (previously agEUR)",
+    "decimals": 18,
+    "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+    "logoURI": "https://tokens.1inch.io/0xfa5ed56a203466cbbc2430a43c66b9d8723528e7.png",
+    "tags": [
+      "crosschain",
+      "GROUP:EURA",
+      "PEG:EUR",
+      "tokens"
+    ],
+    "coingeckoId": "ageur",
+    "chainId": 42161
+  },
+  {
+    "symbol": "WINR",
+    "name": "WINR",
+    "decimals": 18,
+    "address": "0xd77b108d4f6cefaa0cae9506a934e825becca46e",
+    "logoURI": "https://tokens.1inch.io/0xd77b108d4f6cefaa0cae9506a934e825becca46e.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "winr-protocol",
+    "chainId": 42161
+  },
+  {
+    "symbol": "deUSDC",
+    "name": "deBridge USD Coin",
+    "decimals": 6,
+    "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
+    "logoURI": "https://tokens.1inch.io/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa_2.png",
+    "tags": [
+      "crosschain",
+      "GROUP:deUSDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 42161
+  },
+  {
+    "symbol": "KROM",
+    "name": "Kromatika",
+    "decimals": 18,
+    "address": "0x55ff62567f09906a85183b866df84bf599a4bf70",
+    "logoURI": "https://tokens.1inch.io/0x55ff62567f09906a85183b866df84bf599a4bf70.png",
+    "tags": [
+      "crosschain",
+      "GROUP:KROM",
+      "tokens"
+    ],
+    "coingeckoId": "kromatika",
+    "chainId": 42161
+  },
+  {
+    "symbol": "GS",
+    "name": "GammaSwap",
+    "decimals": 18,
+    "address": "0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83_0x467fbc1124296422d161414fcc3c554f6138122c5338ceb1f9b3890539883791.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "gammaswap",
+    "chainId": 42161
+  },
+  {
+    "symbol": "RDPX",
+    "name": "Dopex Rebate Token",
+    "decimals": 18,
+    "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
+    "logoURI": "https://tokens.1inch.io/0x32eb7902d4134bf98a28b963d26de779af92a212.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "dopex-rebate-token",
+    "chainId": 42161
+  },
+  {
+    "symbol": "MKR",
+    "name": "Maker",
+    "decimals": 18,
+    "address": "0x2e9a6df78e42a30712c10a9dc4b1c8656f8f2879",
+    "logoURI": "https://tokens.1inch.io/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png",
+    "tags": [
+      "crosschain",
+      "GROUP:MKR",
+      "tokens"
+    ],
+    "coingeckoId": "maker",
     "chainId": 42161
   },
   {
@@ -806,58 +775,58 @@
     "chainId": 42161
   },
   {
-    "symbol": "W",
-    "name": "Wormhole Token",
+    "symbol": "MCB",
+    "name": "MCDEX Token",
     "decimals": 18,
-    "address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91.webp",
+    "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.webp",
     "tags": [
       "crosschain",
-      "GROUP:W",
       "tokens"
     ],
-    "coingeckoId": "wormhole",
+    "coingeckoId": "mcdex",
     "chainId": 42161
   },
   {
-    "symbol": "ATH",
-    "name": "Aethir Token",
+    "symbol": "ELK",
+    "name": "Elk",
     "decimals": 18,
-    "address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0xc87b37a581ec3257b734886d9d3a581f5a9d056c.webp",
+    "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
     "tags": [
       "crosschain",
-      "GROUP:ATH",
       "tokens"
     ],
-    "coingeckoId": "aethir",
+    "coingeckoId": "elk-finance",
     "chainId": 42161
   },
   {
-    "symbol": "ETHFI",
-    "name": "ether.fi governance token",
+    "symbol": "USDM",
+    "name": "Mountain Protocol USD",
     "decimals": 18,
-    "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
-    "logoURI": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
+    "address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31719/large/usdm.png?1696530540",
     "tags": [
       "crosschain",
+      "GROUP:USDM",
+      "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "ether-fi",
+    "coingeckoId": "mountain-protocol-usdm",
     "chainId": 42161
   },
   {
-    "symbol": "GHO",
-    "name": "Gho Token",
+    "symbol": "DFX",
+    "name": "DFX Token (L2)",
     "decimals": 18,
-    "address": "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33_0x3f29afe1b545fe97d254f04f630afe7aa3e1f979629b7a10f0d8ffba60f5ba18.png",
+    "address": "0x27f485b62c4a7e635f561a87560adf5090239e93",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x27f485b62c4a7e635f561a87560adf5090239e93.webp",
     "tags": [
       "crosschain",
-      "GROUP:GHO",
+      "GROUP:DFX",
       "tokens"
     ],
-    "coingeckoId": "gho",
+    "coingeckoId": "dfx-finance",
     "chainId": 42161
   },
   {
@@ -875,44 +844,119 @@
     "chainId": 42161
   },
   {
-    "symbol": "GS",
-    "name": "GammaSwap",
-    "decimals": 18,
-    "address": "0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0xb08d8becab1bf76a9ce3d2d5fa946f65ec1d3e83_0x467fbc1124296422d161414fcc3c554f6138122c5338ceb1f9b3890539883791.png",
+    "symbol": "REUNI",
+    "name": "Reunit Token",
+    "decimals": 6,
+    "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
+    "logoURI": "https://tokens.1inch.io/0x9ed7e4b1bff939ad473da5e7a218c771d1569456.png",
     "tags": [
       "crosschain",
       "tokens"
     ],
-    "coingeckoId": "gammaswap",
+    "coingeckoId": "",
     "chainId": 42161
   },
   {
-    "symbol": "Cake",
-    "name": "PancakeSwap Token",
+    "symbol": "DPX",
+    "name": "Dopex Governance Token",
     "decimals": 18,
-    "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c.webp",
+    "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+    "logoURI": "https://tokens.1inch.io/0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55.png",
     "tags": [
       "crosschain",
-      "GROUP:Cake",
       "tokens"
     ],
-    "coingeckoId": "pancakeswap-token",
+    "coingeckoId": "dopex",
     "chainId": 42161
   },
   {
-    "symbol": "cbBTC",
-    "name": "Coinbase Wrapped BTC",
-    "decimals": 8,
-    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.webp",
+    "symbol": "PSM",
+    "name": "Possum",
+    "decimals": 18,
+    "address": "0x17a8541b82bf67e10b0874284b4ae66858cb1fd5",
+    "logoURI": "https://tokens.1inch.io/0x17a8541b82bf67e10b0874284b4ae66858cb1fd5.png",
     "tags": [
       "crosschain",
-      "GROUP:CBBTC",
       "tokens"
     ],
-    "coingeckoId": "coinbase-wrapped-btc",
+    "coingeckoId": "possum",
+    "chainId": 42161
+  },
+  {
+    "symbol": "stataArbUSDCn",
+    "name": "Static Aave Arbitrum USDCn",
+    "decimals": 6,
+    "address": "0x7cfadfd5645b50be87d546f42699d863648251ad",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0x7cfadfd5645b50be87d546f42699d863648251ad.png",
+    "tags": [
+      "crosschain"
+    ],
+    "coingeckoId": "",
+    "chainId": 42161
+  },
+  {
+    "symbol": "VELA",
+    "name": "VelaToken",
+    "decimals": 18,
+    "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
+    "logoURI": "https://tokens.1inch.io/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "vela-token",
+    "chainId": 42161
+  },
+  {
+    "symbol": "EMAX",
+    "name": "EthereumMax",
+    "decimals": 18,
+    "address": "0x123389c2f0e9194d9ba98c21e63c375b67614108",
+    "logoURI": "https://tokens.1inch.io/0x123389c2f0e9194d9ba98c21e63c375b67614108.png",
+    "tags": [
+      "tokens"
+    ],
+    "coingeckoId": "ethereummax",
+    "chainId": 42161
+  },
+  {
+    "symbol": "LIQD",
+    "name": "Liquid",
+    "decimals": 18,
+    "address": "0x93c15cd7de26f07265f0272e0b831c5d7fab174f",
+    "logoURI": "https://tokens.1inch.io/0x93c15cd7de26f07265f0272e0b831c5d7fab174f.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "liquid-finance",
+    "chainId": 42161
+  },
+  {
+    "symbol": "Bonk",
+    "name": "Bonk",
+    "decimals": 5,
+    "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+    "logoURI": "https://assets.coingecko.com/coins/images/28600/large/bonk.jpg?1672304290",
+    "tags": [
+      "GROUP:BONK",
+      "tokens"
+    ],
+    "coingeckoId": "bonk",
+    "chainId": 42161
+  },
+  {
+    "symbol": "ATH",
+    "name": "Aethir Token",
+    "decimals": 18,
+    "address": "0xc87b37a581ec3257b734886d9d3a581f5a9d056c",
+    "logoURI": "https://tokens-data.1inch.io/images/42161/0xc87b37a581ec3257b734886d9d3a581f5a9d056c.webp",
+    "tags": [
+      "crosschain",
+      "GROUP:ATH",
+      "tokens"
+    ],
+    "coingeckoId": "aethir",
     "chainId": 42161
   },
   {
@@ -926,50 +970,6 @@
       "tokens"
     ],
     "coingeckoId": "hall-of-legends",
-    "chainId": 42161
-  },
-  {
-    "symbol": "ANIME",
-    "name": "Animecoin",
-    "decimals": 18,
-    "address": "0x37a645648df29205c6261289983fb04ecd70b4b3",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x37a645648df29205c6261289983fb04ecd70b4b3_0x93fe1ce4d7d74895613cea4d5e6b54d2d38703230f5f3d783a205d4632a46168.webp",
-    "tags": [
-      "crosschain",
-      "GROUP:ANIME",
-      "tokens"
-    ],
-    "coingeckoId": "anime",
-    "chainId": 42161
-  },
-  {
-    "symbol": "USDS",
-    "name": "USDS Stablecoin",
-    "decimals": 18,
-    "address": "0x6491c05a82219b8d1479057361ff1654749b876b",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0x6491c05a82219b8d1479057361ff1654749b876b_0xbe225ac54d8c7d5447f1ce9e74c846bec57f8f8b2c66ec2d2d09086dc40b4a3c.webp",
-    "tags": [
-      "crosschain",
-      "GROUP:USDS",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "usds",
-    "chainId": 42161
-  },
-  {
-    "symbol": "sUSDS",
-    "name": "Savings USDS",
-    "decimals": 18,
-    "address": "0xddb46999f8891663a8f2828d25298f70416d7610",
-    "logoURI": "https://tokens-data.1inch.io/images/42161/0xddb46999f8891663a8f2828d25298f70416d7610_0xdaa284411a634bdc7d0862a1528748cc2fab9017b6dad23572dec72ec581fda5.svg",
-    "tags": [
-      "crosschain",
-      "GROUP:sUSDS",
-      "PEG:USD",
-      "tokens"
-    ],
-    "coingeckoId": "susds",
     "chainId": 42161
   }
 ]
