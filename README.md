@@ -17,3 +17,4 @@
 - Sui
 - Zksync
 - Monad
+- Ton

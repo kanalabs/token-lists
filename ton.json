@@ -1,0 +1,776 @@
+[
+  {
+    "address": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+    "decimals": 9,
+    "name": "TON",
+    "symbol": "TON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c/c8d21a3d93f9b574381e0a8d8f16d48b325dd8f54ce172f599c1e9d6c62f03f7",
+    "coingecko_id": "the-open-network"
+  },
+  {
+    "address": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USD₮",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs/1a87edfee9a28b05578853952e5effb8cc30af1e0fb90043aa2ce19dce490849",
+    "coingecko_id": "tether"
+  },
+  {
+    "address": "EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA",
+    "decimals": 9,
+    "name": "Utya",
+    "symbol": "UTYA",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA/727e6cc971afdfa8ed9c698d0909eee9de344a0b6766ff5e4ddcc3323449d6f6",
+    "coingecko_id": "utya"
+  },
+  {
+    "address": "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav",
+    "decimals": 9,
+    "name": "Tonstakers TON",
+    "symbol": "tsTON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav/38f530facb209e4696b8aef17af51df94d16bd879926c517b07d25841da287b7",
+    "coingecko_id": "tonstakers"
+  },
+  {
+    "address": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
+    "decimals": 9,
+    "name": "STON",
+    "symbol": "STON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO/7c9798ce1e64707fb4cb8f025d4060f66b386ed381b50498e3b88731cedeffe8",
+    "coingecko_id": "ston-2"
+  },
+  {
+    "address": "EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k",
+    "decimals": 6,
+    "name": "Tether Gold",
+    "symbol": "XAUt0",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k/4aaaa7c30d7811bced81ded6bc116dcc82a78c6aea53d6012fd586a5826963ad",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT",
+    "decimals": 9,
+    "name": "Notcoin",
+    "symbol": "NOT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT/c0dcf1d0e16604a22040bed2a5ec97765479fdba99538fa0bb5c243bb6220c5e",
+    "coingecko_id": "notcoin"
+  },
+  {
+    "address": "EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR",
+    "decimals": 9,
+    "name": "Major",
+    "symbol": "MAJOR",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR/aea6edb39acc18a2958ed78165051844b8d4cec92b860866a25dd7f300a07e50",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa",
+    "decimals": 9,
+    "name": "GEMSTON",
+    "symbol": "GEMSTON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBX6K9aXVl3nXINCyPPL86C4ONVmQ8vK360u6dykFKXpHCa/c6ab1e58e3b9b58a7429d38b7feab731afae2f66dc301a6c42041fdf7e9d7c9c",
+    "coingecko_id": "gemston"
+  },
+  {
+    "address": "EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX",
+    "decimals": 9,
+    "name": "PX",
+    "symbol": "PX",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX/67a56ff4fcba8f9b7d21d54840cf2c9fcfd1799a599eedbfff2653e63f08b423",
+    "coingecko_id": "not-pixel"
+  },
+  {
+    "address": "EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko",
+    "decimals": 9,
+    "name": "Resistance Dog",
+    "symbol": "REDO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko/88d0249592ca2d167bbd0045754810f33b573193934114d7cc9fd33d150667f3",
+    "coingecko_id": "resistance-dog"
+  },
+  {
+    "address": "EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0",
+    "decimals": 9,
+    "name": "LAMBO",
+    "symbol": "LAMBO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0/c6f77aced3c844ca09bcbeeceea49ba0a37c11b951b549a244d34f01bb3f289e",
+    "coingecko_id": "lambo-3"
+  },
+  {
+    "address": "EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM",
+    "decimals": 9,
+    "name": "STORM",
+    "symbol": "STORM",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBsosmcZrD6FHijA7qWGLw5wo_aH8UN435hi935jJ_STORM/c862989a0b60faa178ae77a935d29a6deda782917360092351386fca33bfe0c8",
+    "coingecko_id": "storm-trade"
+  },
+  {
+    "address": "EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon",
+    "decimals": 9,
+    "name": "JetTon",
+    "symbol": "JETTON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAQXlWJvGbbFfE8F3oS8s87lIgdovS455IsWFaRdmJetTon/8f3d0eaf65c9f877a21f0b102832b431c0df7a6b7788b8df9a57a4d0305320bf",
+    "coingecko_id": "jetton"
+  },
+  {
+    "address": "EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK",
+    "decimals": 9,
+    "name": "Amocucinare",
+    "symbol": "AMORE",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQC7js8NLX3v57ZuRmuusNtMSBdki4va_qyL7sAwdmosf_xK/b5170b162cff6b27e6234537b721978987ccfda83aeadc3e70f32c5be4a60157",
+    "coingecko_id": "amocucinare"
+  },
+  {
+    "address": "EQACLXDwit01stiqK9FvYiJo15luVzfD5zU8uwDSq6JXxbP8",
+    "decimals": 8,
+    "name": "Spintria",
+    "symbol": "SP",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQACLXDwit01stiqK9FvYiJo15luVzfD5zU8uwDSq6JXxbP8/fb6e605650f33e99040fad1fbbaca424741cd6dfeda995c2aa610496b45f1020",
+    "coingecko_id": "spintria"
+  },
+  {
+    "address": "EQBKRSNRkeP1-2jcg5T_f__0s5Hj-vrbfNLMQy8dnZs7xd_p",
+    "decimals": 9,
+    "name": "Hot Cherry",
+    "symbol": "CHERRY",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBKRSNRkeP1-2jcg5T_f__0s5Hj-vrbfNLMQy8dnZs7xd_p/01bca2cd788e49d3fc03b5e48551340907d0d582b9c73ffbead880b1404c12d8",
+    "coingecko_id": "hot-cherry"
+  },
+  {
+    "address": "EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O",
+    "decimals": 9,
+    "name": "Gram",
+    "symbol": "GRAM",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O/c3e8f7395e5b7d4726905336cfb9b2602c1a291ccc3a1ebc44f7dbc552244d08",
+    "coingecko_id": "gram-2"
+  },
+  {
+    "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
+    "decimals": 9,
+    "name": "Dogs",
+    "symbol": "DOGS",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS/b84413017d2b6a57d31daf1281245cb39a59e189a8a107047db39470a08c0c9e",
+    "coingecko_id": "dogs-2"
+  },
+  {
+    "address": "EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn",
+    "decimals": 9,
+    "name": "Baby Doge Coin",
+    "symbol": "BabyDoge",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn/24e3b339086836abf0082a5921e3b0f056027713a4c324fd26dc33e3c37452a4",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP",
+    "decimals": 9,
+    "name": "TON PET MEMECOIN",
+    "symbol": "TPET",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAmQGimKRrSHDLllvdUdeDsX1CszGy_SPgNNN8wE2ihIwnP/a7077406eeeb5bc4db326af5514eaaa4528e98c96863dd8b58743f9caa429247",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ",
+    "decimals": 9,
+    "name": "ANON",
+    "symbol": "ANON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDv-yr41_CZ2urg2gfegVfa44PDPjIK9F-MilEDKDUIhlwZ/dd4feacb8755b4383eca35a7587ad4fd0ea924a19cb3cd932946344dc08f2c02",
+    "coingecko_id": "anon-ton"
+  },
+  {
+    "address": "EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7",
+    "decimals": 9,
+    "name": "Catizen",
+    "symbol": "CATI",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7/7177e55473596c552cde4be5b94cc222ee229a49347f652303086b336cf188e8",
+    "coingecko_id": "catizen"
+  },
+  {
+    "address": "EQBE_gBrU3mPI9hHjlJoR_kYyrhQgyCFD6EUWfa42W8T7EBP",
+    "decimals": 18,
+    "name": "TAC Token",
+    "symbol": "TAC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBE_gBrU3mPI9hHjlJoR_kYyrhQgyCFD6EUWfa42W8T7EBP/922ab75b724f768211cee2de206eba8c0803c0d5c006f520676caca70a6d7a4a",
+    "coingecko_id": "tac"
+  },
+  {
+    "address": "EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD",
+    "decimals": 9,
+    "name": "BUILD",
+    "symbol": "BUILD",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBYnUrIlwBrWqp_rl-VxeSBvTR2VmTfC4ManQ657n_BUILD/c558cb523445c708bb46db659944092dc46faaec3da0b444de498a4349d50f3d",
+    "coingecko_id": "build-4"
+  },
+  {
+    "address": "EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw",
+    "decimals": 9,
+    "name": "KTON",
+    "symbol": "KTON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBuIhXNNkWf9AW9miNGNTSO_uFZ23ejfIWrieXge5f733mw/4138aab2db1b2b752adf1fbf2f944cb896c0d0e919ed5483d56b2ac67a7e6c25",
+    "coingecko_id": "kton-staked-kton"
+  },
+  {
+    "address": "EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d",
+    "decimals": 9,
+    "name": "Vilarso",
+    "symbol": "VILARSO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d/903bb1c395ec07d8523cf2e4bd792c1ee8e08adbc04bad879f1b290d5d1631c9",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBKyWOOFXlJpzYO8e44JG6uf6L3v4bYbbBBnKj9OHwBXjzm",
+    "decimals": 9,
+    "name": "WOOF",
+    "symbol": "WOOF",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBKyWOOFXlJpzYO8e44JG6uf6L3v4bYbbBBnKj9OHwBXjzm/81c35b3742c6986e5dcce61fa1f1d72abda8cee80bf8bf9da892858505de532f",
+    "coingecko_id": "woof-2"
+  },
+  {
+    "address": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "jUSDT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA/6520b22c3428e15858326ecb9335b5131b955d3b024ea71a6cb10dba9ac2e482",
+    "coingecko_id": "bridged-tether-ton-bridge"
+  },
+  {
+    "address": "EQB0apV-NyCYJDVwSBoDL86Xjp0OiwcyD8jJ0J5BVWnnDJu7",
+    "decimals": 9,
+    "name": "OPEN",
+    "symbol": "OPEN",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQB0apV-NyCYJDVwSBoDL86Xjp0OiwcyD8jJ0J5BVWnnDJu7/73163918d3345dbe638084ae45674a82f02598505d0dddb76715727f205c489a",
+    "coingecko_id": "open-tony"
+  },
+  {
+    "address": "EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz",
+    "decimals": 9,
+    "name": "FPI Bank",
+    "symbol": "FPIBANK",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz/6daeb37fa94aec68e595cbda57764c17921cefa8ebaa582760debb3c700f6242",
+    "coingecko_id": "fpi-bank"
+  },
+  {
+    "address": "EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK",
+    "decimals": 9,
+    "name": "TON FISH MEMECOIN",
+    "symbol": "FISH",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK/d9223efb9d5117271e56bacdb4e1a98a3ce586d8f9f295d8e8b3e93bb7486acd",
+    "coingecko_id": "ton-fish-memecoin"
+  },
+  {
+    "address": "EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h",
+    "decimals": 9,
+    "name": "Ton Raffles Token",
+    "symbol": "RAFF",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h/3edf78acd429012afa4441c3fa2e99f1239885ba7448b88a7173e117d65be089",
+    "coingecko_id": "ton-raffles"
+  },
+  {
+    "address": "EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j",
+    "decimals": 9,
+    "name": "LLAMA",
+    "symbol": "LLAMA",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j/0849d1377f2c7d3336b8f583c5946f2a67a890e684917d645ada12cf56ae9e81",
+    "coingecko_id": "llama"
+  },
+  {
+    "address": "EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C",
+    "decimals": 9,
+    "name": "TON Cats Jetton",
+    "symbol": "CATS",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C/49d430716e72e69db8da0c4c55427f030fd2ffc4d23fcd7dc33694057bf913a6",
+    "coingecko_id": "ton-cats-jetton"
+  },
+  {
+    "address": "EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X",
+    "decimals": 9,
+    "name": "X Empire",
+    "symbol": "X",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQB4zZusHsbU2vVTPqjhlokIOoiZhEdCMT703CWEzhTOo__X/4a01db63b3efb98897bc63735e2a8dc3c2fb71f215b3664d9d93219925d96e7e",
+    "coingecko_id": "x-empire"
+  },
+  {
+    "address": "EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w",
+    "decimals": 9,
+    "name": "MyTonWallet Coin",
+    "symbol": "MY",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCFVNlRb-NHHDQfv3Q9xvDXBLJlay855_xREsq5ZDX6KN-w/5749fee6c6f7bd3f1b8f43ac9fc6cf96af576713376d00dd2216cac76244bf91",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAEuikLQVh2lDMrV99nTHqFL_TXEyCEJ1xKMuPT60tfvdps",
+    "decimals": 18,
+    "name": "Mantle",
+    "symbol": "jMNT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAEuikLQVh2lDMrV99nTHqFL_TXEyCEJ1xKMuPT60tfvdps/3bbecd6d12e97bc1e9f0b3dd41db95c07498d337b9ae5b5c9b5d5693db76cf6f",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm",
+    "decimals": 9,
+    "name": "NikolAI",
+    "symbol": "NIKO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm/e1b918ff7c6782cdafbfd3f8d26ff5be1158b7e864610d74a548d6cf2d6a063b",
+    "coingecko_id": "nikolai"
+  },
+  {
+    "address": "EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k",
+    "decimals": 9,
+    "name": "Staked TON",
+    "symbol": "stTON",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k/62bc6e68c60ea87a25d85491510e57a6149560253b6be6692269280357ede0c1",
+    "coingecko_id": "bemo-staked-ton"
+  },
+  {
+    "address": "EQC0KYVZpwR-dTkPwVRqagH2D31he931R7oUbPIBo_77F97K",
+    "decimals": 9,
+    "name": "痛",
+    "symbol": "TONG",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQC0KYVZpwR-dTkPwVRqagH2D31he931R7oUbPIBo_77F97K/76ca005f4dde08aa71868e43c1eccbbfa4c42a795ae70de178483035ca69d4f3",
+    "coingecko_id": "tong"
+  },
+  {
+    "address": "EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U",
+    "decimals": 9,
+    "name": "Magic Crystal",
+    "symbol": "MC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCbKMTmEAdSnzsK85LOpaDkDH3HjujEbTePMSeirvEaNq-U/353a2f400bf8eaa1d71dfdbaaddfc5589d45983d7e75275f8414712cb653885c",
+    "coingecko_id": "magic-crystal"
+  },
+  {
+    "address": "EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn",
+    "decimals": 9,
+    "name": "Grouche coin",
+    "symbol": "GRC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn/30bbe09893c1b4ffea10b496a7414d4d9718c8528d7adafc36bd9621770f8c96",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAWpz2_G0NKxlG2VvgFbgZGPt8Y1qe0cGj-4Yw5BfmYR5iF",
+    "decimals": 9,
+    "name": "Not Meme",
+    "symbol": "MEM",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAWpz2_G0NKxlG2VvgFbgZGPt8Y1qe0cGj-4Yw5BfmYR5iF/503bf9e57a5c9f3eb469d76111efd90746ab647408360613828a27206007a43e",
+    "coingecko_id": "not-meme"
+  },
+  {
+    "address": "EQAVfEY2iKSpEkUhgFLFWAgHeSz2NH2XV-MvDuiKF5plSbsU",
+    "decimals": 9,
+    "name": "xRocket Token",
+    "symbol": "XROCK",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAVfEY2iKSpEkUhgFLFWAgHeSz2NH2XV-MvDuiKF5plSbsU/edd03ce31771cf3c46173ae1c6283d6cda4f1e41359248cfce93b4b0bafdc6d1",
+    "coingecko_id": "xrocket"
+  },
+  {
+    "address": "EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH",
+    "decimals": 9,
+    "name": "@BTC25 MEMECOIN TonMiner",
+    "symbol": "@BTC25",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQC7rnHHtMVBKyhiGnAbtYIlzGxS0dfi3ZbHExFX0LYi9cAH/d02bc7582bc6dca285d760bbf8ae4e53fe3643d8e2f15467005656cf5b3fac62",
+    "coingecko_id": "1rus-btc25"
+  },
+  {
+    "address": "EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo",
+    "decimals": 9,
+    "name": "Shitcoin",
+    "symbol": "SHIT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQB4gPfG0YtoiJHCMTUuzxP9fKXy9nx6TFh-dcAltrnNpLNo/c59d48413f483267f0f2414e24d7db14e14d0f7edc9985f6406fbb372067925f",
+    "coingecko_id": "shitcoin-on-ton"
+  },
+  {
+    "address": "EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4",
+    "decimals": 9,
+    "name": "BOOBA Coin",
+    "symbol": "BOOBA",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCavQv8vsZ1waQnqz3lmGEw2HkUM2clUrzjJotwpwzrgcx4/57a6551b712a3a52bc38d2d090306a19f232a05c77c4804ce801ff7a576062f4",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ",
+    "decimals": 9,
+    "name": "DOGWIFHOOD",
+    "symbol": "WIF",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ/288b72d7804ecc12b51d9379bfff79199e5fc528a0a71da891125db768a6fb50",
+    "coingecko_id": "dogwifhood"
+  },
+  {
+    "address": "EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0",
+    "decimals": 9,
+    "name": "povel durev",
+    "symbol": "durev",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0/e6f4ff933457c631e364b910d0df07b5707945e11b7f9985ec1dc2e40f424b11",
+    "coingecko_id": "povel-durev"
+  },
+  {
+    "address": "EQA1EIDrR33zgL21rwDIfGo7h4ETWieentUvg7jIT-3aP5GG",
+    "decimals": 9,
+    "name": "FORT Token",
+    "symbol": "FRT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQA1EIDrR33zgL21rwDIfGo7h4ETWieentUvg7jIT-3aP5GG/bc1d7df4905bee8010629813a5ada297d7df07a3fbfd50d8044b0adbea15028c",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBZn0aFa466gyVsN8bZdqTnMGnWnQwuZmpYPjKLYK_TRAIN",
+    "decimals": 9,
+    "name": "TrainCoin",
+    "symbol": "TRAIN",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBZn0aFa466gyVsN8bZdqTnMGnWnQwuZmpYPjKLYK_TRAIN/66397c05fa4387dfa2bf82e0b8de8a0b52d17b572db7fa33f339f22cc717f222",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f",
+    "decimals": 6,
+    "name": "Ethena USDe",
+    "symbol": "USDe",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f/dbcc67993cd4aad4845a97a4a9722c6cb618123997c8112c29d4932b2739c4cd",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep",
+    "decimals": 9,
+    "name": "Ecorpay Token",
+    "symbol": "ECOR",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep/d1e1de6e11a6c4f7d195ac1b1377d43a3ae51a0afa3644e1e5f185e59638812e",
+    "coingecko_id": "ecorpay"
+  },
+  {
+    "address": "EQC5Dj4AfQaDl40ex6E0WyUDdMBJHbqTXnxNkn8HuQZNzpZt",
+    "decimals": 9,
+    "name": "Ownership Coin",
+    "symbol": "OC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQC5Dj4AfQaDl40ex6E0WyUDdMBJHbqTXnxNkn8HuQZNzpZt/442c96afacfb90699e6ca0a1a2e4d3fe4e480eb9eb4858a414b0f7d14a7072aa",
+    "coingecko_id": "ownershipcoin"
+  },
+  {
+    "address": "EQDQ5UUyPHrLcQJlPAczd_fjxn8SLrlNQwolBznxCdSlfQwr",
+    "decimals": 6,
+    "name": "tsUSDe",
+    "symbol": "tsUSDe",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDQ5UUyPHrLcQJlPAczd_fjxn8SLrlNQwolBznxCdSlfQwr/62bdb87aad0b9019a385a8b37a22733f8a6eb6c2d105275bd2527139e970d18b",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B",
+    "decimals": 8,
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B/068d8ddbf4a6dd685c229f2a57bc7246085ec1872826a32cb4327c4b3a1fa2c7",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBTkLAhEteZCRgRe_xMs5ZE0bMrduYxKbyzGCpXXW8dRWOT",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBTkLAhEteZCRgRe_xMs5ZE0bMrduYxKbyzGCpXXW8dRWOT/6267787665c30c2500dbde048e2f8a6a6d7ec58633ea038723f4ce1fab337ccb",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQCdb8hvMDDZcqpPGH-cCj3iMuom9P57mMyrdoHNNyXHM9Fs",
+    "decimals": 6,
+    "name": "EvoSimGame",
+    "symbol": "ESIM",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCdb8hvMDDZcqpPGH-cCj3iMuom9P57mMyrdoHNNyXHM9Fs/89dd9165c5485ebe396a026487b41dccc0ed12b4b950c30b7061909e57775058",
+    "coingecko_id": "evosimgame"
+  },
+  {
+    "address": "EQB1fyBAA9qQDP6LEGaF3cbU-Xbr-p6ESBZGnqlHkHIHAJZv",
+    "decimals": 8,
+    "name": "SP500 xStock",
+    "symbol": "SPYx",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQB1fyBAA9qQDP6LEGaF3cbU-Xbr-p6ESBZGnqlHkHIHAJZv/2fe2e0d08bcf4aad95007f8e2e6595de363695f3b5779819e508cec249c6e144",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBp6FAkDdHD_lLKUBI-J-Et5zQeyJlixc6f3iKHBie85Fd-",
+    "decimals": 9,
+    "name": "Proof of Karl",
+    "symbol": "POK",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBp6FAkDdHD_lLKUBI-J-Et5zQeyJlixc6f3iKHBie85Fd-/4fdabc18f0317b7361b4e8bcb598291953d2dae96578d15a56e08c9ab35cce76",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp",
+    "decimals": 9,
+    "name": "EVAA Protocol",
+    "symbol": "EVAA",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp/ccbd6b82c98ed873f2befcb96c466a86613eb7fb407d4ffcef57662702860481",
+    "coingecko_id": "evaa-protocol"
+  },
+  {
+    "address": "EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY",
+    "decimals": 8,
+    "name": "PirateCash",
+    "symbol": "PIRATE",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY/2a219313b420d5293fa93a003e4e48fb62ec9f8ab7c7dfa7955e349f4dab331c",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDZvDW7Cf33YjMpeVr771PMrYgymGFyibTdcL4y-unuFtmA",
+    "decimals": 9,
+    "name": "BUDDY BEAR",
+    "symbol": "BUDDY",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDZvDW7Cf33YjMpeVr771PMrYgymGFyibTdcL4y-unuFtmA/2ef9ad4d8753feee520ef40ac80babb39c0f68dd6b01980ecc1d4f6cfa855ae1",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBKVUJEjjBBSwU2DKTIMD6-nVHR8Ipxh_RdxwjtNIbR0OIw",
+    "decimals": 9,
+    "name": "Call of Odin's Chosen",
+    "symbol": "COC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBKVUJEjjBBSwU2DKTIMD6-nVHR8Ipxh_RdxwjtNIbR0OIw/cfe199b8b055bbad9503fa2cc45831f29de1be25d9d625b6b056b1abaa6afa1c",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBVREHTYdoRs4dIAyt28NapntBmFNOgdluolraV8N0hPUyJ",
+    "decimals": 9,
+    "name": "BUYITCOIN",
+    "symbol": "BYC",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBVREHTYdoRs4dIAyt28NapntBmFNOgdluolraV8N0hPUyJ/6dcb3b1c5eaf9e3125abd753be15a016910ad7631b9b42c8a6def91b820ce73d",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBgBNk08ebUtN4LlDDfIhSW4qOeLqb38foA1JRtqlccsD3T",
+    "decimals": 18,
+    "name": "Feyorra",
+    "symbol": "FEY",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBgBNk08ebUtN4LlDDfIhSW4qOeLqb38foA1JRtqlccsD3T/74a93e8ba9c6a86ffe641a1de0e4aee9112028dd1707e604fc02e0d1f899fd7c",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAhZDXKDDqF2bFuWAGly5FxfgVthjOKfvbyTfzTvK8yhIUb",
+    "decimals": 9,
+    "name": "AVTOP",
+    "symbol": "AVTOP",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAhZDXKDDqF2bFuWAGly5FxfgVthjOKfvbyTfzTvK8yhIUb/c84303413652d5c25710e9a193a891e30fd00e746e9fe4c31d17731dfdc71844",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQCMk4_OujCnk46jApHnIRbmTtYTkSmfujV9X8Ye0qvsHVKh",
+    "decimals": 18,
+    "name": "Herculis Gold Coin",
+    "symbol": "XAUH",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCMk4_OujCnk46jApHnIRbmTtYTkSmfujV9X8Ye0qvsHVKh/be5490c830be36de24f277e20d0e90fca00902a61b68959882962c45b6f65cbe",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDgxL39gVj4_QXjeaOyXaRPol7n0HulTKHOmU7dr23mm2Ng",
+    "decimals": 9,
+    "name": "Diamond",
+    "symbol": "DIAMOND",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDgxL39gVj4_QXjeaOyXaRPol7n0HulTKHOmU7dr23mm2Ng/48b29864edf42ff2b63cc8936a8293a8d74b7522b983832ee1ac8cf2c5974837",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAunJ_g3aswhm4WKrVxLT3zUHoZtg1koB58w5zMQTFVMi64",
+    "decimals": 9,
+    "name": "Ton Farm Token",
+    "symbol": "TFT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAunJ_g3aswhm4WKrVxLT3zUHoZtg1koB58w5zMQTFVMi64/d5a1bde4d2c22fb8c8589ef1a10dc05eb83f18ac99a5c22fe3bedfeae7edc537",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBPprO7EW1A110C4Z7Jq2tl_2PxEGzYJwTS_UgkmalO-GdA",
+    "decimals": 9,
+    "name": "GoldAge gold",
+    "symbol": "GDA",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBPprO7EW1A110C4Z7Jq2tl_2PxEGzYJwTS_UgkmalO-GdA/623b5a78c8ebacfa70662f433c07280eb7e268eab368be85d67216ab3cc09187",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQCpkuD6gpAdXWJDOLKyxx6ngDDcXz2AS85jWyDWa3qTVXYQ",
+    "decimals": 9,
+    "name": "YogaFerma",
+    "symbol": "AUM",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCpkuD6gpAdXWJDOLKyxx6ngDDcXz2AS85jWyDWa3qTVXYQ/29f81066a67a23992d1af9e2c594db855088229e80892ef1ee2500dca0eb5d95",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQCT7ypeejuB4qrUscbl4eoDnXOzn15ZCT_E83b9bU_-GQNs",
+    "decimals": 9,
+    "name": "AKO orbital",
+    "symbol": "AKO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCT7ypeejuB4qrUscbl4eoDnXOzn15ZCT_E83b9bU_-GQNs/6a39db25deaa538f5e70e03eb333801fb524d1782d96c4fbab43866f4fb8b531",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBbkr-QWl8fsIgOZzTUmnI8vpRzzCr8O5vRRcvWgkeg_6Lm",
+    "decimals": 9,
+    "name": "Affiliate Token",
+    "symbol": "AFL",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBbkr-QWl8fsIgOZzTUmnI8vpRzzCr8O5vRRcvWgkeg_6Lm/1bc8fac4c56c0f25f6977f416e5255a0ddc31e82dc3f94f56955ddda5a6a70fc",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBlWgKnh_qbFYTXfKgGAQPxkxFsArDOSr9nlARSzydpNPwA",
+    "decimals": 9,
+    "name": "GOVNO",
+    "symbol": "GOVNO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBlWgKnh_qbFYTXfKgGAQPxkxFsArDOSr9nlARSzydpNPwA/9ac2b37b179dadd4474fb53308cb492db1a44013d1f87bb90013f243f9082c88",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBhKT4-OaSZaxBBcvDE4u8s3L1v8u_6cHxSJQWcztld6AFt",
+    "decimals": 9,
+    "name": "Goblin World Token",
+    "symbol": "GWT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBhKT4-OaSZaxBBcvDE4u8s3L1v8u_6cHxSJQWcztld6AFt/db1f58c05b2cea649609a7226130bbb26669315802468c52428ec9855be597ac",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAzb42FJ9Jl3hznJiE1wMv-uYnArKs079cwjJq7CY46n_4M",
+    "decimals": 9,
+    "name": "Akorbital",
+    "symbol": "AKO",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAzb42FJ9Jl3hznJiE1wMv-uYnArKs079cwjJq7CY46n_4M/514df2ec676ca4c5b53be4512174f7763136e35c71c519336dbd95cc9c53bdea",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQCwIlIRZRVzdwS-iY7QJngnVCU8UMKfPhWr_KkZoQ6Mckju",
+    "decimals": 9,
+    "name": "Toncast",
+    "symbol": "TCAST",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCwIlIRZRVzdwS-iY7QJngnVCU8UMKfPhWr_KkZoQ6Mckju/72a7016a8e2422b8261ab3d7b7aa44d85fa81aa84237151a611b129764ba7a40",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDWSm618mrf84PUjlu8rAMnlTa3RGhMzWb-UadvB5vLyqCv",
+    "decimals": 9,
+    "name": "Gaileo",
+    "symbol": "GGAI",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDWSm618mrf84PUjlu8rAMnlTa3RGhMzWb-UadvB5vLyqCv/2a3420550c08c03df7222f4baa549de2c0097d259672226f4b875c2d90d14ad2",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQBFq7ccF0eSWly0yFJwlq4hguBaGVVD4lsHEbCCHashcaSH",
+    "decimals": 9,
+    "name": "Hashcash",
+    "symbol": "HASHCASH",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQBFq7ccF0eSWly0yFJwlq4hguBaGVVD4lsHEbCCHashcaSH/4261aab261cadb4b5101374ca4fbc86d4203ad7e47202ddeedfc083ef82913b3",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAjl-ne1M3Mq2qYIT-jRzjFLE7S0VR7qnMgpU6VjsPSrDIX",
+    "decimals": 9,
+    "name": "The Fund",
+    "symbol": "FUND",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAjl-ne1M3Mq2qYIT-jRzjFLE7S0VR7qnMgpU6VjsPSrDIX/b6c42924ebe0b8f45180e7e5daa2371ee9466ce28f933e31e2f305f379a243ec",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P",
+    "decimals": 9,
+    "name": "AiPhABeT",
+    "symbol": "APHBT",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P/bedcbf2574b07dd9fa3f7fdae2ff3ad4ad884d604795b717b0c0804070db9041",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQCz6YaaF4e-tHzw3oJI4ltJKXJC_1w7QwHktFUUUsLYKjHM",
+    "decimals": 9,
+    "name": "RusCoin",
+    "symbol": "RUS",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQCz6YaaF4e-tHzw3oJI4ltJKXJC_1w7QwHktFUUUsLYKjHM/abb1216e27bcc7784c7963a16218ec8a454894a110a8094ba0ba5abb4eed44b9",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAQfNrwhA5sEywrLTtsxpyQFeKRfEpLdZREZILP9z9iUjAH",
+    "decimals": 9,
+    "name": "BRINGOLD",
+    "symbol": "BRIN",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAQfNrwhA5sEywrLTtsxpyQFeKRfEpLdZREZILP9z9iUjAH/2995c94f9ffe87722035dfb3af3ca5f41ef9425b0667d71de27adb655fe4618c",
+    "coingecko_id": ""
+  },
+  {
+    "address": "EQAiD7sJ63CTYRChDxd6MBekNcXOSiC6LSdfWVgea_We8lHc",
+    "decimals": 9,
+    "name": "EXE CORE",
+    "symbol": "EXE",
+    "description": "",
+    "logoURI": "https://asset.ston.fi/img/EQAiD7sJ63CTYRChDxd6MBekNcXOSiC6LSdfWVgea_We8lHc/1fdcf4b964f3776b9052f37556a83ce0bf5573508db30cd427e401308ca3e999",
+    "coingecko_id": ""
+  }
+]
