@@ -632,7 +632,7 @@
       "PEG:USD",
       "tokens"
     ],
-    "coingeckoId": "wrapped-btc-defiverse",
+    "coingeckoId": "l2-standard-bridged-dai-base",
     "chainId": 8453
   },
   {
