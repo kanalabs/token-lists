@@ -6,7 +6,7 @@
     "address": "0x0000000000000000000000000000000000000000",
     "logoURI": "https://raw.githubusercontent.com/kanalabs/token-lists/main/icons/MOD.png",
     "tags": ["tokens"],
-    "coingeckoId": "",
+    "coingeckoId": "monad",
     "chainId": 13
   },  
   {
@@ -211,5 +211,35 @@
     "tags": ["tokens"],
     "coingeckoId": "",
     "chainId": 13
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 143
+  },
+  {
+    "symbol": "mUSD",
+    "name": "MetaMask USD",
+    "decimals": 6,
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68451/large/MetaMask-mUSD-Icon-200x200.png?1755878384",
+    "tags": [
+      "crosschain",
+      "GROUP:MUSD",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "metamask-usd",
+    "chainId": 143
   }
 ]

@@ -1037,5 +1037,33 @@
     ],
     "coingeckoId": "bingo-3",
     "chainId": 43114
+  },
+  {
+    "symbol": "GUN",
+    "name": "GUN",
+    "decimals": 18,
+    "address": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55027/large/gunz.jpg?1743262298",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "gunz",
+    "chainId": 43114
+  },
+  {
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+    "tags": [
+      "crosschain",
+      "GROUP:USDE",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "ethena-usde",
+    "chainId": 43114
   }
 ]

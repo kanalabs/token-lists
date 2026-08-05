@@ -1129,5 +1129,31 @@
     ],
     "coingeckoId": "base-is-for-everyone",
     "chainId": 8453
+  },
+  {
+    "symbol": "SYND",
+    "name": "Syndicate",
+    "decimals": 18,
+    "address": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "syndicate-3",
+    "chainId": 8453
+  },
+  {
+    "symbol": "SOL",
+    "name": "Solana",
+    "decimals": 9,
+    "address": "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "solana",
+    "chainId": 8453
   }
 ]
