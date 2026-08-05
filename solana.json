@@ -9927,5 +9927,16 @@
     "extensions": {
       "coingeckoId": "new-ancient-dna-cloned-wolf"
     }
+  },
+  {
+    "address": "CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "CASH",
+    "symbol": "CASH",
+    "logoURI": "https://token-metadata.bridge.xyz/images/cash.png",
+    "extensions": {
+      "coingeckoId": "cash-4"
+    }
   }
 ]

@@ -12360,5 +12360,48 @@
     ],
     "coingeckoId": "smardex-wrapped-usdn",
     "chainId": 1
+  },
+  {
+    "symbol": "SYND",
+    "name": "Syndicate",
+    "decimals": 18,
+    "address": "0x1bab804803159ad84b8854581aa53ac72455614e",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "syndicate-3",
+    "chainId": 1
+  },
+  {
+    "symbol": "mUSD",
+    "name": "MetaMask USD",
+    "decimals": 6,
+    "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68451/large/MetaMask-mUSD-Icon-200x200.png?1755878384",
+    "tags": [
+      "crosschain",
+      "GROUP:MUSD",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "metamask-usd",
+    "chainId": 1
+  },
+  {
+    "symbol": "USDG",
+    "name": "Global Dollar",
+    "decimals": 6,
+    "address": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+    "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/GDN-USDG-Token-512x512.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDG",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "global-dollar",
+    "chainId": 1
   }
 ]
