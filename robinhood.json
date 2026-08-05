@@ -1,0 +1,30 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "ethereum",
+    "chainId": 4663
+  },
+  {
+    "symbol": "USDG",
+    "name": "Global Dollar",
+    "decimals": 6,
+    "address": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+    "logoURI": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/GDN-USDG-Token-512x512.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDG",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "global-dollar",
+    "chainId": 4663
+  }
+]

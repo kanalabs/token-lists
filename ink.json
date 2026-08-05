@@ -1,0 +1,45 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "ethereum",
+    "chainId": 57073
+  },
+  {
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 6,
+    "address": "0x2d270e6886d130d724215a266106e6832161eaed",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 57073
+  },
+  {
+    "symbol": "USDT0",
+    "name": "Tether USDT",
+    "decimals": 6,
+    "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+    "tags": [
+      "crosschain",
+      "GROUP:USDT",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usdt0",
+    "chainId": 57073
+  }
+]
