@@ -1,0 +1,58 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "ethereum",
+    "chainId": 10
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 10
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "tags": [
+      "crosschain",
+      "GROUP:USDT",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "tether",
+    "chainId": 10
+  },
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "address": "0x4200000000000000000000000000000000000006",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/2518/large/weth.png?1696503332",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "weth",
+    "chainId": 10
+  }
+]

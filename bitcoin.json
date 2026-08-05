@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "decimals": 8,
+    "address": "bc1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqmql8k8",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "bitcoin",
+    "chainId": 8253038
+  }
+]
