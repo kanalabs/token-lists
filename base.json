@@ -49,7 +49,7 @@
     "name": "Coinbase Wrapped BTC",
     "decimals": 8,
     "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.webp",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
     "tags": [
       "crosschain",
       "GROUP:CBBTC",
@@ -383,7 +383,7 @@
     "name": "Tether USD",
     "decimals": 6,
     "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2_0x8a5ac04932b14c381524b5777f2707dd269115abdc2eecd05ab06800d5bbe277.webp",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39963/large/usdt.png?1724952731",
     "tags": [
       "crosschain",
       "PEG:USD",
@@ -480,7 +480,7 @@
     "name": "Degen",
     "decimals": 18,
     "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
-    "logoURI": "https://tokens-data.1inch.io/images/8453/0x4ed4e862860bed51a9570b96d89af5e1b0efefed.webp",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225",
     "tags": [
       "tokens"
     ],
