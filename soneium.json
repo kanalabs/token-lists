@@ -1,0 +1,244 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+    "tags": [
+      "crosschain",
+      "GROUP:ETH",
+      "native",
+      "PEG:ETH"
+    ],
+    "coingeckoId": "ethereum",
+    "chainId": 1868
+  },
+  {
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "decimals": 18,
+    "address": "0x4200000000000000000000000000000000000006",
+    "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+    "tags": [
+      "crosschain",
+      "GROUP:WETH",
+      "PEG:ETH",
+      "tokens"
+    ],
+    "coingeckoId": "superbridge-bridged-weth-soneium",
+    "chainId": 1868
+  },
+  {
+    "symbol": "USDC.e",
+    "name": "Bridged USDC (Soneium)",
+    "decimals": 6,
+    "address": "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
+    "logoURI": "https://tokens.1inch.io/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "soneium-bridged-usdc-soneium",
+    "chainId": 1868
+  },
+  {
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "logoURI": "https://tokens-data.1inch.io/images/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+    "tags": [
+      "crosschain",
+      "GROUP:WBTC",
+      "PEG:BTC",
+      "tokens"
+    ],
+    "coingeckoId": "wrapped-bitcoin",
+    "chainId": 1868
+  },
+  {
+    "symbol": "USD0",
+    "name": "Stargate USD0 (Bridged)",
+    "decimals": 6,
+    "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "logoURI": "https://assets.coingecko.com/coins/images/69528/standard/usdt0.jpg",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "stargate-bridged-usdt0",
+    "chainId": 1868
+  },
+  {
+    "symbol": "ASTR",
+    "name": "Astar Token",
+    "decimals": 18,
+    "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
+    "logoURI": "https://assets.coingecko.com/coins/images/53778/standard/astar.jpg",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "soneium-bridged-astar-soneium",
+    "chainId": 1868
+  },
+  {
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
+    "logoURI": "https://tokens-data.1inch.io/images/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "soneium-bridged-usdt-soneium",
+    "chainId": 1868
+  },
+  {
+    "symbol": "pufETH",
+    "name": "pufETH",
+    "decimals": 18,
+    "address": "0x6c460b2c6d6719562d5da43e5152b375e79b9a8b",
+    "logoURI": "https://assets.coingecko.com/coins/images/35176/standard/pufETH-200-200-resolution.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "pufeth",
+    "chainId": 1868
+  },
+  {
+    "symbol": "SolvBTC",
+    "name": "SolvBTC",
+    "decimals": 18,
+    "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "solv-btc",
+    "chainId": 1868
+  },
+  {
+    "symbol": "nsASTR",
+    "name": "Neemo Staked Astar",
+    "decimals": 18,
+    "address": "0xc67476893c166c537afd9bc6bc87b3f228b44337",
+    "logoURI": "https://assets.coingecko.com/coins/images/53907/standard/nsASTR_2x.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "neemo-staked-astar",
+    "chainId": 1868
+  },
+  {
+    "symbol": "yaySTONE",
+    "name": "Yay StakeStone Ether",
+    "decimals": 18,
+    "address": "0x54e86315c03217b76a7466c302245fd10ebef25a",
+    "logoURI": "https://assets.coingecko.com/coins/images/54279/standard/Yay!_Stone200w.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "yay-stakestone-ether",
+    "chainId": 1868
+  },
+  {
+    "symbol": "wstASTR",
+    "name": "Warpped stASTR",
+    "decimals": 18,
+    "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
+    "logoURI": "https://assets.coingecko.com/coins/images/54782/standard/wstASTR.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "wrapped-stastr",
+    "chainId": 1868
+  },
+  {
+    "symbol": "vASTR",
+    "name": "Bifrost Voucher ASTR",
+    "decimals": 18,
+    "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
+    "logoURI": "https://assets.coingecko.com/coins/images/34706/standard/vASTR.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "bifrost-voucher-astr",
+    "chainId": 1868
+  },
+  {
+    "symbol": "ARCAS",
+    "name": "Arcas",
+    "decimals": 18,
+    "address": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
+    "logoURI": "https://assets.coingecko.com/coins/images/17404/standard/Arcas_Logo.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "block-ape-scissors",
+    "chainId": 1868
+  },
+  {
+    "symbol": "oUSDT",
+    "name": "OpenUSDT",
+    "decimals": 6,
+    "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "logoURI": "https://assets.coingecko.com/coins/images/54815/standard/ousdt.jpg",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "openusdt",
+    "chainId": 1868
+  },
+  {
+    "symbol": "sSuperUSD",
+    "name": "sSuperUSD boring vault",
+    "decimals": 6,
+    "address": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd",
+    "logoURI": "https://assets.coingecko.com/coins/images/67821/standard/sSuperUSD_200x200.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "superreturn-ssuperusd",
+    "chainId": 1868
+  },
+  {
+    "symbol": "USDSC",
+    "name": "Startale USD",
+    "decimals": 6,
+    "address": "0x3f99231dd03a9f0e7e3421c92b7b90fbe012985a",
+    "logoURI": "https://assets.coingecko.com/coins/images/70883/standard/stataleusd_2x.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "startale-usd",
+    "chainId": 1868
+  },
+  {
+    "symbol": "SolvBTC.JUP",
+    "name": "SolvBTC Jupiter",
+    "decimals": 18,
+    "address": "0xaffeb8576b927050f5a3b6fba43f360d2883a118",
+    "logoURI": "https://assets.coingecko.com/coins/images/54834/standard/solvBTC_Jupiter.png",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "solv-protocol-solvbtc-jupiter",
+    "chainId": 1868
+  }
+]
