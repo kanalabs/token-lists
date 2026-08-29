@@ -4971,5 +4971,33 @@
     ],
     "coingeckoId": "bad-coin",
     "chainId": 56
+  },
+  {
+    "symbol": "SOMI",
+    "name": "Somnia",
+    "decimals": 18,
+    "address": "0xa9616e5e23ec1582c2828b025becf3ef610e266f",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68061/large/somi-token-roundel-1.png?1776903324",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "somnia",
+    "chainId": 56
+  },
+  {
+    "symbol": "USDe",
+    "name": "USDe",
+    "decimals": 18,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+    "tags": [
+      "crosschain",
+      "GROUP:USDE",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "ethena-usde",
+    "chainId": 56
   }
 ]

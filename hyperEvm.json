@@ -1,0 +1,60 @@
+[
+  {
+    "symbol": "HYPE",
+    "name": "HYPE",
+    "decimals": 18,
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+    "tags": [
+      "crosschain",
+      "tokens"
+    ],
+    "coingeckoId": "hyperliquid",
+    "chainId": 999
+  },
+  {
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 6,
+    "address": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+    "tags": [
+      "crosschain",
+      "GROUP:USDC",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usd-coin",
+    "chainId": 999
+  },
+  {
+    "symbol": "USD₮0",
+    "name": "USD₮0",
+    "decimals": 6,
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+    "tags": [
+      "crosschain",
+      "GROUP:USDT",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "usdt0",
+    "chainId": 999
+  },
+  {
+    "symbol": "USDe",
+    "name": "USDeOFT",
+    "decimals": 18,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+    "tags": [
+      "crosschain",
+      "GROUP:USDE",
+      "PEG:USD",
+      "tokens"
+    ],
+    "coingeckoId": "ethena-usde",
+    "chainId": 999
+  }
+]
