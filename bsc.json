@@ -5000,4 +5000,15 @@
     "coingeckoId": "ethena-usde",
     "chainId": 56
   }
-]
+]و
+{
+  "symbol": "QWBQ",
+  "name": "Quazenthor",
+  "decimals": 18,
+  "address": "0x013f5f2F7F5b027012415A783ac2ed69EF936aE8",
+  "logoURI": "https://quazenthor.com/logo.png",
+  "tags": [
+    "tokens"
+  ],
+  "chainId": 56
+}
